@@ -1,0 +1,91 @@
+# 把这个文件放到 GitHub 仓库的 .github/workflows/daily.yml
+# 作用：
+#   1) 每天北京时间 08:30 自动扫描一次 QDII 基金申购状态/限额，有变动才发邮件（无变动不打扰）；
+#   2) 同一次运行里重新生成监控页面，并自动部署到 GitHub Pages —— 手机上随时能打开最新页面。
+# 部署前置条件（只需做一次）：仓库 Settings → Pages → Build and deployment → Source 选 “GitHub Actions”。
+# 详细图文步骤见《GitHub_Pages_部署说明.md》，邮件相关见《每日自动运行说明.md》。
+name: QDII Daily Scan & Deploy Pages
+
+on:
+  schedule:
+    # 定时用 UTC 时间：00:30 UTC = 北京时间 08:30
+    - cron: "30 0 * * *"
+  workflow_dispatch: {}   # 支持在网页上点按钮手动跑一次
+
+permissions:
+  contents: write         # 允许把最新数据与页面提交回仓库
+  pages: write            # 允许部署 GitHub Pages
+  id-token: write         # deploy-pages 需要的 OIDC 令牌
+
+concurrency:
+  group: qdii-daily
+  cancel-in-progress: false
+
+jobs:
+  # ========== 第一步：抓数据、发邮件、回写仓库、上传 Pages 产物 ==========
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: 拉取仓库
+        uses: actions/checkout@v4
+
+      - name: 准备 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 扫描（抓数据 + 比对快照 + 重生成页面）
+        run: python scan.py
+
+      - name: 有变动才发邮件
+        run: python notify.py
+        env:
+          # 在仓库 Settings → Secrets and variables → Actions 里新增这 5 个 Secret
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_SENDER: ${{ secrets.SMTP_SENDER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          SMTP_RECEIVERS: ${{ secrets.SMTP_RECEIVERS }}
+
+      - name: 把最新数据与页面提交回仓库
+        run: |
+          git config user.name  "qdii-monitor-bot"
+          git config user.email "qdii-monitor-bot@users.noreply.github.com"
+          git add -A data qdii_nasdaq_sp500_monitor.html
+          if git diff --cached --quiet; then
+            echo "本次无变化，无需提交"
+          else
+            git commit -m "auto scan: $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
+
+      - name: 打包 Pages 站点目录
+        run: |
+          # scan.py 每次都会把同一份页面同时写成 index.html（站点入口）；
+          # .nojekyll 用于关闭 Jekyll 处理，保证页面原样发布。
+          mkdir -p _site
+          cp index.html _site/index.html
+          touch _site/.nojekyll
+          ls -la _site
+
+      - name: 上传 Pages 产物
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  # ========== 第二步：把刚生成的页面部署到 GitHub Pages ==========
+  deploy:
+    needs: scan
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: 部署到 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

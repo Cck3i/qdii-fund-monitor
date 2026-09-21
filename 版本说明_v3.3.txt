@@ -1,0 +1,93 @@
+QDII 场外基金监控 · 版本说明（v3.3）
+=====================================
+
+版本：v3.3
+生成日期：2026-09-21
+基线：v3.2（v3.2 全部功能与数据校验逻辑保留，本版只做移动端适配与部署链路，不改数据口径）
+
+本版主题
+--------------------------------
+iPhone 移动端适配（触摸交互 + 安全区 + 窄屏排布）与 GitHub Pages 自动部署链路。
+
+如何确认你手上的是 v3.3
+--------------------------------
+1. 用手机或浏览器开发者工具切到「手机」模式打开页面，页首三张指数走势图（指数走势图卡片）：
+   手指点按或按住横向拖动，会浮出该日的 OHLC 数值框；手指抬起即自动消失（不再只支持鼠标悬停）。
+2. 「基金自助对比 → 业绩走势图」：同样支持手指点按 / 按住拖动查看任意日期，松手复位；
+   图上提示文字已改为「悬停 / 拖动查看任意日期」，右侧说明段落同步写明「鼠标移入或按住拖动」。
+3. 「历史定投推演」：动画播放期间手指点按无反应，动画结束后即可按住拖动查看数值。
+4. 竖屏宽 375~430px 下：卡片与表格不横向溢出，图表完整显示（不再左右裁切、不再出现横向最小宽度导致的可滚动空白），
+   推演图下方的「年度明细」表格在窄屏可横向滚动，不撑破卡片。
+5. iPhone 上添加到主屏幕后全屏打开：顶部标题不被刘海/灵动岛遮挡，底部内容不被 Home 指示条压住；
+   页面标题为「QDII 监控」。
+6. 项目根目录应存在 `index.html`（站点入口）与 `.nojekyll`，二者由 scan.py 每次运行自动生成；
+   `cloud-github-actions/daily.yml` 中应含 `deploy` 作业与 `actions/deploy-pages`；
+   并新增《GitHub_Pages_部署说明.md》。
+
+一、三张走势图统一支持触摸查看数值
+--------------------------------
+1. 交互从「仅鼠标悬停」扩展为 pointer 事件，鼠标与手指共用同一套命中逻辑：
+   · 指数走势图：`pointerdown` 按住后进入 held 状态，`pointermove` 更新数值框，`pointerup / pointercancel` 复位；
+     未按住时纵向滑动页面不会误触（held 守卫）。
+   · 对比业绩走势图：`pointerdown` → `setPointerCapture` 锁定指针 → `pointermove` 按 clientX 换算日期 → 手指抬起复位；
+     监听器每个 SVG 只绑一次（`svg.__bound` 标记），重绘只更新数据引用，避免反复重绘叠加监听。
+   · 推演走势图：同样走 pointer 事件，但受 `isDone` 守卫——动画未播完不响应，播完才可拖动。
+2. 图表容器加 `touch-action:pan-y`：横向拖动看数值时不滚动页面；同时关闭长按选中/长按菜单
+   （`user-select:none`、`-webkit-touch-callout:none`），避免 iOS 长按弹「拷贝」气泡。
+3. 鼠标端行为不变：仍保留悬停（mousemove / pointerenter）查看数值，桌面体验不受影响。
+4. 视口宽度变化（含横竖屏切换）时，变化超过 60px 会按新宽度重排走势图（220ms 防抖，监听 resize 与 orientationchange）。
+
+二、iOS 安全区适配
+--------------------------------
+1. 新增 CSS 变量 `--sat / --sab / --sal / --sar`，默认 0px；用 `@supports (padding: env(safe-area-inset-top))`
+   包裹，仅在支持 env() 的设备上取真实值（`env(safe-area-inset-*, 0px)`）。
+2. 页面主容器改为 `padding: calc(22px + var(--sat)) calc(20px + var(--sar)) calc(70px + var(--sab)) calc(20px + var(--sal))`：
+   顶部避开刘海/灵动岛，底部避开 Home 指示条。
+3. 页首 meta 补 `apple-mobile-web-app-capable`、`apple-mobile-web-app-status-bar-style=black-translucent`、
+   `apple-mobile-web-app-title=QDII 监控`（添加到主屏幕后的名称）、`viewport-fit=cover`
+   （缺失 viewport-fit=cover 时 env(safe-area-inset-*) 在 iPhone 上恒为 0）。
+
+三、窄屏（375~430px）排布复核
+--------------------------------
+1. 走势图几何改为按容器宽度自适应（`pickTrendGeom`）：容器 ≥700px 时维持原 1000×404 画布；
+   窄屏时 viewBox 宽度取容器宽度（最小 300），使 1 用户单位 ≈ 1 CSS 像素，轴标签字号不再被压缩。
+2. 窄屏取消图表的横向最小宽度（`svg.fit { min-width:0 }`），图表完整显示；
+   纵轴刻度改画进绘图区内侧（起始对齐），避免窄画布上标签被挤出边界。
+3. 指数走势图与推演图的窄屏几何（`simGeom()`）同步调整；推演年度明细表外层加可横向滚动容器。
+4. 表格类内容窄屏可横向滚动，卡片内边距按安全区收缩；输入类控件在 iOS 上字号不小于 16px
+   （`input,select,textarea{font-size:16px}`），避免聚焦时 Safari 自动放大页面。
+5. 全页 `-webkit-text-size-adjust:100%`，横屏时文字不被 iOS 自动放大。
+
+四、GitHub Pages 部署链路
+--------------------------------
+1. scan.py 每次运行除生成 `qdii_nasdaq_sp500_monitor.html` 外，同时输出**站点入口 `index.html`**
+   （内容与当日页面一致），并在项目根目录写入 0 字节的 `.nojekyll`（关闭 Jekyll 处理，保证页面原样发布）。
+2. `cloud-github-actions/daily.yml` 由「仅扫描 + 提交」扩展为「抓数生成页面 + 自动部署 Pages」：
+   · `scan` 作业：拉取仓库 → 装依赖 → 运行 scan.py → 有变动才发邮件 → 提交 `data/` 与当日页面回仓库
+     → 打包 `_site/`（index.html + .nojekyll）→ 上传 Pages 产物；
+   · `deploy` 作业：`actions/deploy-pages` 发布到 GitHub Pages，`needs: scan`；
+   · 权限补 `pages: write` 与 `id-token: write`；并发组 `qdii-daily` 避免两次运行互相覆盖。
+   · 定时仍为 `30 0 * * *`（UTC），即北京时间 08:30；保留 `workflow_dispatch` 手动触发。
+3. `.gitignore` 增补 `.cache/`、`index.html`、`.nojekyll`
+   （后两者为 Actions 模式下由 workflow 直接上传的产物，不必提交；若改用分支模式部署，删掉这两行并提交一次即可）。
+4. 新增《GitHub_Pages_部署说明.md》：注册账号 → 建 Public 仓库 → 上传文件（网页 / git 两种方式，含上传清单与
+   禁止上传项）→ 放置 workflow → 开启 Pages（Source 选 GitHub Actions）→ 配置 5 个 SMTP Secrets →
+   手动跑一次验证 → iPhone Safari 添加到主屏幕，附 10 条常见问题。
+5. 《每日自动运行说明.md》同步更新：仓库可见性由「必须 Private」改为「要用 Pages 必须 Public」，
+   workflow 名称改为 QDII Daily Scan & Deploy Pages，手动验证步骤改为两个作业。
+
+五、验证记录
+--------------------------------
+1. 全量重跑 `python scan.py` 成功（约 48 秒），产出
+   `qdii_nasdaq_sp500_monitor.html` 与 `index.html`（均为 900,749 字节，内容一致）及 `.nojekyll`。
+2. 生成页内静态校验：`viewport-fit=cover`、`env(safe-area-inset-*)`、`--sat` 变量、
+   `touch-action:pan-y`、窄屏几何函数 `pickTrendGeom`、`svg.__bound` 绑定标记、
+   `window.__qdiiRenderTrend` 重排入口、年度明细滚动容器等关键标记全部存在；
+   旧的固定几何与旧字号残留均为 0 处；JS 语法校验通过。
+3. 触摸交互覆盖三张图（指数 / 对比 / 推演），鼠标端悬停逻辑保留。
+
+六、已知限制
+--------------------------------
+1. 免费版 GitHub Pages 只支持 Public 仓库，仓库内容（基金名单、限额快照、净值数据）公开可见。
+2. `data/mail_config.json` 含 SMTP 授权码明文，始终禁止上传；云端发信通过 GitHub Secrets 注入。
+3. 走 iPhone 触摸查看数值时，数值框位置以指针为锚点并向容器内收边，极窄屏下可能与曲线局部重叠（可接受）。

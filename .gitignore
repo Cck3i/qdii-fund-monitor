@@ -1,0 +1,51 @@
+# ============================================================
+# QDII 基金监控 · 推送 GitHub 前的忽略规则
+# 说明：本项目为 Public 仓库（GitHub Pages 需要），
+#       任何含密钥、授权码、个人账号的文件一律不得入库。
+# ============================================================
+
+# ---------- 1. 敏感配置（最高优先级，务必保留） ----------
+# SMTP 邮箱配置含「授权码明文」，禁止提交到任何仓库
+data/mail_config.json
+mail_config.json
+data/mail_config*.json
+*.env
+.env.*
+!*.env.example
+
+# ---------- 2. Python 运行缓存与虚拟环境 ----------
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+env/
+
+# ---------- 3. 本地日志 ----------
+*.log
+run_log.txt
+logs/
+
+# ---------- 4. 抓数缓存（体积大，无需入库） ----------
+.cache/
+
+# ---------- 5. 系统 / 编辑器临时文件 ----------
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.tmp
+*.bak
+*.swp
+.idea/
+.vscode/
+
+# ---------- 6. Pages 站点入口（Actions 模式下由 workflow 直接上传部署） ----------
+# scan.py 每次运行会自动写出 index.html 与 .nojekyll；本仓库采用
+# 「GitHub Actions」作为 Pages 源，二者由 daily.yml 打包 _site/ 上传，不入库。
+# 若你改用「分支模式（Deploy from a branch）」部署，请删除下面两行并提交一次。
+index.html
+.nojekyll
