@@ -21,7 +21,7 @@ iPhone 移动端适配（触摸交互 + 安全区 + 窄屏排布）与 GitHub Pa
 5. iPhone 上添加到主屏幕后全屏打开：顶部标题不被刘海/灵动岛遮挡，底部内容不被 Home 指示条压住；
    页面标题为「QDII 监控」。
 6. 项目根目录应存在 `index.html`（站点入口）与 `.nojekyll`，二者由 scan.py 每次运行自动生成；
-   `cloud-github-actions/daily.yml` 中应含 `deploy` 作业与 `actions/deploy-pages`；
+   `.github/workflows/daily.yml` 中应含 `deploy` 作业与 `actions/deploy-pages`；
    并新增《GitHub_Pages_部署说明.md》。
 
 一、三张走势图统一支持触摸查看数值
@@ -62,7 +62,8 @@ iPhone 移动端适配（触摸交互 + 安全区 + 窄屏排布）与 GitHub Pa
 --------------------------------
 1. scan.py 每次运行除生成 `qdii_nasdaq_sp500_monitor.html` 外，同时输出**站点入口 `index.html`**
    （内容与当日页面一致），并在项目根目录写入 0 字节的 `.nojekyll`（关闭 Jekyll 处理，保证页面原样发布）。
-2. `cloud-github-actions/daily.yml` 由「仅扫描 + 提交」扩展为「抓数生成页面 + 自动部署 Pages」：
+2. workflow 文件（v3.3 发布时位于 `cloud-github-actions/daily.yml`，现已移至 `.github/workflows/daily.yml`）
+   由「仅扫描 + 提交」扩展为「抓数生成页面 + 自动部署 Pages」：
    · `scan` 作业：拉取仓库 → 装依赖 → 运行 scan.py → 有变动才发邮件 → 提交 `data/` 与当日页面回仓库
      → 打包 `_site/`（index.html + .nojekyll）→ 上传 Pages 产物；
    · `deploy` 作业：`actions/deploy-pages` 发布到 GitHub Pages，`needs: scan`；
@@ -91,3 +92,11 @@ iPhone 移动端适配（触摸交互 + 安全区 + 窄屏排布）与 GitHub Pa
 1. 免费版 GitHub Pages 只支持 Public 仓库，仓库内容（基金名单、限额快照、净值数据）公开可见。
 2. `data/mail_config.json` 含 SMTP 授权码明文，始终禁止上传；云端发信通过 GitHub Secrets 注入。
 3. 走 iPhone 触摸查看数值时，数值框位置以指针为锚点并向容器内收边，极窄屏下可能与曲线局部重叠（可接受）。
+
+七、发布后的路径变更
+--------------------------------
+1. workflow 文件已从 `cloud-github-actions/daily.yml` 移动到 `.github/workflows/daily.yml`
+   （GitHub Actions 只识别 `.github/workflows/` 路径），空的 `cloud-github-actions/` 目录已删除；
+   本文档中出现的旧路径一律以 `.github/workflows/daily.yml` 为准。
+2. 同步更新《GitHub_Pages_部署说明.md》与《每日自动运行说明.md》中所有旧路径引用
+   （文件清单、上传清单与禁止上传项、手动新建 workflow 的步骤说明），保证说明与仓库实际结构一致。

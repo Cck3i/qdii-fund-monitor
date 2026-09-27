@@ -60,7 +60,8 @@
 | `run_daily.bat`、`install_windows.bat`、`run_daily.sh`、`install_mac_linux.sh` | `.cache\` 文件夹 —— 抓数缓存，体积大且无用 |
 | `data\` 里的全部 json（`snapshot.json`、`change_history.json`、`history.json`、`nav_series.json` 等），但**不含** `mail_config.json` | `__pycache__\`、`run_log.txt` —— 本机运行缓存与日志 |
 | `.gitignore`、`每日自动运行说明.md`、本部署说明 | `index.html`、`.nojekyll` —— 云端每次运行会自动生成 |
-| `qdii_nasdaq_sp500_monitor.html`（可传可不传，传了便于在仓库里直接看） | `cloud-github-actions\` 文件夹 —— 云端要的是 `.github/workflows/` 位置，第四步单独新建 |
+| `.github\workflows\daily.yml`（每日抓数 + 自动部署的 workflow，**必须传**） | 旧目录 `cloud-github-actions\` —— 已废弃（其 `daily.yml` 已移至 `.github\workflows\`） |
+| `qdii_nasdaq_sp500_monitor.html`（可传可不传，传了便于在仓库里直接看） | 无 |
 
 3. 页面下方点 **Commit changes**，再点一次绿色 **Commit changes**
 
@@ -90,9 +91,11 @@ git push -u origin main
 ## 四、加上"每日抓数 + 自动部署"的 workflow
 
 1. 仓库页 **Add file → Create new file**
-2. 文件名框输入 `.github/workflows/daily.yml`（输入 `/` 会自动建目录，位置必须是 `.github/workflows/`，不是 `cloud-github-actions/`）
-3. 用记事本打开本地项目的 `cloud-github-actions\daily.yml`，全选复制，粘贴进网页编辑框
+2. 文件名框输入 `.github/workflows/daily.yml`（输入 `/` 会自动建目录，位置必须是 `.github/workflows/`）
+3. 用记事本打开本地项目的 `.github\workflows\daily.yml`，全选复制，粘贴进网页编辑框
 4. 右上 **Commit changes**
+
+> 本项目的 workflow 文件已经放在 `.github\workflows\daily.yml`（原 `cloud-github-actions\` 目录已废弃并删除）：第三节用**方式 A（网页上传）**时把 `.github` 文件夹一起拖上去、用**方式 B（git 命令）**时随 `git push` 自动到位，两种情况本节 1~4 步都可跳过；只有上传时漏掉了 `.github` 文件夹，才需要按本节手动新建。
 
 这个 workflow 每天会做四件事：
 
