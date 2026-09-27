@@ -47,7 +47,7 @@
 
 ## 三、把项目文件传到仓库
 
-先打开本地项目文件夹 `C:\Users\Cooke\Desktop\新建文件夹 (2)\QDII_监控_v3.0`，看清里面有什么，尤其是 `data\mail_config.json`（记住它，别传）。
+先打开本地项目文件夹 `D:\QDII监控`，看清里面有什么，尤其是 `data\mail_config.json`（记住它，别传）。
 
 ### 方式 A：网页上传（不用装软件，推荐新手）
 
@@ -72,7 +72,7 @@
 项目自带 `.gitignore`（已排除 `mail_config.json`、`.cache/` 等），直接在本地项目目录执行：
 
 ```
-cd /d "C:\Users\Cooke\Desktop\新建文件夹 (2)\QDII_监控_v3.0"
+cd /d "D:\QDII监控"
 git init
 git add .
 git commit -m "init: QDII monitor"
