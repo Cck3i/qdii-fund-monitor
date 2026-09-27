@@ -49,3 +49,6 @@ desktop.ini
 # 若你改用「分支模式（Deploy from a branch）」部署，请删除下面两行并提交一次。
 index.html
 .nojekyll
+
+# ---------- 7. 本地归档目录（内含 v3.0 自动运行包，zip 中有 mail_config.json 授权码明文，禁止入库） ----------
+_归档*/
