@@ -1320,7 +1320,7 @@
     "url": "https://fund.eastmoney.com/gonggao/014978,AN202609181829589868.html"
    }
   ],
-  "changed": true
+  "changed": false
  },
  {
   "code": "015299",
@@ -1506,6 +1506,13 @@
   },
   "holdings": [
    {
+    "code": "920136",
+    "name": "永励精密",
+    "pct": 0.0,
+    "chg": "0",
+    "chgType": "新增"
+   },
+   {
     "code": "920193",
     "name": "吉和昌",
     "pct": 0.0,
@@ -1515,13 +1522,6 @@
    {
     "code": "920189",
     "name": "康美特",
-    "pct": 0.0,
-    "chg": "0",
-    "chgType": "新增"
-   },
-   {
-    "code": "920136",
-    "name": "永励精密",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -1623,13 +1623,6 @@
   },
   "holdings": [
    {
-    "code": "920193",
-    "name": "吉和昌",
-    "pct": 0.0,
-    "chg": "0",
-    "chgType": "新增"
-   },
-   {
     "code": "920136",
     "name": "永励精密",
     "pct": 0.0,
@@ -1639,6 +1632,13 @@
    {
     "code": "920189",
     "name": "康美特",
+    "pct": 0.0,
+    "chg": "0",
+    "chgType": "新增"
+   },
+   {
+    "code": "920193",
+    "name": "吉和昌",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -3165,7 +3165,7 @@
     "url": "https://fund.eastmoney.com/gonggao/018966,AN202609221829742553.html"
    }
   ],
-  "changed": true
+  "changed": false
  },
  {
   "code": "018967",
@@ -3255,7 +3255,7 @@
     "url": "https://fund.eastmoney.com/gonggao/018967,AN202609221829742553.html"
    }
   ],
-  "changed": true
+  "changed": false
  },
  {
   "code": "018968",
@@ -4250,6 +4250,11 @@
   },
   "notices": [
    {
+    "date": "2026-09-28",
+    "title": "关于万家纳斯达克100指数型发起式证券投资基金(QDII)取消总规模上限的公告",
+    "url": "https://fund.eastmoney.com/gonggao/019441,AN202609281829947820.html"
+   },
+   {
     "date": "2026-09-23",
     "title": "关于万家纳斯达克100指数型发起式证券投资基金(QDII)调整大额申购(含定期定额投资)业务金额限制并调整总规模上限的公告",
     "url": "https://fund.eastmoney.com/gonggao/019441,AN202609231829774454.html"
@@ -4258,14 +4263,9 @@
     "date": "2026-09-10",
     "title": "关于万家纳斯达克100指数型发起式证券投资基金(QDII)调整大额申购(含定期定额投资)业务金额限制并调整总规模上限的公告",
     "url": "https://fund.eastmoney.com/gonggao/019441,AN202609091829169340.html"
-   },
-   {
-    "date": "2026-09-09",
-    "title": "关于万家纳斯达克100指数型发起式证券投资基金(QDII)调整大额申购(含定期定额投资)业务金额限制并设置总规模上限的公告",
-    "url": "https://fund.eastmoney.com/gonggao/019441,AN202609081829134250.html"
    }
   ],
-  "changed": true
+  "changed": false
  },
  {
   "code": "019442",
@@ -4416,6 +4416,11 @@
   },
   "notices": [
    {
+    "date": "2026-09-28",
+    "title": "关于万家纳斯达克100指数型发起式证券投资基金(QDII)取消总规模上限的公告",
+    "url": "https://fund.eastmoney.com/gonggao/019442,AN202609281829947820.html"
+   },
+   {
     "date": "2026-09-23",
     "title": "关于万家纳斯达克100指数型发起式证券投资基金(QDII)调整大额申购(含定期定额投资)业务金额限制并调整总规模上限的公告",
     "url": "https://fund.eastmoney.com/gonggao/019442,AN202609231829774454.html"
@@ -4424,14 +4429,9 @@
     "date": "2026-09-10",
     "title": "关于万家纳斯达克100指数型发起式证券投资基金(QDII)调整大额申购(含定期定额投资)业务金额限制并调整总规模上限的公告",
     "url": "https://fund.eastmoney.com/gonggao/019442,AN202609091829169340.html"
-   },
-   {
-    "date": "2026-09-09",
-    "title": "关于万家纳斯达克100指数型发起式证券投资基金(QDII)调整大额申购(含定期定额投资)业务金额限制并设置总规模上限的公告",
-    "url": "https://fund.eastmoney.com/gonggao/019442,AN202609081829134250.html"
    }
   ],
-  "changed": true
+  "changed": false
  },
  {
   "code": "019524",
@@ -4526,7 +4526,7 @@
     "url": "https://fund.eastmoney.com/gonggao/019524,AN202609221829732369.html"
    }
   ],
-  "changed": true
+  "changed": false
  },
  {
   "code": "019525",
@@ -4621,7 +4621,7 @@
     "url": "https://fund.eastmoney.com/gonggao/019525,AN202609221829732369.html"
    }
   ],
-  "changed": true
+  "changed": false
  },
  {
   "code": "019547",
@@ -4977,7 +4977,7 @@
     "url": "https://fund.eastmoney.com/gonggao/019736,AN202609071829086210.html"
    }
   ],
-  "changed": true
+  "changed": false
  },
  {
   "code": "019737",
@@ -5143,7 +5143,7 @@
     "url": "https://fund.eastmoney.com/gonggao/019737,AN202609071829086210.html"
    }
   ],
-  "changed": true
+  "changed": false
  },
  {
   "code": "019738",
@@ -5155,7 +5155,7 @@
   "catName": "纳斯达克100",
   "indexName": "纳斯达克100指数",
   "indexCode": "NDX100",
-  "te": "",
+  "te": "1.70%",
   "feeTotal": "0.65%",
   "company": "宝盈基金",
   "manager": "蔡丹",
@@ -5321,7 +5321,7 @@
   "catName": "纳斯达克100",
   "indexName": "纳斯达克100指数",
   "indexCode": "NDX100",
-  "te": "",
+  "te": "1.70%",
   "feeTotal": "0.90%",
   "company": "宝盈基金",
   "manager": "蔡丹",
@@ -5731,7 +5731,7 @@
     "url": "https://fund.eastmoney.com/gonggao/021773,AN202609221829742553.html"
    }
   ],
-  "changed": true
+  "changed": false
  },
  {
   "code": "021778",
@@ -6182,7 +6182,7 @@
     "url": "https://fund.eastmoney.com/gonggao/022664,AN202609221829732369.html"
    }
   ],
-  "changed": true
+  "changed": false
  },
  {
   "code": "023422",
@@ -6533,7 +6533,7 @@
     "url": "https://fund.eastmoney.com/gonggao/040046,AN202609181829589868.html"
    }
   ],
-  "changed": true
+  "changed": false
  },
  {
   "code": "040047",
@@ -6889,7 +6889,7 @@
     "url": "https://fund.eastmoney.com/gonggao/160213,AN202609211829695576.html"
    }
   ],
-  "changed": true
+  "changed": false
  },
  {
   "code": "161130",
@@ -8946,7 +8946,7 @@
     "url": "https://fund.eastmoney.com/gonggao/017091,AN202609161829443428.html"
    }
   ],
-  "changed": true
+  "changed": false
  },
  {
   "code": "017092",
@@ -9136,7 +9136,7 @@
     "url": "https://fund.eastmoney.com/gonggao/017093,AN202609161829443428.html"
    }
   ],
-  "changed": true
+  "changed": false
  },
  {
   "code": "017436",
@@ -10842,7 +10842,7 @@
     "url": "https://fund.eastmoney.com/gonggao/019118,AN202609181829590439.html"
    }
   ],
-  "changed": true
+  "changed": false
  },
  {
   "code": "019305",
