@@ -550,6 +550,10 @@ HTML = r"""<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
 <meta charset="utf-8">
+<!-- v3.4 防缓存：浏览器 / 移动端长缓存会让人看到旧页面，这里显式声明不缓存 -->
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
@@ -612,6 +616,12 @@ h1 em{font-style:normal;font-weight:400;opacity:.62;font-size:14px;letter-spacin
 .hero p.cn{margin:6px 0 0;font-size:13.5px;opacity:.82;line-height:1.6;max-width:760px}
 .hero-meta{margin-top:18px;display:flex;gap:10px;flex-wrap:wrap;font-size:12px;opacity:.9}
 .pillglass{background:var(--glass);border:1px solid rgba(255,255,255,.2);border-radius:999px;padding:5px 12px;backdrop-filter:blur(10px)}
+/* v3.4 顶部时间标注：指数数据日期 / 本次扫描时间（北京）/ 下次更新时间，三行竖排 */
+.databar{margin-top:12px;display:flex;flex-direction:column;gap:6px;font-size:12.5px;opacity:.95}
+.databar .row{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap;background:var(--glass);border:1px solid rgba(255,255,255,.2);border-radius:12px;padding:7px 12px;backdrop-filter:blur(10px)}
+.databar .row .k{color:rgba(255,255,255,.74);min-width:172px}
+.databar .row b{color:#fff;font-size:14px;font-weight:600;font-variant-numeric:tabular-nums}
+.databar .row em{font-style:normal;color:rgba(255,255,255,.6);font-size:11.5px}
 .icon-btn{width:38px;height:38px;border-radius:12px;border:1px solid rgba(255,255,255,.22);background:var(--glass);
   color:#fff;cursor:pointer;display:grid;place-items:center;backdrop-filter:blur(10px);transition:.2s}
 .icon-btn:hover{background:rgba(255,255,255,.24);transform:translateY(-1px)}
@@ -1082,6 +1092,12 @@ html{-webkit-text-size-adjust:100%;text-size-adjust:100%}
       <span class="pillglass"><svg class="ic"><use href="#i-layers"/></svg> 监控 <b>__COUNT__</b> 只基金</span>
       <span class="pillglass"><svg class="ic"><use href="#i-clock"/></svg> 扫描时间 <b>__TS__</b></span>
       <span class="pillglass"><svg class="ic"><use href="#i-globe"/></svg> 数据源：天天基金（净值 / 申购 / 限额）· 腾讯 · 新浪 · CNBC · 纳斯达克官方（指数多源交叉校验）</span>
+    </div>
+    <!-- v3.4 顶部时间标注：三行说明数据时间口径，避免把「未收盘 / 休市 / 调度延迟」误判为没更新 -->
+    <div class="databar">
+      <div class="row"><span class="k">指数数据日期（美东）</span><b>__IDXDATE__</b><em>最近已收盘交易日</em></div>
+      <div class="row"><span class="k">本次扫描时间（北京时间）</span><b>__SCANBJ__</b><em>已按 UTC+8 换算</em></div>
+      <div class="row"><span class="k">下次更新（北京时间）</span><b>06:30 前后</b><em>GitHub 调度可能延迟；另有 09:30 兜底补跑一次</em></div>
     </div>
     <div class="idxrow" id="idxrow"></div>
     <div class="idxnote" id="idxnote">__IDXNOTE__</div>
@@ -3507,11 +3523,14 @@ def gen_html(funds, news, changes, idx, ts, history=None, hist2=None, nav=None, 
                  f"（属净值发布与缓存时差，不改变走势形态）；"
                  if verify.get("navSerN") else "")
               + f"{idx_txt}。")
+    # v3.4 顶部标注用：指数数据日期（美东口径，多源校验后的日期字段）
+    idx_date_et = h(m.get("quoteDate") or (idx[0].get("date") if idx else "")) or "—"
     html = (HTML.replace("__DATA__", data).replace("__NEWS__", nw).replace("__CHANGES__", ch)
             .replace("__HISTORY__", hi)
             .replace("__IDX__", ix).replace("__HIST2__", h2).replace("__NAV__", nv)
             .replace("__IDXT__", it_).replace("__VERIFY__", vn).replace("__IDXNOTE__", note)
             .replace("__COUNT__", str(len(funds))).replace("__TS__", ts)
+            .replace("__IDXDATE__", idx_date_et).replace("__SCANBJ__", ts)
             .replace("__NEWSTIME__", ts[:10]))
     path = os.path.join(BASE_DIR, "qdii_nasdaq_sp500_monitor.html")
     with open(path, "w", encoding="utf-8") as fp:
@@ -3531,7 +3550,11 @@ def main():
     use_cache = None
     if "--cache" in sys.argv:
         use_cache = sys.argv[sys.argv.index("--cache") + 1]
-    ts = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    # v3.4：页面与数据里的「扫描时间」统一改用北京时间（UTC+8）口径。
+    # GitHub Actions Runner 的系统时区是 UTC，直接 now() 会比北京慢 8 小时，容易被误读为"数据没更新"；
+    # 这里显式按 UTC 换算到北京时间，与运行环境时区无关（本机运行也同样是北京时间）。
+    ts = (datetime.datetime.now(datetime.timezone.utc).replace(tzinfo=None)
+          + datetime.timedelta(hours=8)).strftime("%Y-%m-%d %H:%M:%S")
     if use_cache:
         funds = json.load(open(os.path.join(use_cache, "fundlist.json"), encoding="utf-8"))
         raw = json.load(open(os.path.join(use_cache, "funds_raw.json"), encoding="utf-8"))

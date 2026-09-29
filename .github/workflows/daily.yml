@@ -1,21 +1,31 @@
 # 把这个文件放到 GitHub 仓库的 .github/workflows/daily.yml
 # 作用：
-#   1) 每天北京时间 08:30 自动扫描一次 QDII 基金申购状态/限额，有变动才发邮件（无变动不打扰）；
-#   2) 同一次运行里重新生成监控页面，并自动部署到 GitHub Pages —— 手机上随时能打开最新页面。
+#   1) 每天北京时间 06:30（主触发，美股当日收盘后）与 09:30（兜底补跑）各自动扫描一次
+#      QDII 基金申购状态/限额，有变动才发邮件（无变动不打扰）；
+#   2) 同一次运行里重新生成监控页面，并自动部署到 GitHub Pages —— 手机上随时能打开最新页面；
+#   3) 任一环节失败时自动创建一条告警 Issue（同一天只开一张，当日重复失败改为追加评论），
+#      杜绝"静默停更"；告警步骤自身出错不会影响 / 掩盖原始的失败状态。
 # 部署前置条件（只需做一次）：仓库 Settings → Pages → Build and deployment → Source 选 “GitHub Actions”。
 # 详细图文步骤见《GitHub_Pages_部署说明.md》，邮件相关见《每日自动运行说明.md》。
 name: QDII Daily Scan & Deploy Pages
 
 on:
   schedule:
-    # 定时用 UTC 时间：00:30 UTC = 北京时间 08:30
-    - cron: "30 0 * * *"
+    # 定时统一用 UTC 时间（北京时间 = UTC + 8）。原先只有 "30 0 * * *"（北京 08:30），
+    # 该时点美股当日尚未收盘，抓到的仍是上一交易日的收盘价，页面看起来"少一天"；
+    # 且实测 GitHub schedule 在 UTC 0 点档高峰期会延迟约 5 小时。故改为两个时间点：
+    #   ① 主触发 22:30 UTC = 北京 06:30 —— 美股常规时段（美东 09:30–16:00 = 北京 21:30/22:30–次日 04:00/05:00）
+    #      早已收盘，拿到的是当日已收盘的最终数据；即使再延迟 5 小时，也能在北京 11:30 前后完成。
+    #   ② 兜底补跑 01:30 UTC = 北京 09:30 —— 若主触发被延迟过久甚至被官方跳过，这一趟补齐当天数据。
+    - cron: "30 22 * * *"   # UTC 22:30 = 北京 06:30（主触发，美股收盘后）
+    - cron: "30 1 * * *"    # UTC 01:30 = 北京 09:30（兜底补跑）
   workflow_dispatch: {}   # 支持在网页上点按钮手动跑一次
 
 permissions:
   contents: write         # 允许把最新数据与页面提交回仓库
   pages: write            # 允许部署 GitHub Pages
   id-token: write         # deploy-pages 需要的 OIDC 令牌
+  issues: write           # 失败告警需要自动创建 / 评论 Issue
 
 concurrency:
   group: qdii-daily
@@ -89,3 +99,55 @@ jobs:
       - name: 部署到 GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  # ========== 第三步：失败告警（仅在上游失败时执行） ==========
+  alert:
+    needs: [scan, deploy]
+    # always() 必须先写：否则 scan 失败时 deploy 被跳过，本 job 也会被连带跳过，告警就永远发不出来。
+    if: ${{ always() && (needs.scan.result == 'failure' || needs.deploy.result == 'failure') }}
+    runs-on: ubuntu-latest
+    # 告警本身即使出错也不得改变整次运行的失败结论（原始失败状态必须保留）
+    continue-on-error: true
+    steps:
+      - name: 自动创建 / 追加失败告警 Issue（同一天去重）
+        # 双保险：步骤级 continue-on-error + 脚本末尾 exit 0，确保告警逻辑异常不会掩盖原始失败
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          RUN_NO: ${{ github.run_number }}
+          TRIGGER: ${{ github.event_name }}
+          SCAN_RESULT: ${{ needs.scan.result }}
+          DEPLOY_RESULT: ${{ needs.deploy.result }}
+        run: |
+          set +e
+          TODAY=$(date -u '+%Y-%m-%d')
+          TITLE="[自动告警] QDII 每日扫描失败 ${TODAY}"
+          BODY=$(printf '%s\n' \
+            "## QDII 每日扫描失败告警" \
+            "" \
+            "- 日期（UTC）：${TODAY}（北京时间 $(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M')）" \
+            "- 第 ${RUN_NO} 次运行 ｜ 触发方式：${TRIGGER}" \
+            "- **scan** job 结果：${SCAN_RESULT}" \
+            "- **deploy** job 结果：${DEPLOY_RESULT}" \
+            "- 运行日志：${RUN_URL}" \
+            "" \
+            "### 排查提示" \
+            "1. 打开上面的运行日志，定位**第一个标红**的步骤（常见：pip install 失败 / 数据源接口超时 / 提交时 git push 冲突）。" \
+            "2. 若是数据源临时故障或网络抖动，可在 Actions 页面点 **Run workflow** 手动重跑一次。" \
+            "3. 若连续多日失败：检查仓库 Secrets（SMTP_HOST/PORT/SENDER/PASSWORD/RECEIVERS）是否失效、Settings → Pages 的 Source 是否仍为 GitHub Actions。" \
+            "4. 注意区分「真故障」与「正常空窗」：美股休市日（周末 / 节假日）指数日期不前进属正常，但 workflow 本身应仍为成功。" \
+            "5. 修复后请手动关闭本 Issue（同日再有失败会自动追加评论，不会重复开单）。")
+          EXIST=$(gh issue list --repo "${REPO}" --state open --limit 50 --json number,title \
+                    --jq ".[] | select(.title == \"${TITLE}\") | .number" 2>/dev/null | head -n 1)
+          if [ -n "${EXIST}" ]; then
+            echo "同日已存在告警 Issue #${EXIST}，追加评论而不重复开单"
+            gh issue comment "${EXIST}" --repo "${REPO}" \
+              --body "同一天内再次失败：第 ${RUN_NO} 次运行（${RUN_URL}），scan=${SCAN_RESULT}，deploy=${DEPLOY_RESULT}。" 2>/dev/null
+          else
+            echo "创建当日告警 Issue：${TITLE}"
+            gh issue create --repo "${REPO}" --title "${TITLE}" --body "${BODY}" 2>/dev/null
+          fi
+          echo "告警处理结束（本步骤任何异常都不影响原始失败状态）"
+          exit 0
