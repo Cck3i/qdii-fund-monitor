@@ -68,7 +68,7 @@ iPhone 移动端适配（触摸交互 + 安全区 + 窄屏排布）与 GitHub Pa
      → 打包 `_site/`（index.html + .nojekyll）→ 上传 Pages 产物；
    · `deploy` 作业：`actions/deploy-pages` 发布到 GitHub Pages，`needs: scan`；
    · 权限补 `pages: write` 与 `id-token: write`；并发组 `qdii-daily` 避免两次运行互相覆盖。
-   · 定时仍为 `30 0 * * *`（UTC），即北京时间 08:30；保留 `workflow_dispatch` 手动触发。
+   · 定时仍为 `30 0 * * *`（UTC），即北京时间 08:30；保留 `workflow_dispatch` 手动触发。（v3.4 起改为 `30 22 * * *` = 北京 06:30 主触发 + `30 1 * * *` = 北京 09:30 兜底补跑，并新增失败自动开 Issue 告警、页面三行时间标注与防缓存 meta。）
 3. `.gitignore` 增补 `.cache/`、`index.html`、`.nojekyll`
    （后两者为 Actions 模式下由 workflow 直接上传的产物，不必提交；若改用分支模式部署，删掉这两行并提交一次即可）。
 4. 新增《GitHub_Pages_部署说明.md》：注册账号 → 建 Public 仓库 → 上传文件（网页 / git 两种方式，含上传清单与
