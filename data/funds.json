@@ -1389,15 +1389,15 @@
   },
   "holdings": [
    {
-    "code": "920189",
-    "name": "康美特",
+    "code": "920193",
+    "name": "吉和昌",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
    },
    {
-    "code": "920193",
-    "name": "吉和昌",
+    "code": "920189",
+    "name": "康美特",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -1506,6 +1506,13 @@
   },
   "holdings": [
    {
+    "code": "920136",
+    "name": "永励精密",
+    "pct": 0.0,
+    "chg": "0",
+    "chgType": "新增"
+   },
+   {
     "code": "920189",
     "name": "康美特",
     "pct": 0.0,
@@ -1515,13 +1522,6 @@
    {
     "code": "920193",
     "name": "吉和昌",
-    "pct": 0.0,
-    "chg": "0",
-    "chgType": "新增"
-   },
-   {
-    "code": "920136",
-    "name": "永励精密",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -5175,7 +5175,7 @@
   "catName": "纳斯达克100",
   "indexName": "纳斯达克100指数",
   "indexCode": "NDX100",
-  "te": "1.70%",
+  "te": "",
   "feeTotal": "0.65%",
   "company": "宝盈基金",
   "manager": "蔡丹",
@@ -5341,7 +5341,7 @@
   "catName": "纳斯达克100",
   "indexName": "纳斯达克100指数",
   "indexCode": "NDX100",
-  "te": "1.70%",
+  "te": "",
   "feeTotal": "0.90%",
   "company": "宝盈基金",
   "manager": "蔡丹",
@@ -10649,13 +10649,6 @@
   },
   "holdings": [
    {
-    "code": "920136",
-    "name": "永励精密",
-    "pct": 0.0,
-    "chg": "0",
-    "chgType": "新增"
-   },
-   {
     "code": "920189",
     "name": "康美特",
     "pct": 0.0,
@@ -10665,6 +10658,13 @@
    {
     "code": "920193",
     "name": "吉和昌",
+    "pct": 0.0,
+    "chg": "0",
+    "chgType": "新增"
+   },
+   {
+    "code": "920136",
+    "name": "永励精密",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -11312,15 +11312,15 @@
   },
   "holdings": [
    {
-    "code": "MRNA",
-    "name": "Moderna Inc",
+    "code": "GLW",
+    "name": "康宁",
     "pct": 0.28,
     "chg": "0.28",
     "chgType": "新增"
    },
    {
-    "code": "GLW",
-    "name": "康宁",
+    "code": "MRNA",
+    "name": "Moderna Inc",
     "pct": 0.28,
     "chg": "0.28",
     "chgType": "新增"
@@ -11347,15 +11347,15 @@
     "chgType": "新增"
    },
    {
-    "code": "TECH",
-    "name": "Bio-Techne Corp",
+    "code": "LRCX",
+    "name": "拉姆研究",
     "pct": 0.25,
     "chg": "0.25",
     "chgType": "新增"
    },
    {
-    "code": "LRCX",
-    "name": "拉姆研究",
+    "code": "TECH",
+    "name": "Bio-Techne Corp",
     "pct": 0.25,
     "chg": "0.25",
     "chgType": "新增"
