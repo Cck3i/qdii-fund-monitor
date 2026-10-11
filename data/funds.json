@@ -265,13 +265,7 @@
    "net": "19.63",
    "date": "2026-06-30"
   },
-  "notices": [
-   {
-    "date": "2026-09-23",
-    "title": "易方达基金管理有限公司及易方达财富管理基金销售(广州)有限公司关于零售直销业务迁移安排的联合提示性公告",
-    "url": "https://fund.eastmoney.com/gonggao/003722,AN202609221829765058.html"
-   }
-  ],
+  "notices": [],
   "changed": false
  },
  {
@@ -674,23 +668,7 @@
    "net": "35.1624",
    "date": "2026-06-30"
   },
-  "notices": [
-   {
-    "date": "2026-09-11",
-    "title": "建信基金管理有限责任公司关于公司旗下部分开放式基金参加中原证券股份有限公司认申购、转换和定投费率优惠活动的公告",
-    "url": "https://fund.eastmoney.com/gonggao/012751,AN202609111829244081.html"
-   },
-   {
-    "date": "2026-09-03",
-    "title": "建信基金管理有限责任公司网上直销平台系统升级公告",
-    "url": "https://fund.eastmoney.com/gonggao/012751,AN202609031828944011.html"
-   },
-   {
-    "date": "2026-08-28",
-    "title": "建信纳斯达克100指数型证券投资基金(QDII)2026年中期报告",
-    "url": "https://fund.eastmoney.com/gonggao/012751,AN202608281828589197.html"
-   }
-  ],
+  "notices": [],
   "changed": false
  },
  {
@@ -840,7 +818,23 @@
    "net": "35.1624",
    "date": "2026-06-30"
   },
-  "notices": [],
+  "notices": [
+   {
+    "date": "2026-09-11",
+    "title": "建信基金管理有限责任公司关于公司旗下部分开放式基金参加中原证券股份有限公司认申购、转换和定投费率优惠活动的公告",
+    "url": "https://fund.eastmoney.com/gonggao/012752,AN202609111829244081.html"
+   },
+   {
+    "date": "2026-09-03",
+    "title": "关于新增万联证券股份有限公司为建信旗下部分基金产品销售机构的公告",
+    "url": "https://fund.eastmoney.com/gonggao/012752,AN202609031828946398.html"
+   },
+   {
+    "date": "2026-09-03",
+    "title": "建信基金管理有限责任公司网上直销平台系统升级公告",
+    "url": "https://fund.eastmoney.com/gonggao/012752,AN202609031828944011.html"
+   }
+  ],
   "changed": false
  },
  {
@@ -990,23 +984,7 @@
    "net": "35.1624",
    "date": "2026-06-30"
   },
-  "notices": [
-   {
-    "date": "2026-09-11",
-    "title": "建信基金管理有限责任公司关于公司旗下部分开放式基金参加中原证券股份有限公司认申购、转换和定投费率优惠活动的公告",
-    "url": "https://fund.eastmoney.com/gonggao/012753,AN202609111829244081.html"
-   },
-   {
-    "date": "2026-09-03",
-    "title": "建信基金管理有限责任公司网上直销平台系统升级公告",
-    "url": "https://fund.eastmoney.com/gonggao/012753,AN202609031828944011.html"
-   },
-   {
-    "date": "2026-08-28",
-    "title": "建信纳斯达克100指数型证券投资基金(QDII)2026年中期报告",
-    "url": "https://fund.eastmoney.com/gonggao/012753,AN202608281828589197.html"
-   }
-  ],
+  "notices": [],
   "changed": false
  },
  {
@@ -1255,7 +1233,23 @@
    "net": "71.5787",
    "date": "2026-06-30"
   },
-  "notices": [],
+  "notices": [
+   {
+    "date": "2026-09-23",
+    "title": "关于华安纳斯达克100交易型开放式指数证券投资基金联接基金(QDII)暂停大额申购、大额定期定额投资的公告",
+    "url": "https://fund.eastmoney.com/gonggao/014978,AN202609231829773864.html"
+   },
+   {
+    "date": "2026-09-18",
+    "title": "华安纳斯达克100交易型开放式指数证券投资基金联接基金(QDII)(华安纳斯达克100ETF联接(QDII)C)基金产品资料概要更新",
+    "url": "https://fund.eastmoney.com/gonggao/014978,AN202609181829590053.html"
+   },
+   {
+    "date": "2026-09-18",
+    "title": "华安纳斯达克100交易型开放式指数证券投资基金联接基金(QDII)更新的招募说明书(2026年第1号)",
+    "url": "https://fund.eastmoney.com/gonggao/014978,AN202609181829589868.html"
+   }
+  ],
   "changed": false
  },
  {
@@ -1325,15 +1319,15 @@
   },
   "holdings": [
    {
-    "code": "920189",
-    "name": "康美特",
+    "code": "920193",
+    "name": "吉和昌",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
    },
    {
-    "code": "920193",
-    "name": "吉和昌",
+    "code": "920189",
+    "name": "康美特",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -1574,7 +1568,23 @@
    "net": "4.9078",
    "date": "2026-06-30"
   },
-  "notices": [],
+  "notices": [
+   {
+    "date": "2026-10-08",
+    "title": "华夏基金管理有限公司关于终止瑞银基金销售(深圳)有限公司办理本公司旗下基金销售业务的公告",
+    "url": "https://fund.eastmoney.com/gonggao/015518,AN202610081830198059.html"
+   },
+   {
+    "date": "2026-09-11",
+    "title": "华夏基金管理有限公司关于暂停部分电子交易的服务提示",
+    "url": "https://fund.eastmoney.com/gonggao/015518,AN202609121829312402.html"
+   },
+   {
+    "date": "2026-08-31",
+    "title": "华夏基金管理有限公司旗下部分基金2026年中期报告提示性公告",
+    "url": "https://fund.eastmoney.com/gonggao/015518,AN202608311828806099.html"
+   }
+  ],
   "changed": false
  },
  {
@@ -1748,23 +1758,7 @@
    "net": "23.8169",
    "date": "2026-06-30"
   },
-  "notices": [
-   {
-    "date": "2026-09-30",
-    "title": "博时基金管理有限公司关于高级管理人员变更的公告",
-    "url": "https://fund.eastmoney.com/gonggao/016056,AN202609301830053719.html"
-   },
-   {
-    "date": "2026-09-30",
-    "title": "博时纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)更新招募说明书",
-    "url": "https://fund.eastmoney.com/gonggao/016056,AN202609301830018414.html"
-   },
-   {
-    "date": "2026-09-29",
-    "title": "博时基金管理有限公司关于终止瑞银基金销售(深圳)有限公司办理旗下基金销售业务的公告",
-    "url": "https://fund.eastmoney.com/gonggao/016056,AN202609291829977118.html"
-   }
-  ],
+  "notices": [],
   "changed": false
  },
  {
@@ -1843,7 +1837,23 @@
    "net": "23.8169",
    "date": "2026-06-30"
   },
-  "notices": [],
+  "notices": [
+   {
+    "date": "2026-09-30",
+    "title": "博时基金管理有限公司关于高级管理人员变更的公告",
+    "url": "https://fund.eastmoney.com/gonggao/016057,AN202609301830053719.html"
+   },
+   {
+    "date": "2026-09-30",
+    "title": "博时纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)更新招募说明书",
+    "url": "https://fund.eastmoney.com/gonggao/016057,AN202609301830018414.html"
+   },
+   {
+    "date": "2026-09-29",
+    "title": "博时基金管理有限公司关于终止瑞银基金销售(深圳)有限公司办理旗下基金销售业务的公告",
+    "url": "https://fund.eastmoney.com/gonggao/016057,AN202609291829977118.html"
+   }
+  ],
   "changed": false
  },
  {
@@ -2254,23 +2264,7 @@
    "net": "141.7948",
    "date": "2026-06-30"
   },
-  "notices": [
-   {
-    "date": "2026-09-23",
-    "title": "南方基金管理股份有限公司关于设立沈阳分公司的公告",
-    "url": "https://fund.eastmoney.com/gonggao/016453,AN202609231829788248.html"
-   },
-   {
-    "date": "2026-09-16",
-    "title": "南方基金管理股份有限公司关于设立武汉分公司的公告",
-    "url": "https://fund.eastmoney.com/gonggao/016453,AN202609171829489410.html"
-   },
-   {
-    "date": "2026-08-31",
-    "title": "南方纳斯达克100指数发起式证券投资基金(QDII)2026年中期报告",
-    "url": "https://fund.eastmoney.com/gonggao/016453,AN202608311828755858.html"
-   }
-  ],
+  "notices": [],
   "changed": false
  },
  {
@@ -2349,7 +2343,23 @@
    "net": "37.4142",
    "date": "2026-06-30"
   },
-  "notices": [],
+  "notices": [
+   {
+    "date": "2026-09-03",
+    "title": "关于嘉实纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)2026年9月7日暂停赎回业务的公告",
+    "url": "https://fund.eastmoney.com/gonggao/016532,AN202609031828943997.html"
+   },
+   {
+    "date": "2026-09-03",
+    "title": "嘉实基金管理有限公司关于终止瑞银基金销售(深圳)有限公司办理本公司旗下基金销售业务的公告",
+    "url": "https://fund.eastmoney.com/gonggao/016532,AN202609031828943973.html"
+   },
+   {
+    "date": "2026-08-31",
+    "title": "嘉实纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)2026年中期报告",
+    "url": "https://fund.eastmoney.com/gonggao/016532,AN202608311828754390.html"
+   }
+  ],
   "changed": false
  },
  {
@@ -2618,23 +2628,7 @@
    "net": "37.4142",
    "date": "2026-06-30"
   },
-  "notices": [
-   {
-    "date": "2026-09-03",
-    "title": "关于嘉实纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)2026年9月7日暂停赎回业务的公告",
-    "url": "https://fund.eastmoney.com/gonggao/016535,AN202609031828943997.html"
-   },
-   {
-    "date": "2026-09-03",
-    "title": "嘉实基金管理有限公司关于终止瑞银基金销售(深圳)有限公司办理本公司旗下基金销售业务的公告",
-    "url": "https://fund.eastmoney.com/gonggao/016535,AN202609031828943973.html"
-   },
-   {
-    "date": "2026-08-31",
-    "title": "嘉实纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)2026年中期报告",
-    "url": "https://fund.eastmoney.com/gonggao/016535,AN202608311828754390.html"
-   }
-  ],
+  "notices": [],
   "changed": false
  },
  {
@@ -2784,23 +2778,7 @@
    "net": "61.798",
    "date": "2026-06-30"
   },
-  "notices": [
-   {
-    "date": "2026-09-18",
-    "title": "天弘基金管理有限公司关于天弘纳斯达克100指数型发起式证券投资基金(QDII)A类基金份额、C类基金份额暂停申购及定期定额投资业务的公告",
-    "url": "https://fund.eastmoney.com/gonggao/018043,AN202609181829590491.html"
-   },
-   {
-    "date": "2026-09-04",
-    "title": "天弘基金管理有限公司关于终止瑞银基金销售(深圳)有限公司办理旗下基金相关销售业务的公告",
-    "url": "https://fund.eastmoney.com/gonggao/018043,AN202609041828989156.html"
-   },
-   {
-    "date": "2026-09-01",
-    "title": "天弘基金管理有限公司关于天弘纳斯达克100指数型发起式证券投资基金(QDII)恢复申购、定期定额投资业务及限制大额申购、定期定额投资业务的公告",
-    "url": "https://fund.eastmoney.com/gonggao/018043,AN202609011828848127.html"
-   }
-  ],
+  "notices": [],
   "changed": false
  },
  {
@@ -3045,18 +3023,7 @@
    "net": "31.2899",
    "date": "2026-06-30"
   },
-  "notices": [
-   {
-    "date": "2026-09-24",
-    "title": "关于汇添富纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)暂停申购、定期定额投资业务的公告",
-    "url": "https://fund.eastmoney.com/gonggao/018966,AN202609241829835607.html"
-   },
-   {
-    "date": "2026-09-22",
-    "title": "关于汇添富纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)调整直销机构大额申购、定期定额投资业务限制金额的公告",
-    "url": "https://fund.eastmoney.com/gonggao/018966,AN202609221829742553.html"
-   }
-  ],
+  "notices": [],
   "changed": false
  },
  {
@@ -5031,7 +4998,7 @@
   "catName": "纳斯达克100",
   "indexName": "纳斯达克100指数",
   "indexCode": "NDX100",
-  "te": "1.70%",
+  "te": "",
   "feeTotal": "0.65%",
   "company": "宝盈基金",
   "manager": "蔡丹",
@@ -5197,7 +5164,7 @@
   "catName": "纳斯达克100",
   "indexName": "纳斯达克100指数",
   "indexCode": "NDX100",
-  "te": "1.70%",
+  "te": "",
   "feeTotal": "0.90%",
   "company": "宝盈基金",
   "manager": "蔡丹",
@@ -5334,23 +5301,7 @@
    "net": "14.6843",
    "date": "2026-06-30"
   },
-  "notices": [
-   {
-    "date": "2026-09-24",
-    "title": "宝盈纳斯达克100指数型发起式证券投资基金(QDII)调整大额申购、定期定额投资业务限制金额的公告",
-    "url": "https://fund.eastmoney.com/gonggao/019739,AN202609241829831132.html"
-   },
-   {
-    "date": "2026-09-07",
-    "title": "宝盈纳斯达克100指数型发起式证券投资基金(QDII)调整大额申购、定期定额投资业务限制金额的公告",
-    "url": "https://fund.eastmoney.com/gonggao/019739,AN202609071829086210.html"
-   },
-   {
-    "date": "2026-08-28",
-    "title": "宝盈基金管理有限公司旗下64只基金2026年中期报告提示性公告",
-    "url": "https://fund.eastmoney.com/gonggao/019739,AN202608281828651947.html"
-   }
-  ],
+  "notices": [],
   "changed": false
  },
  {
@@ -5595,7 +5546,18 @@
    "net": "31.2899",
    "date": "2026-06-30"
   },
-  "notices": [],
+  "notices": [
+   {
+    "date": "2026-09-24",
+    "title": "关于汇添富纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)暂停申购、定期定额投资业务的公告",
+    "url": "https://fund.eastmoney.com/gonggao/021773,AN202609241829835607.html"
+   },
+   {
+    "date": "2026-09-22",
+    "title": "关于汇添富纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)调整直销机构大额申购、定期定额投资业务限制金额的公告",
+    "url": "https://fund.eastmoney.com/gonggao/021773,AN202609221829742553.html"
+   }
+  ],
   "changed": false
  },
  {
@@ -5674,7 +5636,23 @@
    "net": "208.6345",
    "date": "2026-06-30"
   },
-  "notices": [],
+  "notices": [
+   {
+    "date": "2026-09-30",
+    "title": "广发基金管理有限公司关于2026年国庆期间暂停客服电话和在线客服人工服务的通知",
+    "url": "https://fund.eastmoney.com/gonggao/021778,AN202609301830039024.html"
+   },
+   {
+    "date": "2026-09-30",
+    "title": "广发基金管理有限公司关于广发纳斯达克100交易型开放式指数证券投资基金联接基金(QDII)继续暂停申购(包含转换转入、定期定额及不定额投资)业务的提示性公告",
+    "url": "https://fund.eastmoney.com/gonggao/021778,AN202609301830015639.html"
+   },
+   {
+    "date": "2026-09-18",
+    "title": "广发基金管理有限公司关于广发纳斯达克100交易型开放式指数证券投资基金联接基金(QDII)人民币份额暂停申购(含转换转入、定期定额和不定额投资)业务的公告",
+    "url": "https://fund.eastmoney.com/gonggao/021778,AN202609181829580913.html"
+   }
+  ],
   "changed": false
  },
  {
@@ -5753,23 +5731,7 @@
    "net": "37.4142",
    "date": "2026-06-30"
   },
-  "notices": [
-   {
-    "date": "2026-09-03",
-    "title": "关于嘉实纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)2026年9月7日暂停赎回业务的公告",
-    "url": "https://fund.eastmoney.com/gonggao/021838,AN202609031828943997.html"
-   },
-   {
-    "date": "2026-09-03",
-    "title": "嘉实基金管理有限公司关于终止瑞银基金销售(深圳)有限公司办理本公司旗下基金销售业务的公告",
-    "url": "https://fund.eastmoney.com/gonggao/021838,AN202609031828943973.html"
-   },
-   {
-    "date": "2026-08-31",
-    "title": "嘉实纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)2026年中期报告",
-    "url": "https://fund.eastmoney.com/gonggao/021838,AN202608311828754390.html"
-   }
-  ],
+  "notices": [],
   "changed": false
  },
  {
@@ -6370,7 +6332,23 @@
    "net": "71.5787",
    "date": "2026-06-30"
   },
-  "notices": [],
+  "notices": [
+   {
+    "date": "2026-09-23",
+    "title": "关于华安纳斯达克100交易型开放式指数证券投资基金联接基金(QDII)暂停大额申购、大额定期定额投资的公告",
+    "url": "https://fund.eastmoney.com/gonggao/040046,AN202609231829773864.html"
+   },
+   {
+    "date": "2026-09-18",
+    "title": "华安纳斯达克100交易型开放式指数证券投资基金联接基金(QDII)(华安纳斯达克100ETF联接(QDII)A)基金产品资料概要更新",
+    "url": "https://fund.eastmoney.com/gonggao/040046,AN202609181829590010.html"
+   },
+   {
+    "date": "2026-09-18",
+    "title": "华安纳斯达克100交易型开放式指数证券投资基金联接基金(QDII)更新的招募说明书(2026年第1号)",
+    "url": "https://fund.eastmoney.com/gonggao/040046,AN202609181829589868.html"
+   }
+  ],
   "changed": false
  },
  {
@@ -7612,6 +7590,13 @@
     "chgType": "新增"
    },
    {
+    "code": "LRCX",
+    "name": "拉姆研究",
+    "pct": 0.25,
+    "chg": "0.25",
+    "chgType": "新增"
+   },
+   {
     "code": "TECH",
     "name": "Bio-Techne Corp",
     "pct": 0.25,
@@ -7621,13 +7606,6 @@
    {
     "code": "SNDK",
     "name": "闪迪",
-    "pct": 0.25,
-    "chg": "0.25",
-    "chgType": "新增"
-   },
-   {
-    "code": "LRCX",
-    "name": "拉姆研究",
     "pct": 0.25,
     "chg": "0.25",
     "chgType": "新增"
@@ -7823,13 +7801,7 @@
    "net": "16.6692",
    "date": "2026-06-30"
   },
-  "notices": [
-   {
-    "date": "2026-09-23",
-    "title": "易方达基金管理有限公司及易方达财富管理基金销售(广州)有限公司关于零售直销业务迁移安排的联合提示性公告",
-    "url": "https://fund.eastmoney.com/gonggao/012860,AN202609221829765058.html"
-   }
-  ],
+  "notices": [],
   "changed": false
  },
  {
@@ -7979,13 +7951,7 @@
    "net": "16.6692",
    "date": "2026-06-30"
   },
-  "notices": [
-   {
-    "date": "2026-09-23",
-    "title": "易方达基金管理有限公司及易方达财富管理基金销售(广州)有限公司关于零售直销业务迁移安排的联合提示性公告",
-    "url": "https://fund.eastmoney.com/gonggao/012861,AN202609221829765058.html"
-   }
-  ],
+  "notices": [],
   "changed": false
  },
  {
@@ -8135,7 +8101,23 @@
    "net": "9.4002",
    "date": "2026-06-30"
   },
-  "notices": [],
+  "notices": [
+   {
+    "date": "2026-09-30",
+    "title": "大成基金通过以下第三方互联网平台营销旗下基金",
+    "url": "https://fund.eastmoney.com/gonggao/013404,AN202610081830201846.html"
+   },
+   {
+    "date": "2026-09-08",
+    "title": "大成基金管理有限公司关于终止瑞银基金销售(深圳)有限公司办理本公司旗下基金相关销售业务及后续投资者服务措施的公告",
+    "url": "https://fund.eastmoney.com/gonggao/013404,AN202609081829112736.html"
+   },
+   {
+    "date": "2026-09-08",
+    "title": "关于大成标普500等权重指数证券投资基金调整大额申购(含定期定额申购)的公告",
+    "url": "https://fund.eastmoney.com/gonggao/013404,AN202609081829112680.html"
+   }
+  ],
   "changed": false
  },
  {
@@ -8649,7 +8631,23 @@
    "net": "1.9238",
    "date": "2026-06-30"
   },
-  "notices": [],
+  "notices": [
+   {
+    "date": "2026-09-29",
+    "title": "国泰基金管理有限公司调整长期停牌股票估值方法的公告",
+    "url": "https://fund.eastmoney.com/gonggao/017030,AN202609291829979605.html"
+   },
+   {
+    "date": "2026-09-21",
+    "title": "国泰标普500交易型开放式指数证券投资基金发起式联接基金(QDII)(国泰标普500ETF发起联接(QDII)C人民币)产品资料概要更新",
+    "url": "https://fund.eastmoney.com/gonggao/017030,AN202609211829696240.html"
+   },
+   {
+    "date": "2026-09-21",
+    "title": "国泰标普500交易型开放式指数证券投资基金发起式联接基金(QDII)更新招募说明书(2026年第一号)",
+    "url": "https://fund.eastmoney.com/gonggao/017030,AN202609211829695586.html"
+   }
+  ],
   "changed": false
  },
  {
@@ -8728,23 +8726,7 @@
    "net": "49.8566",
    "date": "2026-06-30"
   },
-  "notices": [
-   {
-    "date": "2026-09-30",
-    "title": "关于景顺长城纳斯达克科技市值加权交易型开放式指数证券投资基金发起式联接基金(QDII)新增青岛银行为销售机构的公告",
-    "url": "https://fund.eastmoney.com/gonggao/017091,AN202609301830019351.html"
-   },
-   {
-    "date": "2026-09-22",
-    "title": "关于景顺长城纳斯达克科技市值加权交易型开放式指数证券投资基金发起式联接基金(QDII)暂停申购(含日常申购和定期定额投资)及转换转入业务的公告",
-    "url": "https://fund.eastmoney.com/gonggao/017091,AN202609221829754483.html"
-   },
-   {
-    "date": "2026-09-18",
-    "title": "关于景顺长城纳斯达克科技市值加权交易型开放式指数证券投资基金发起式联接基金(QDII)人民币基金份额调整大额申购(含日常申购和定期定额投资)及转换转入限制的公告",
-    "url": "https://fund.eastmoney.com/gonggao/017091,AN202609181829590439.html"
-   }
-  ],
+  "notices": [],
   "changed": false
  },
  {
@@ -8918,7 +8900,23 @@
    "net": "49.8566",
    "date": "2026-06-30"
   },
-  "notices": [],
+  "notices": [
+   {
+    "date": "2026-09-30",
+    "title": "关于景顺长城纳斯达克科技市值加权交易型开放式指数证券投资基金发起式联接基金(QDII)新增青岛银行为销售机构的公告",
+    "url": "https://fund.eastmoney.com/gonggao/017093,AN202609301830019351.html"
+   },
+   {
+    "date": "2026-09-22",
+    "title": "关于景顺长城纳斯达克科技市值加权交易型开放式指数证券投资基金发起式联接基金(QDII)暂停申购(含日常申购和定期定额投资)及转换转入业务的公告",
+    "url": "https://fund.eastmoney.com/gonggao/017093,AN202609221829754483.html"
+   },
+   {
+    "date": "2026-09-18",
+    "title": "关于景顺长城纳斯达克科技市值加权交易型开放式指数证券投资基金发起式联接基金(QDII)人民币基金份额调整大额申购(含日常申购和定期定额投资)及转换转入限制的公告",
+    "url": "https://fund.eastmoney.com/gonggao/017093,AN202609181829590439.html"
+   }
+  ],
   "changed": false
  },
  {
@@ -9380,23 +9378,7 @@
    "net": "71.5481",
    "date": "2026-06-30"
   },
-  "notices": [
-   {
-    "date": "2026-09-21",
-    "title": "关于新增万联证券股份有限公司为摩根基金管理(中国)有限公司旗下部分基金代销机构的公告",
-    "url": "https://fund.eastmoney.com/gonggao/017641,AN202609211829686442.html"
-   },
-   {
-    "date": "2026-09-07",
-    "title": "摩根基金管理(中国)有限公司关于终止瑞银基金销售(深圳)有限公司办理旗下基金相关销售业务及后续投资者服务措施的公告",
-    "url": "https://fund.eastmoney.com/gonggao/017641,AN202609071829085833.html"
-   },
-   {
-    "date": "2026-08-31",
-    "title": "摩根标普500指数型发起式证券投资基金(QDII)2026年中期报告",
-    "url": "https://fund.eastmoney.com/gonggao/017641,AN202608311828781966.html"
-   }
-  ],
+  "notices": [],
   "changed": false
  },
  {
@@ -9897,7 +9879,18 @@
    "net": "5.2488",
    "date": "2026-06-30"
   },
-  "notices": [],
+  "notices": [
+   {
+    "date": "2026-10-08",
+    "title": "关于汇添富纳斯达克生物科技交易型开放式指数证券投资基金发起式联接基金(QDII)调整大额申购、定期定额投资业务限制金额的公告",
+    "url": "https://fund.eastmoney.com/gonggao/017895,AN202610081830199847.html"
+   },
+   {
+    "date": "2026-09-14",
+    "title": "汇添富基金风险评价结果(2026年9月)",
+    "url": "https://fund.eastmoney.com/gonggao/017895,AN202609141829369303.html"
+   }
+  ],
   "changed": false
  },
  {
@@ -9976,7 +9969,18 @@
    "net": "5.2488",
    "date": "2026-06-30"
   },
-  "notices": [],
+  "notices": [
+   {
+    "date": "2026-10-08",
+    "title": "关于汇添富纳斯达克生物科技交易型开放式指数证券投资基金发起式联接基金(QDII)调整大额申购、定期定额投资业务限制金额的公告",
+    "url": "https://fund.eastmoney.com/gonggao/017951,AN202610081830199847.html"
+   },
+   {
+    "date": "2026-09-14",
+    "title": "汇添富基金风险评价结果(2026年9月)",
+    "url": "https://fund.eastmoney.com/gonggao/017951,AN202609141829369303.html"
+   }
+  ],
   "changed": false
  },
  {
@@ -10136,13 +10140,6 @@
   },
   "holdings": [
    {
-    "code": "920136",
-    "name": "永励精密",
-    "pct": 0.0,
-    "chg": "0",
-    "chgType": "新增"
-   },
-   {
     "code": "920189",
     "name": "康美特",
     "pct": 0.0,
@@ -10152,6 +10149,13 @@
    {
     "code": "920193",
     "name": "吉和昌",
+    "pct": 0.0,
+    "chg": "0",
+    "chgType": "新增"
+   },
+   {
+    "code": "920136",
+    "name": "永励精密",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -10167,23 +10171,7 @@
    "net": "4.8454",
    "date": "2026-06-30"
   },
-  "notices": [
-   {
-    "date": "2026-10-08",
-    "title": "华夏基金管理有限公司关于终止瑞银基金销售(深圳)有限公司办理本公司旗下基金销售业务的公告",
-    "url": "https://fund.eastmoney.com/gonggao/018064,AN202610081830198059.html"
-   },
-   {
-    "date": "2026-09-11",
-    "title": "华夏基金管理有限公司关于暂停部分电子交易的服务提示",
-    "url": "https://fund.eastmoney.com/gonggao/018064,AN202609121829312402.html"
-   },
-   {
-    "date": "2026-08-31",
-    "title": "华夏基金管理有限公司旗下部分基金2026年中期报告提示性公告",
-    "url": "https://fund.eastmoney.com/gonggao/018064,AN202608311828806099.html"
-   }
-  ],
+  "notices": [],
   "changed": false
  },
  {
@@ -10370,13 +10358,6 @@
   },
   "holdings": [
    {
-    "code": "920189",
-    "name": "康美特",
-    "pct": 0.0,
-    "chg": "0",
-    "chgType": "新增"
-   },
-   {
     "code": "920193",
     "name": "吉和昌",
     "pct": 0.0,
@@ -10386,6 +10367,13 @@
    {
     "code": "920136",
     "name": "永励精密",
+    "pct": 0.0,
+    "chg": "0",
+    "chgType": "新增"
+   },
+   {
+    "code": "920189",
+    "name": "康美特",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -10591,7 +10579,23 @@
    "net": "49.8566",
    "date": "2026-06-30"
   },
-  "notices": [],
+  "notices": [
+   {
+    "date": "2026-09-30",
+    "title": "关于景顺长城纳斯达克科技市值加权交易型开放式指数证券投资基金发起式联接基金(QDII)新增青岛银行为销售机构的公告",
+    "url": "https://fund.eastmoney.com/gonggao/019118,AN202609301830019351.html"
+   },
+   {
+    "date": "2026-09-22",
+    "title": "关于景顺长城纳斯达克科技市值加权交易型开放式指数证券投资基金发起式联接基金(QDII)暂停申购(含日常申购和定期定额投资)及转换转入业务的公告",
+    "url": "https://fund.eastmoney.com/gonggao/019118,AN202609221829754483.html"
+   },
+   {
+    "date": "2026-09-21",
+    "title": "关于景顺长城纳斯达克科技市值加权交易型开放式指数证券投资基金发起式联接基金(QDII)新增华宝证券为销售机构的公告",
+    "url": "https://fund.eastmoney.com/gonggao/019118,AN202609211829676773.html"
+   }
+  ],
   "changed": false
  },
  {
@@ -10741,23 +10745,7 @@
    "net": "71.5481",
    "date": "2026-06-30"
   },
-  "notices": [
-   {
-    "date": "2026-09-21",
-    "title": "关于新增万联证券股份有限公司为摩根基金管理(中国)有限公司旗下部分基金代销机构的公告",
-    "url": "https://fund.eastmoney.com/gonggao/019305,AN202609211829686442.html"
-   },
-   {
-    "date": "2026-09-07",
-    "title": "摩根基金管理(中国)有限公司关于终止瑞银基金销售(深圳)有限公司办理旗下基金相关销售业务及后续投资者服务措施的公告",
-    "url": "https://fund.eastmoney.com/gonggao/019305,AN202609071829085833.html"
-   },
-   {
-    "date": "2026-08-31",
-    "title": "摩根标普500指数型发起式证券投资基金(QDII)2026年中期报告",
-    "url": "https://fund.eastmoney.com/gonggao/019305,AN202608311828781966.html"
-   }
-  ],
+  "notices": [],
   "changed": false
  },
  {
@@ -11017,15 +11005,15 @@
   },
   "holdings": [
    {
-    "code": "MRNA",
-    "name": "Moderna Inc",
+    "code": "GLW",
+    "name": "康宁",
     "pct": 0.28,
     "chg": "0.28",
     "chgType": "新增"
    },
    {
-    "code": "GLW",
-    "name": "康宁",
+    "code": "MRNA",
+    "name": "Moderna Inc",
     "pct": 0.28,
     "chg": "0.28",
     "chgType": "新增"
@@ -11052,15 +11040,15 @@
     "chgType": "新增"
    },
    {
-    "code": "TECH",
-    "name": "Bio-Techne Corp",
+    "code": "LRCX",
+    "name": "拉姆研究",
     "pct": 0.25,
     "chg": "0.25",
     "chgType": "新增"
    },
    {
-    "code": "LRCX",
-    "name": "拉姆研究",
+    "code": "TECH",
+    "name": "Bio-Techne Corp",
     "pct": 0.25,
     "chg": "0.25",
     "chgType": "新增"
