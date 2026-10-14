@@ -77,11 +77,6 @@
   },
   "notices": [
    {
-    "date": "2026-10-14",
-    "title": "关于广发纳斯达克100交易型开放式指数证券投资基金联接基金(QDII)人民币份额暂停申购(含转换转入、定期定额和不定额投资)业务的公告",
-    "url": "https://fund.eastmoney.com/gonggao/000055,AN202610141830429076.html"
-   },
-   {
     "date": "2026-09-30",
     "title": "广发基金管理有限公司关于2026年国庆期间暂停客服电话和在线客服人工服务的通知",
     "url": "https://fund.eastmoney.com/gonggao/000055,AN202609301830039024.html"
@@ -90,6 +85,11 @@
     "date": "2026-09-30",
     "title": "广发基金管理有限公司关于广发纳斯达克100交易型开放式指数证券投资基金联接基金(QDII)继续暂停申购(包含转换转入、定期定额及不定额投资)业务的提示性公告",
     "url": "https://fund.eastmoney.com/gonggao/000055,AN202609301830015639.html"
+   },
+   {
+    "date": "2026-09-10",
+    "title": "广发基金管理有限公司关于广发纳斯达克100交易型开放式指数证券投资基金联接基金(QDII)美元份额暂停申购(含定期定额和不定额投资)业务的公告",
+    "url": "https://fund.eastmoney.com/gonggao/000055,AN202609101829193911.html"
    }
   ],
   "changed": false
@@ -357,14 +357,14 @@
     "url": "https://fund.eastmoney.com/gonggao/006479,AN202610141830429076.html"
    },
    {
-    "date": "2026-10-14",
-    "title": "广发基金管理有限公司关于广发纳斯达克100交易型开放式指数证券投资基金联接基金(QDII)人民币份额暂停申购(含转换转入、定期定额和不定额投资)业务的公告",
-    "url": "https://fund.eastmoney.com/gonggao/006479,AN202610141830426514.html"
-   },
-   {
     "date": "2026-10-13",
     "title": "关于广发纳斯达克100交易型开放式指数证券投资基金联接基金(QDII)人民币份额恢复申购(含转换转入、定期定额和不定额投资)业务的公告",
     "url": "https://fund.eastmoney.com/gonggao/006479,AN202610121830361740.html"
+   },
+   {
+    "date": "2026-09-30",
+    "title": "广发基金管理有限公司关于2026年国庆期间暂停客服电话和在线客服人工服务的通知",
+    "url": "https://fund.eastmoney.com/gonggao/006479,AN202609301830039024.html"
    }
   ],
   "changed": false
@@ -447,11 +447,6 @@
   },
   "notices": [
    {
-    "date": "2026-10-14",
-    "title": "关于广发纳斯达克100交易型开放式指数证券投资基金联接基金(QDII)人民币份额暂停申购(含转换转入、定期定额和不定额投资)业务的公告",
-    "url": "https://fund.eastmoney.com/gonggao/006480,AN202610141830429076.html"
-   },
-   {
     "date": "2026-09-30",
     "title": "广发基金管理有限公司关于2026年国庆期间暂停客服电话和在线客服人工服务的通知",
     "url": "https://fund.eastmoney.com/gonggao/006480,AN202609301830039024.html"
@@ -460,6 +455,11 @@
     "date": "2026-09-30",
     "title": "广发基金管理有限公司关于广发纳斯达克100交易型开放式指数证券投资基金联接基金(QDII)继续暂停申购(包含转换转入、定期定额及不定额投资)业务的提示性公告",
     "url": "https://fund.eastmoney.com/gonggao/006480,AN202609301830015639.html"
+   },
+   {
+    "date": "2026-09-10",
+    "title": "广发基金管理有限公司关于广发纳斯达克100交易型开放式指数证券投资基金联接基金(QDII)美元份额暂停申购(含定期定额和不定额投资)业务的公告",
+    "url": "https://fund.eastmoney.com/gonggao/006480,AN202609101829193911.html"
    }
   ],
   "changed": false
@@ -1389,13 +1389,6 @@
   },
   "holdings": [
    {
-    "code": "920189",
-    "name": "康美特",
-    "pct": 0.0,
-    "chg": "0",
-    "chgType": "新增"
-   },
-   {
     "code": "920193",
     "name": "吉和昌",
     "pct": 0.0,
@@ -1405,6 +1398,13 @@
    {
     "code": "920136",
     "name": "永励精密",
+    "pct": 0.0,
+    "chg": "0",
+    "chgType": "新增"
+   },
+   {
+    "code": "920189",
+    "name": "康美特",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -1506,13 +1506,6 @@
   },
   "holdings": [
    {
-    "code": "920136",
-    "name": "永励精密",
-    "pct": 0.0,
-    "chg": "0",
-    "chgType": "新增"
-   },
-   {
     "code": "920193",
     "name": "吉和昌",
     "pct": 0.0,
@@ -1522,6 +1515,13 @@
    {
     "code": "920189",
     "name": "康美特",
+    "pct": 0.0,
+    "chg": "0",
+    "chgType": "新增"
+   },
+   {
+    "code": "920136",
+    "name": "永励精密",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -4511,6 +4511,11 @@
   },
   "notices": [
    {
+    "date": "2026-10-14",
+    "title": "华泰柏瑞基金管理有限公司关于增加华龙证券股份有限公司为旗下部分基金代销机构同时开通基金转换和定投业务的通知",
+    "url": "https://fund.eastmoney.com/gonggao/019524,AN202610141830446498.html"
+   },
+   {
     "date": "2026-10-10",
     "title": "华泰柏瑞纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)更新的招募说明书2026年第1号",
     "url": "https://fund.eastmoney.com/gonggao/019524,AN202610101830277784.html"
@@ -4519,11 +4524,6 @@
     "date": "2026-10-09",
     "title": "华泰柏瑞基金产品风险等级-20261009",
     "url": "https://fund.eastmoney.com/gonggao/019524,AN202610091830257791.html"
-   },
-   {
-    "date": "2026-09-29",
-    "title": "关于国庆节放假的温馨提示",
-    "url": "https://fund.eastmoney.com/gonggao/019524,AN202609291829992915.html"
    }
   ],
   "changed": false
@@ -4606,6 +4606,11 @@
   },
   "notices": [
    {
+    "date": "2026-10-14",
+    "title": "华泰柏瑞基金管理有限公司关于增加华龙证券股份有限公司为旗下部分基金代销机构同时开通基金转换和定投业务的通知",
+    "url": "https://fund.eastmoney.com/gonggao/019525,AN202610141830446498.html"
+   },
+   {
     "date": "2026-10-10",
     "title": "华泰柏瑞纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)更新的招募说明书2026年第1号",
     "url": "https://fund.eastmoney.com/gonggao/019525,AN202610101830277784.html"
@@ -4614,11 +4619,6 @@
     "date": "2026-10-09",
     "title": "华泰柏瑞基金产品风险等级-20261009",
     "url": "https://fund.eastmoney.com/gonggao/019525,AN202610091830257791.html"
-   },
-   {
-    "date": "2026-09-29",
-    "title": "关于国庆节放假的温馨提示",
-    "url": "https://fund.eastmoney.com/gonggao/019525,AN202609291829992915.html"
    }
   ],
   "changed": false
@@ -4716,7 +4716,7 @@
     "url": "https://fund.eastmoney.com/gonggao/019547,AN202609011828847866.html"
    }
   ],
-  "changed": true
+  "changed": false
  },
  {
   "code": "019548",
@@ -4811,7 +4811,7 @@
     "url": "https://fund.eastmoney.com/gonggao/019548,AN202609011828847866.html"
    }
   ],
-  "changed": true
+  "changed": false
  },
  {
   "code": "019736",
@@ -5816,14 +5816,14 @@
     "url": "https://fund.eastmoney.com/gonggao/021778,AN202610141830429076.html"
    },
    {
-    "date": "2026-10-14",
-    "title": "广发基金管理有限公司关于广发纳斯达克100交易型开放式指数证券投资基金联接基金(QDII)人民币份额暂停申购(含转换转入、定期定额和不定额投资)业务的公告",
-    "url": "https://fund.eastmoney.com/gonggao/021778,AN202610141830426514.html"
-   },
-   {
     "date": "2026-10-13",
     "title": "关于广发纳斯达克100交易型开放式指数证券投资基金联接基金(QDII)人民币份额恢复申购(含转换转入、定期定额和不定额投资)业务的公告",
     "url": "https://fund.eastmoney.com/gonggao/021778,AN202610121830361740.html"
+   },
+   {
+    "date": "2026-09-30",
+    "title": "广发基金管理有限公司关于2026年国庆期间暂停客服电话和在线客服人工服务的通知",
+    "url": "https://fund.eastmoney.com/gonggao/021778,AN202609301830039024.html"
    }
   ],
   "changed": false
@@ -7064,14 +7064,14 @@
     "url": "https://fund.eastmoney.com/gonggao/270042,AN202610141830429076.html"
    },
    {
-    "date": "2026-10-14",
-    "title": "广发基金管理有限公司关于广发纳斯达克100交易型开放式指数证券投资基金联接基金(QDII)人民币份额暂停申购(含转换转入、定期定额和不定额投资)业务的公告",
-    "url": "https://fund.eastmoney.com/gonggao/270042,AN202610141830426514.html"
-   },
-   {
     "date": "2026-10-13",
     "title": "关于广发纳斯达克100交易型开放式指数证券投资基金联接基金(QDII)人民币份额恢复申购(含转换转入、定期定额和不定额投资)业务的公告",
     "url": "https://fund.eastmoney.com/gonggao/270042,AN202610121830361740.html"
+   },
+   {
+    "date": "2026-09-30",
+    "title": "广发基金管理有限公司关于2026年国庆期间暂停客服电话和在线客服人工服务的通知",
+    "url": "https://fund.eastmoney.com/gonggao/270042,AN202609301830039024.html"
    }
   ],
   "changed": false
@@ -10614,13 +10614,6 @@
   },
   "holdings": [
    {
-    "code": "920136",
-    "name": "永励精密",
-    "pct": 0.0,
-    "chg": "0",
-    "chgType": "新增"
-   },
-   {
     "code": "920189",
     "name": "康美特",
     "pct": 0.0,
@@ -10630,6 +10623,13 @@
    {
     "code": "920193",
     "name": "吉和昌",
+    "pct": 0.0,
+    "chg": "0",
+    "chgType": "新增"
+   },
+   {
+    "code": "920136",
+    "name": "永励精密",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -11307,15 +11307,15 @@
     "chgType": "新增"
    },
    {
-    "code": "LRCX",
-    "name": "拉姆研究",
+    "code": "TECH",
+    "name": "Bio-Techne Corp",
     "pct": 0.25,
     "chg": "0.25",
     "chgType": "新增"
    },
    {
-    "code": "TECH",
-    "name": "Bio-Techne Corp",
+    "code": "LRCX",
+    "name": "拉姆研究",
     "pct": 0.25,
     "chg": "0.25",
     "chgType": "新增"
