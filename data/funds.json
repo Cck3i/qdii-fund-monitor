@@ -1320,7 +1320,7 @@
     "url": "https://fund.eastmoney.com/gonggao/014978,AN202609231829773864.html"
    }
   ],
-  "changed": true
+  "changed": false
  },
  {
   "code": "015299",
@@ -1389,15 +1389,15 @@
   },
   "holdings": [
    {
-    "code": "920193",
-    "name": "吉和昌",
+    "code": "920189",
+    "name": "康美特",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
    },
    {
-    "code": "920189",
-    "name": "康美特",
+    "code": "920193",
+    "name": "吉和昌",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -1506,13 +1506,6 @@
   },
   "holdings": [
    {
-    "code": "920136",
-    "name": "永励精密",
-    "pct": 0.0,
-    "chg": "0",
-    "chgType": "新增"
-   },
-   {
     "code": "920189",
     "name": "康美特",
     "pct": 0.0,
@@ -1522,6 +1515,13 @@
    {
     "code": "920193",
     "name": "吉和昌",
+    "pct": 0.0,
+    "chg": "0",
+    "chgType": "新增"
+   },
+   {
+    "code": "920136",
+    "name": "永励精密",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -4125,19 +4125,19 @@
   "salesFee": "0.00%",
   "buyRate": "0.10%",
   "rawBuyRate": "1.00%",
-  "sgzt": "暂停申购",
-  "sgztMark": "",
+  "sgzt": "限大额",
+  "sgztMark": "限大额(单日累计购买上限5元。)",
   "shzt": "开放赎回",
-  "limitText": "单日累计购买上限5元",
-  "minBuy": "10",
+  "limitText": "单日累计购买上限5元。",
+  "minBuy": "5",
   "maxBuy": "5",
-  "limitSrc": "天天基金PC详情页",
-  "sgztPC": "暂停申购",
+  "limitSrc": "天天基金手机接口",
+  "sgztPC": "限大额",
   "shztPC": "",
   "pcOk": true,
   "canBuyPC": true,
   "sgztMatch": true,
-  "canBuy": false,
+  "canBuy": true,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
   "nav": "1.6764",
@@ -4291,19 +4291,19 @@
   "salesFee": "0.20%",
   "buyRate": "0.00%",
   "rawBuyRate": "0.00%",
-  "sgzt": "暂停申购",
-  "sgztMark": "",
+  "sgzt": "限大额",
+  "sgztMark": "限大额(单日累计购买上限5元。)",
   "shzt": "开放赎回",
-  "limitText": "单日累计购买上限5元",
-  "minBuy": "10",
+  "limitText": "单日累计购买上限5元。",
+  "minBuy": "5",
   "maxBuy": "5",
-  "limitSrc": "天天基金PC详情页",
-  "sgztPC": "暂停申购",
+  "limitSrc": "天天基金手机接口",
+  "sgztPC": "限大额",
   "shztPC": "",
   "pcOk": true,
   "canBuyPC": true,
   "sgztMatch": true,
-  "canBuy": false,
+  "canBuy": true,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
   "nav": "1.6651",
@@ -6518,7 +6518,7 @@
     "url": "https://fund.eastmoney.com/gonggao/040046,AN202609231829773864.html"
    }
   ],
-  "changed": true
+  "changed": false
  },
  {
   "code": "040047",
@@ -7551,6 +7551,11 @@
   },
   "notices": [
    {
+    "date": "2026-10-21",
+    "title": "天弘标普500发起式证券投资基金(QDII-FOF)招募说明书(更新)",
+    "url": "https://fund.eastmoney.com/gonggao/007721,AN202610211830735264.html"
+   },
+   {
     "date": "2026-09-18",
     "title": "天弘基金管理有限公司关于天弘标普500发起式证券投资基金(QDII-FOF)A类基金份额、C类基金份额暂停申购及定期定额投资业务的公告",
     "url": "https://fund.eastmoney.com/gonggao/007721,AN202609181829580336.html"
@@ -7559,11 +7564,6 @@
     "date": "2026-09-04",
     "title": "天弘基金管理有限公司关于终止瑞银基金销售(深圳)有限公司办理旗下基金相关销售业务的公告",
     "url": "https://fund.eastmoney.com/gonggao/007721,AN202609041828989156.html"
-   },
-   {
-    "date": "2026-09-01",
-    "title": "天弘基金管理有限公司关于天弘标普500发起式证券投资基金(QDII-FOF)恢复申购、定期定额投资业务及限制大额申购、定期定额投资业务的公告",
-    "url": "https://fund.eastmoney.com/gonggao/007721,AN202609011828844257.html"
    }
   ],
   "changed": false
@@ -7646,6 +7646,11 @@
   },
   "notices": [
    {
+    "date": "2026-10-21",
+    "title": "天弘标普500发起式证券投资基金(QDII-FOF)招募说明书(更新)",
+    "url": "https://fund.eastmoney.com/gonggao/007722,AN202610211830735264.html"
+   },
+   {
     "date": "2026-09-18",
     "title": "天弘基金管理有限公司关于天弘标普500发起式证券投资基金(QDII-FOF)A类基金份额、C类基金份额暂停申购及定期定额投资业务的公告",
     "url": "https://fund.eastmoney.com/gonggao/007722,AN202609181829580336.html"
@@ -7654,11 +7659,6 @@
     "date": "2026-09-04",
     "title": "天弘基金管理有限公司关于终止瑞银基金销售(深圳)有限公司办理旗下基金相关销售业务的公告",
     "url": "https://fund.eastmoney.com/gonggao/007722,AN202609041828989156.html"
-   },
-   {
-    "date": "2026-09-01",
-    "title": "天弘基金管理有限公司关于天弘标普500发起式证券投资基金(QDII-FOF)恢复申购、定期定额投资业务及限制大额申购、定期定额投资业务的公告",
-    "url": "https://fund.eastmoney.com/gonggao/007722,AN202609011828844257.html"
    }
   ],
   "changed": false
@@ -8250,15 +8250,15 @@
     "chgType": "新增"
    },
    {
-    "code": "SNDK",
-    "name": "闪迪",
+    "code": "TECH",
+    "name": "Bio-Techne Corp",
     "pct": 0.25,
     "chg": "0.25",
     "chgType": "新增"
    },
    {
-    "code": "TECH",
-    "name": "Bio-Techne Corp",
+    "code": "SNDK",
+    "name": "闪迪",
     "pct": 0.25,
     "chg": "0.25",
     "chgType": "新增"
@@ -10594,13 +10594,6 @@
   },
   "holdings": [
    {
-    "code": "920193",
-    "name": "吉和昌",
-    "pct": 0.0,
-    "chg": "0",
-    "chgType": "新增"
-   },
-   {
     "code": "920136",
     "name": "永励精密",
     "pct": 0.0,
@@ -10610,6 +10603,13 @@
    {
     "code": "920189",
     "name": "康美特",
+    "pct": 0.0,
+    "chg": "0",
+    "chgType": "新增"
+   },
+   {
+    "code": "920193",
+    "name": "吉和昌",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -11073,6 +11073,11 @@
   },
   "notices": [
    {
+    "date": "2026-10-21",
+    "title": "天弘标普500发起式证券投资基金(QDII-FOF)招募说明书(更新)",
+    "url": "https://fund.eastmoney.com/gonggao/022523,AN202610211830735264.html"
+   },
+   {
     "date": "2026-09-04",
     "title": "天弘基金管理有限公司关于终止瑞银基金销售(深圳)有限公司办理旗下基金相关销售业务的公告",
     "url": "https://fund.eastmoney.com/gonggao/022523,AN202609041828989156.html"
@@ -11081,11 +11086,6 @@
     "date": "2026-09-01",
     "title": "天弘基金管理有限公司关于天弘标普500发起式证券投资基金(QDII-FOF)恢复申购、定期定额投资业务及限制大额申购、定期定额投资业务的公告",
     "url": "https://fund.eastmoney.com/gonggao/022523,AN202609011828844257.html"
-   },
-   {
-    "date": "2026-08-31",
-    "title": "天弘标普500发起式证券投资基金(QDII-FOF)2026年中期报告",
-    "url": "https://fund.eastmoney.com/gonggao/022523,AN202608311828773808.html"
    }
   ],
   "changed": false
@@ -11280,20 +11280,6 @@
     "chgType": "新增"
    },
    {
-    "code": "SNDK",
-    "name": "闪迪",
-    "pct": 0.25,
-    "chg": "0.25",
-    "chgType": "新增"
-   },
-   {
-    "code": "TECH",
-    "name": "Bio-Techne Corp",
-    "pct": 0.25,
-    "chg": "0.25",
-    "chgType": "新增"
-   },
-   {
     "code": "LRCX",
     "name": "拉姆研究",
     "pct": 0.25,
@@ -11301,8 +11287,22 @@
     "chgType": "新增"
    },
    {
+    "code": "SNDK",
+    "name": "闪迪",
+    "pct": 0.25,
+    "chg": "0.25",
+    "chgType": "新增"
+   },
+   {
     "code": "TER",
     "name": "泰瑞达",
+    "pct": 0.25,
+    "chg": "0.25",
+    "chgType": "新增"
+   },
+   {
+    "code": "TECH",
+    "name": "Bio-Techne Corp",
     "pct": 0.25,
     "chg": "0.25",
     "chgType": "新增"
