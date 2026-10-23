@@ -267,9 +267,9 @@
   },
   "notices": [
    {
-    "date": "2026-09-23",
+    "date": "2026-10-23",
     "title": "易方达基金管理有限公司及易方达财富管理基金销售(广州)有限公司关于零售直销业务迁移安排的联合提示性公告",
-    "url": "https://fund.eastmoney.com/gonggao/003722,AN202609221829765058.html"
+    "url": "https://fund.eastmoney.com/gonggao/003722,AN202610221830809004.html"
    }
   ],
   "changed": false
@@ -1135,9 +1135,9 @@
   },
   "notices": [
    {
-    "date": "2026-09-23",
+    "date": "2026-10-23",
     "title": "易方达基金管理有限公司及易方达财富管理基金销售(广州)有限公司关于零售直销业务迁移安排的联合提示性公告",
-    "url": "https://fund.eastmoney.com/gonggao/012870,AN202609221829765058.html"
+    "url": "https://fund.eastmoney.com/gonggao/012870,AN202610221830809004.html"
    }
   ],
   "changed": false
@@ -1220,9 +1220,9 @@
   },
   "notices": [
    {
-    "date": "2026-09-23",
+    "date": "2026-10-23",
     "title": "易方达基金管理有限公司及易方达财富管理基金销售(广州)有限公司关于零售直销业务迁移安排的联合提示性公告",
-    "url": "https://fund.eastmoney.com/gonggao/012871,AN202609221829765058.html"
+    "url": "https://fund.eastmoney.com/gonggao/012871,AN202610221830809004.html"
    }
   ],
   "changed": false
@@ -1389,6 +1389,13 @@
   },
   "holdings": [
    {
+    "code": "920193",
+    "name": "吉和昌",
+    "pct": 0.0,
+    "chg": "0",
+    "chgType": "新增"
+   },
+   {
     "code": "920136",
     "name": "永励精密",
     "pct": 0.0,
@@ -1398,13 +1405,6 @@
    {
     "code": "920189",
     "name": "康美特",
-    "pct": 0.0,
-    "chg": "0",
-    "chgType": "新增"
-   },
-   {
-    "code": "920193",
-    "name": "吉和昌",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -1506,15 +1506,15 @@
   },
   "holdings": [
    {
-    "code": "920189",
-    "name": "康美特",
+    "code": "920193",
+    "name": "吉和昌",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
    },
    {
-    "code": "920193",
-    "name": "吉和昌",
+    "code": "920189",
+    "name": "康美特",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -1630,15 +1630,15 @@
     "chgType": "新增"
    },
    {
-    "code": "920193",
-    "name": "吉和昌",
+    "code": "920189",
+    "name": "康美特",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
    },
    {
-    "code": "920189",
-    "name": "康美特",
+    "code": "920193",
+    "name": "吉和昌",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -7326,9 +7326,9 @@
   },
   "notices": [
    {
-    "date": "2026-09-23",
+    "date": "2026-10-23",
     "title": "易方达基金管理有限公司及易方达财富管理基金销售(广州)有限公司关于零售直销业务迁移安排的联合提示性公告",
-    "url": "https://fund.eastmoney.com/gonggao/003718,AN202609221829765058.html"
+    "url": "https://fund.eastmoney.com/gonggao/003718,AN202610221830809004.html"
    }
   ],
   "changed": false
@@ -7928,9 +7928,9 @@
   },
   "notices": [
    {
-    "date": "2026-09-23",
+    "date": "2026-10-23",
     "title": "易方达基金管理有限公司及易方达财富管理基金销售(广州)有限公司关于零售直销业务迁移安排的联合提示性公告",
-    "url": "https://fund.eastmoney.com/gonggao/012860,AN202609221829765058.html"
+    "url": "https://fund.eastmoney.com/gonggao/012860,AN202610221830809004.html"
    }
   ],
   "changed": false
@@ -8084,9 +8084,9 @@
   },
   "notices": [
    {
-    "date": "2026-09-23",
+    "date": "2026-10-23",
     "title": "易方达基金管理有限公司及易方达财富管理基金销售(广州)有限公司关于零售直销业务迁移安排的联合提示性公告",
-    "url": "https://fund.eastmoney.com/gonggao/012861,AN202609221829765058.html"
+    "url": "https://fund.eastmoney.com/gonggao/012861,AN202610221830809004.html"
    }
   ],
   "changed": false
@@ -8539,15 +8539,15 @@
     "chgType": "新增"
    },
    {
-    "code": "LRCX",
-    "name": "拉姆研究",
+    "code": "TER",
+    "name": "泰瑞达",
     "pct": 0.25,
     "chg": "0.25",
     "chgType": "新增"
    },
    {
-    "code": "TER",
-    "name": "泰瑞达",
+    "code": "LRCX",
+    "name": "拉姆研究",
     "pct": 0.25,
     "chg": "0.25",
     "chgType": "新增"
@@ -10405,8 +10405,8 @@
   },
   "holdings": [
    {
-    "code": "920189",
-    "name": "康美特",
+    "code": "920193",
+    "name": "吉和昌",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -10419,8 +10419,8 @@
     "chgType": "新增"
    },
    {
-    "code": "920193",
-    "name": "吉和昌",
+    "code": "920189",
+    "name": "康美特",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -10522,13 +10522,6 @@
   },
   "holdings": [
    {
-    "code": "920193",
-    "name": "吉和昌",
-    "pct": 0.0,
-    "chg": "0",
-    "chgType": "新增"
-   },
-   {
     "code": "920136",
     "name": "永励精密",
     "pct": 0.0,
@@ -10538,6 +10531,13 @@
    {
     "code": "920189",
     "name": "康美特",
+    "pct": 0.0,
+    "chg": "0",
+    "chgType": "新增"
+   },
+   {
+    "code": "920193",
+    "name": "吉和昌",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -11170,15 +11170,15 @@
   },
   "holdings": [
    {
-    "code": "MRNA",
-    "name": "Moderna Inc",
+    "code": "GLW",
+    "name": "康宁",
     "pct": 0.28,
     "chg": "0.28",
     "chgType": "新增"
    },
    {
-    "code": "GLW",
-    "name": "康宁",
+    "code": "MRNA",
+    "name": "Moderna Inc",
     "pct": 0.28,
     "chg": "0.28",
     "chgType": "新增"
