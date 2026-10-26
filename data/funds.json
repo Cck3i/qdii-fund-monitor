@@ -575,9 +575,9 @@
   "manager": "朱金钰",
   "risk": "5",
   "estDate": "2021-09-22",
-  "scale": 21.76,
-  "scaleDate": "2026-06-30",
-  "shares": 6.14,
+  "scale": 43.74,
+  "scaleDate": "2026-09-30",
+  "shares": 12.4,
   "mgrFee": "0.80%",
   "trustFee": "0.20%",
   "salesFee": "0.00%",
@@ -628,85 +628,90 @@
    {
     "code": "NVDA",
     "name": "英伟达",
-    "pct": 6.96,
-    "chg": "-1.33",
-    "chgType": "减持"
+    "pct": 7.7,
+    "chg": "0.74",
+    "chgType": "增持"
    },
    {
     "code": "AAPL",
     "name": "苹果",
-    "pct": 6.11,
-    "chg": "-1.22",
-    "chgType": "减持"
-   },
-   {
-    "code": "MU",
-    "name": "美光科技",
-    "pct": 5.17,
-    "chg": "5.17",
-    "chgType": "新增"
+    "pct": 6.81,
+    "chg": "0.7",
+    "chgType": "增持"
    },
    {
     "code": "MSFT",
     "name": "微软",
-    "pct": 3.99,
-    "chg": "-1.39",
+    "pct": 5.31,
+    "chg": "1.32",
+    "chgType": "增持"
+   },
+   {
+    "code": "MU",
+    "name": "美光科技",
+    "pct": 4.62,
+    "chg": "-0.55",
     "chgType": "减持"
    },
    {
     "code": "AMD",
     "name": "超威半导体",
-    "pct": 3.76,
-    "chg": "3.76",
-    "chgType": "新增"
+    "pct": 3.84,
+    "chg": "0.08",
+    "chgType": "增持"
    },
    {
     "code": "AMZN",
     "name": "亚马逊",
-    "pct": 3.69,
-    "chg": "-0.66",
+    "pct": 3.73,
+    "chg": "0.04",
+    "chgType": "增持"
+   },
+   {
+    "code": "META",
+    "name": "Meta Platforms Inc-A",
+    "pct": 2.99,
+    "chg": "2.99",
+    "chgType": "新增"
+   },
+   {
+    "code": "GOOGL",
+    "name": "谷歌-A",
+    "pct": 2.79,
+    "chg": "-0.2",
+    "chgType": "减持"
+   },
+   {
+    "code": "GOOG",
+    "name": "谷歌-C",
+    "pct": 2.59,
+    "chg": "-0.18",
     "chgType": "减持"
    },
    {
     "code": "TSLA",
     "name": "特斯拉",
-    "pct": 3.02,
-    "chg": "-0.61",
-    "chgType": "减持"
-   },
-   {
-    "code": "GOOGL",
-    "name": "谷歌-A",
-    "pct": 2.99,
-    "chg": "-0.28",
-    "chgType": "减持"
-   },
-   {
-    "code": "INTC",
-    "name": "英特尔",
-    "pct": 2.79,
-    "chg": "2.79",
-    "chgType": "新增"
-   },
-   {
-    "code": "GOOG",
-    "name": "谷歌-C",
-    "pct": 2.77,
-    "chg": "-0.26",
+    "pct": 2.47,
+    "chg": "-0.55",
     "chgType": "减持"
    }
   ],
   "fofHoldings": [],
   "asset": {
-   "stock": "89.1",
+   "stock": "87.4",
    "bond": "--",
-   "cash": "8.86",
+   "cash": "11.05",
    "fund": "--",
-   "other": "2.04",
-   "net": "35.1624",
-   "date": "2026-06-30"
+   "other": "1.55",
+   "net": "68.5052",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-26",
+    "title": "建信纳斯达克100指数型证券投资基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/012751,AN202610261830906334.html"
+   },
    {
     "date": "2026-10-13",
     "title": "建信基金管理有限责任公司关于系统停机维护的公告",
@@ -716,11 +721,6 @@
     "date": "2026-09-11",
     "title": "建信基金管理有限责任公司关于公司旗下部分开放式基金参加中原证券股份有限公司认申购、转换和定投费率优惠活动的公告",
     "url": "https://fund.eastmoney.com/gonggao/012751,AN202609111829244081.html"
-   },
-   {
-    "date": "2026-09-03",
-    "title": "建信基金管理有限责任公司网上直销平台系统升级公告",
-    "url": "https://fund.eastmoney.com/gonggao/012751,AN202609031828944011.html"
    }
   ],
   "changed": false
@@ -741,9 +741,9 @@
   "manager": "朱金钰",
   "risk": "4",
   "estDate": "2021-09-22",
-  "scale": 12.88,
-  "scaleDate": "2026-06-30",
-  "shares": 3.75,
+  "scale": 23.61,
+  "scaleDate": "2026-09-30",
+  "shares": 6.92,
   "mgrFee": "0.80%",
   "trustFee": "0.20%",
   "salesFee": "0.30%",
@@ -794,85 +794,90 @@
    {
     "code": "NVDA",
     "name": "英伟达",
-    "pct": 6.96,
-    "chg": "-1.33",
-    "chgType": "减持"
+    "pct": 7.7,
+    "chg": "0.74",
+    "chgType": "增持"
    },
    {
     "code": "AAPL",
     "name": "苹果",
-    "pct": 6.11,
-    "chg": "-1.22",
-    "chgType": "减持"
-   },
-   {
-    "code": "MU",
-    "name": "美光科技",
-    "pct": 5.17,
-    "chg": "5.17",
-    "chgType": "新增"
+    "pct": 6.81,
+    "chg": "0.7",
+    "chgType": "增持"
    },
    {
     "code": "MSFT",
     "name": "微软",
-    "pct": 3.99,
-    "chg": "-1.39",
+    "pct": 5.31,
+    "chg": "1.32",
+    "chgType": "增持"
+   },
+   {
+    "code": "MU",
+    "name": "美光科技",
+    "pct": 4.62,
+    "chg": "-0.55",
     "chgType": "减持"
    },
    {
     "code": "AMD",
     "name": "超威半导体",
-    "pct": 3.76,
-    "chg": "3.76",
-    "chgType": "新增"
+    "pct": 3.84,
+    "chg": "0.08",
+    "chgType": "增持"
    },
    {
     "code": "AMZN",
     "name": "亚马逊",
-    "pct": 3.69,
-    "chg": "-0.66",
+    "pct": 3.73,
+    "chg": "0.04",
+    "chgType": "增持"
+   },
+   {
+    "code": "META",
+    "name": "Meta Platforms Inc-A",
+    "pct": 2.99,
+    "chg": "2.99",
+    "chgType": "新增"
+   },
+   {
+    "code": "GOOGL",
+    "name": "谷歌-A",
+    "pct": 2.79,
+    "chg": "-0.2",
+    "chgType": "减持"
+   },
+   {
+    "code": "GOOG",
+    "name": "谷歌-C",
+    "pct": 2.59,
+    "chg": "-0.18",
     "chgType": "减持"
    },
    {
     "code": "TSLA",
     "name": "特斯拉",
-    "pct": 3.02,
-    "chg": "-0.61",
-    "chgType": "减持"
-   },
-   {
-    "code": "GOOGL",
-    "name": "谷歌-A",
-    "pct": 2.99,
-    "chg": "-0.28",
-    "chgType": "减持"
-   },
-   {
-    "code": "INTC",
-    "name": "英特尔",
-    "pct": 2.79,
-    "chg": "2.79",
-    "chgType": "新增"
-   },
-   {
-    "code": "GOOG",
-    "name": "谷歌-C",
-    "pct": 2.77,
-    "chg": "-0.26",
+    "pct": 2.47,
+    "chg": "-0.55",
     "chgType": "减持"
    }
   ],
   "fofHoldings": [],
   "asset": {
-   "stock": "89.1",
+   "stock": "87.4",
    "bond": "--",
-   "cash": "8.86",
+   "cash": "11.05",
    "fund": "--",
-   "other": "2.04",
-   "net": "35.1624",
-   "date": "2026-06-30"
+   "other": "1.55",
+   "net": "68.5052",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-26",
+    "title": "建信纳斯达克100指数型证券投资基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/012752,AN202610261830906334.html"
+   },
    {
     "date": "2026-10-13",
     "title": "建信基金管理有限责任公司关于系统停机维护的公告",
@@ -882,11 +887,6 @@
     "date": "2026-09-11",
     "title": "建信基金管理有限责任公司关于公司旗下部分开放式基金参加中原证券股份有限公司认申购、转换和定投费率优惠活动的公告",
     "url": "https://fund.eastmoney.com/gonggao/012752,AN202609111829244081.html"
-   },
-   {
-    "date": "2026-09-03",
-    "title": "关于新增万联证券股份有限公司为建信旗下部分基金产品销售机构的公告",
-    "url": "https://fund.eastmoney.com/gonggao/012752,AN202609031828946398.html"
    }
   ],
   "changed": false
@@ -907,9 +907,9 @@
   "manager": "朱金钰",
   "risk": "5",
   "estDate": "2021-09-22",
-  "scale": 12.88,
-  "scaleDate": "2026-06-30",
-  "shares": 3.75,
+  "scale": 23.61,
+  "scaleDate": "2026-09-30",
+  "shares": 6.92,
   "mgrFee": "0.80%",
   "trustFee": "0.20%",
   "salesFee": "0.30%",
@@ -960,85 +960,90 @@
    {
     "code": "NVDA",
     "name": "英伟达",
-    "pct": 6.96,
-    "chg": "-1.33",
-    "chgType": "减持"
+    "pct": 7.7,
+    "chg": "0.74",
+    "chgType": "增持"
    },
    {
     "code": "AAPL",
     "name": "苹果",
-    "pct": 6.11,
-    "chg": "-1.22",
-    "chgType": "减持"
-   },
-   {
-    "code": "MU",
-    "name": "美光科技",
-    "pct": 5.17,
-    "chg": "5.17",
-    "chgType": "新增"
+    "pct": 6.81,
+    "chg": "0.7",
+    "chgType": "增持"
    },
    {
     "code": "MSFT",
     "name": "微软",
-    "pct": 3.99,
-    "chg": "-1.39",
+    "pct": 5.31,
+    "chg": "1.32",
+    "chgType": "增持"
+   },
+   {
+    "code": "MU",
+    "name": "美光科技",
+    "pct": 4.62,
+    "chg": "-0.55",
     "chgType": "减持"
    },
    {
     "code": "AMD",
     "name": "超威半导体",
-    "pct": 3.76,
-    "chg": "3.76",
-    "chgType": "新增"
+    "pct": 3.84,
+    "chg": "0.08",
+    "chgType": "增持"
    },
    {
     "code": "AMZN",
     "name": "亚马逊",
-    "pct": 3.69,
-    "chg": "-0.66",
+    "pct": 3.73,
+    "chg": "0.04",
+    "chgType": "增持"
+   },
+   {
+    "code": "META",
+    "name": "Meta Platforms Inc-A",
+    "pct": 2.99,
+    "chg": "2.99",
+    "chgType": "新增"
+   },
+   {
+    "code": "GOOGL",
+    "name": "谷歌-A",
+    "pct": 2.79,
+    "chg": "-0.2",
+    "chgType": "减持"
+   },
+   {
+    "code": "GOOG",
+    "name": "谷歌-C",
+    "pct": 2.59,
+    "chg": "-0.18",
     "chgType": "减持"
    },
    {
     "code": "TSLA",
     "name": "特斯拉",
-    "pct": 3.02,
-    "chg": "-0.61",
-    "chgType": "减持"
-   },
-   {
-    "code": "GOOGL",
-    "name": "谷歌-A",
-    "pct": 2.99,
-    "chg": "-0.28",
-    "chgType": "减持"
-   },
-   {
-    "code": "INTC",
-    "name": "英特尔",
-    "pct": 2.79,
-    "chg": "2.79",
-    "chgType": "新增"
-   },
-   {
-    "code": "GOOG",
-    "name": "谷歌-C",
-    "pct": 2.77,
-    "chg": "-0.26",
+    "pct": 2.47,
+    "chg": "-0.55",
     "chgType": "减持"
    }
   ],
   "fofHoldings": [],
   "asset": {
-   "stock": "89.1",
+   "stock": "87.4",
    "bond": "--",
-   "cash": "8.86",
+   "cash": "11.05",
    "fund": "--",
-   "other": "2.04",
-   "net": "35.1624",
-   "date": "2026-06-30"
+   "other": "1.55",
+   "net": "68.5052",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-26",
+    "title": "建信纳斯达克100指数型证券投资基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/012753,AN202610261830906334.html"
+   },
    {
     "date": "2026-10-13",
     "title": "建信基金管理有限责任公司关于系统停机维护的公告",
@@ -1048,11 +1053,6 @@
     "date": "2026-09-11",
     "title": "建信基金管理有限责任公司关于公司旗下部分开放式基金参加中原证券股份有限公司认申购、转换和定投费率优惠活动的公告",
     "url": "https://fund.eastmoney.com/gonggao/012753,AN202609111829244081.html"
-   },
-   {
-    "date": "2026-09-03",
-    "title": "建信基金管理有限责任公司网上直销平台系统升级公告",
-    "url": "https://fund.eastmoney.com/gonggao/012753,AN202609031828944011.html"
    }
   ],
   "changed": false
@@ -1389,15 +1389,15 @@
   },
   "holdings": [
    {
-    "code": "920193",
-    "name": "吉和昌",
+    "code": "920189",
+    "name": "康美特",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
    },
    {
-    "code": "920189",
-    "name": "康美特",
+    "code": "920193",
+    "name": "吉和昌",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -1506,8 +1506,8 @@
   },
   "holdings": [
    {
-    "code": "920136",
-    "name": "永励精密",
+    "code": "920189",
+    "name": "康美特",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -1520,8 +1520,8 @@
     "chgType": "新增"
    },
    {
-    "code": "920189",
-    "name": "康美特",
+    "code": "920136",
+    "name": "永励精密",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -1623,15 +1623,15 @@
   },
   "holdings": [
    {
-    "code": "920136",
-    "name": "永励精密",
+    "code": "920193",
+    "name": "吉和昌",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
    },
    {
-    "code": "920193",
-    "name": "吉和昌",
+    "code": "920136",
+    "name": "永励精密",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -6140,9 +6140,9 @@
   "manager": "朱金钰",
   "risk": "4",
   "estDate": "2025-02-12",
-  "scale": 0.52,
-  "scaleDate": "2026-06-30",
-  "shares": 0.15,
+  "scale": 1.15,
+  "scaleDate": "2026-09-30",
+  "shares": 0.34,
   "mgrFee": "0.80%",
   "trustFee": "0.20%",
   "salesFee": "0.30%",
@@ -6193,85 +6193,90 @@
    {
     "code": "NVDA",
     "name": "英伟达",
-    "pct": 6.96,
-    "chg": "-1.33",
-    "chgType": "减持"
+    "pct": 7.7,
+    "chg": "0.74",
+    "chgType": "增持"
    },
    {
     "code": "AAPL",
     "name": "苹果",
-    "pct": 6.11,
-    "chg": "-1.22",
-    "chgType": "减持"
-   },
-   {
-    "code": "MU",
-    "name": "美光科技",
-    "pct": 5.17,
-    "chg": "5.17",
-    "chgType": "新增"
+    "pct": 6.81,
+    "chg": "0.7",
+    "chgType": "增持"
    },
    {
     "code": "MSFT",
     "name": "微软",
-    "pct": 3.99,
-    "chg": "-1.39",
+    "pct": 5.31,
+    "chg": "1.32",
+    "chgType": "增持"
+   },
+   {
+    "code": "MU",
+    "name": "美光科技",
+    "pct": 4.62,
+    "chg": "-0.55",
     "chgType": "减持"
    },
    {
     "code": "AMD",
     "name": "超威半导体",
-    "pct": 3.76,
-    "chg": "3.76",
-    "chgType": "新增"
+    "pct": 3.84,
+    "chg": "0.08",
+    "chgType": "增持"
    },
    {
     "code": "AMZN",
     "name": "亚马逊",
-    "pct": 3.69,
-    "chg": "-0.66",
+    "pct": 3.73,
+    "chg": "0.04",
+    "chgType": "增持"
+   },
+   {
+    "code": "META",
+    "name": "Meta Platforms Inc-A",
+    "pct": 2.99,
+    "chg": "2.99",
+    "chgType": "新增"
+   },
+   {
+    "code": "GOOGL",
+    "name": "谷歌-A",
+    "pct": 2.79,
+    "chg": "-0.2",
+    "chgType": "减持"
+   },
+   {
+    "code": "GOOG",
+    "name": "谷歌-C",
+    "pct": 2.59,
+    "chg": "-0.18",
     "chgType": "减持"
    },
    {
     "code": "TSLA",
     "name": "特斯拉",
-    "pct": 3.02,
-    "chg": "-0.61",
-    "chgType": "减持"
-   },
-   {
-    "code": "GOOGL",
-    "name": "谷歌-A",
-    "pct": 2.99,
-    "chg": "-0.28",
-    "chgType": "减持"
-   },
-   {
-    "code": "INTC",
-    "name": "英特尔",
-    "pct": 2.79,
-    "chg": "2.79",
-    "chgType": "新增"
-   },
-   {
-    "code": "GOOG",
-    "name": "谷歌-C",
-    "pct": 2.77,
-    "chg": "-0.26",
+    "pct": 2.47,
+    "chg": "-0.55",
     "chgType": "减持"
    }
   ],
   "fofHoldings": [],
   "asset": {
-   "stock": "89.1",
+   "stock": "87.4",
    "bond": "--",
-   "cash": "8.86",
+   "cash": "11.05",
    "fund": "--",
-   "other": "2.04",
-   "net": "35.1624",
-   "date": "2026-06-30"
+   "other": "1.55",
+   "net": "68.5052",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-26",
+    "title": "建信纳斯达克100指数型证券投资基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/023422,AN202610261830906334.html"
+   },
    {
     "date": "2026-10-13",
     "title": "建信基金管理有限责任公司关于系统停机维护的公告",
@@ -6281,11 +6286,6 @@
     "date": "2026-09-11",
     "title": "建信基金管理有限责任公司关于公司旗下部分开放式基金参加中原证券股份有限公司认申购、转换和定投费率优惠活动的公告",
     "url": "https://fund.eastmoney.com/gonggao/023422,AN202609111829244081.html"
-   },
-   {
-    "date": "2026-09-03",
-    "title": "建信基金管理有限责任公司网上直销平台系统升级公告",
-    "url": "https://fund.eastmoney.com/gonggao/023422,AN202609031828944011.html"
    }
   ],
   "changed": false
@@ -7027,9 +7027,9 @@
   "manager": "朱金钰",
   "risk": "4",
   "estDate": "2010-09-14",
-  "scale": 21.76,
-  "scaleDate": "2026-06-30",
-  "shares": 6.14,
+  "scale": 43.74,
+  "scaleDate": "2026-09-30",
+  "shares": 12.4,
   "mgrFee": "0.80%",
   "trustFee": "0.20%",
   "salesFee": "0.00%",
@@ -7080,85 +7080,90 @@
    {
     "code": "NVDA",
     "name": "英伟达",
-    "pct": 6.96,
-    "chg": "-1.33",
-    "chgType": "减持"
+    "pct": 7.7,
+    "chg": "0.74",
+    "chgType": "增持"
    },
    {
     "code": "AAPL",
     "name": "苹果",
-    "pct": 6.11,
-    "chg": "-1.22",
-    "chgType": "减持"
-   },
-   {
-    "code": "MU",
-    "name": "美光科技",
-    "pct": 5.17,
-    "chg": "5.17",
-    "chgType": "新增"
+    "pct": 6.81,
+    "chg": "0.7",
+    "chgType": "增持"
    },
    {
     "code": "MSFT",
     "name": "微软",
-    "pct": 3.99,
-    "chg": "-1.39",
+    "pct": 5.31,
+    "chg": "1.32",
+    "chgType": "增持"
+   },
+   {
+    "code": "MU",
+    "name": "美光科技",
+    "pct": 4.62,
+    "chg": "-0.55",
     "chgType": "减持"
    },
    {
     "code": "AMD",
     "name": "超威半导体",
-    "pct": 3.76,
-    "chg": "3.76",
-    "chgType": "新增"
+    "pct": 3.84,
+    "chg": "0.08",
+    "chgType": "增持"
    },
    {
     "code": "AMZN",
     "name": "亚马逊",
-    "pct": 3.69,
-    "chg": "-0.66",
+    "pct": 3.73,
+    "chg": "0.04",
+    "chgType": "增持"
+   },
+   {
+    "code": "META",
+    "name": "Meta Platforms Inc-A",
+    "pct": 2.99,
+    "chg": "2.99",
+    "chgType": "新增"
+   },
+   {
+    "code": "GOOGL",
+    "name": "谷歌-A",
+    "pct": 2.79,
+    "chg": "-0.2",
+    "chgType": "减持"
+   },
+   {
+    "code": "GOOG",
+    "name": "谷歌-C",
+    "pct": 2.59,
+    "chg": "-0.18",
     "chgType": "减持"
    },
    {
     "code": "TSLA",
     "name": "特斯拉",
-    "pct": 3.02,
-    "chg": "-0.61",
-    "chgType": "减持"
-   },
-   {
-    "code": "GOOGL",
-    "name": "谷歌-A",
-    "pct": 2.99,
-    "chg": "-0.28",
-    "chgType": "减持"
-   },
-   {
-    "code": "INTC",
-    "name": "英特尔",
-    "pct": 2.79,
-    "chg": "2.79",
-    "chgType": "新增"
-   },
-   {
-    "code": "GOOG",
-    "name": "谷歌-C",
-    "pct": 2.77,
-    "chg": "-0.26",
+    "pct": 2.47,
+    "chg": "-0.55",
     "chgType": "减持"
    }
   ],
   "fofHoldings": [],
   "asset": {
-   "stock": "89.1",
+   "stock": "87.4",
    "bond": "--",
-   "cash": "8.86",
+   "cash": "11.05",
    "fund": "--",
-   "other": "2.04",
-   "net": "35.1624",
-   "date": "2026-06-30"
+   "other": "1.55",
+   "net": "68.5052",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-26",
+    "title": "建信纳斯达克100指数型证券投资基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/539001,AN202610261830906334.html"
+   },
    {
     "date": "2026-10-13",
     "title": "建信基金管理有限责任公司关于系统停机维护的公告",
@@ -7168,11 +7173,6 @@
     "date": "2026-09-11",
     "title": "建信基金管理有限责任公司关于公司旗下部分开放式基金参加中原证券股份有限公司认申购、转换和定投费率优惠活动的公告",
     "url": "https://fund.eastmoney.com/gonggao/539001,AN202609111829244081.html"
-   },
-   {
-    "date": "2026-09-03",
-    "title": "关于新增万联证券股份有限公司为建信旗下部分基金产品销售机构的公告",
-    "url": "https://fund.eastmoney.com/gonggao/539001,AN202609031828946398.html"
    }
   ],
   "changed": false
@@ -8200,15 +8200,15 @@
     "chgType": "新增"
    },
    {
-    "code": "SNDK",
-    "name": "闪迪",
+    "code": "TECH",
+    "name": "Bio-Techne Corp",
     "pct": 0.25,
     "chg": "0.25",
     "chgType": "新增"
    },
    {
-    "code": "TECH",
-    "name": "Bio-Techne Corp",
+    "code": "SNDK",
+    "name": "闪迪",
     "pct": 0.25,
     "chg": "0.25",
     "chgType": "新增"
@@ -10412,15 +10412,15 @@
     "chgType": "新增"
    },
    {
-    "code": "920189",
-    "name": "康美特",
+    "code": "920136",
+    "name": "永励精密",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
    },
    {
-    "code": "920136",
-    "name": "永励精密",
+    "code": "920189",
+    "name": "康美特",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -10522,13 +10522,6 @@
   },
   "holdings": [
    {
-    "code": "920193",
-    "name": "吉和昌",
-    "pct": 0.0,
-    "chg": "0",
-    "chgType": "新增"
-   },
-   {
     "code": "920136",
     "name": "永励精密",
     "pct": 0.0,
@@ -10538,6 +10531,13 @@
    {
     "code": "920189",
     "name": "康美特",
+    "pct": 0.0,
+    "chg": "0",
+    "chgType": "新增"
+   },
+   {
+    "code": "920193",
+    "name": "吉和昌",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -11198,13 +11198,6 @@
     "chgType": "新增"
    },
    {
-    "code": "LRCX",
-    "name": "拉姆研究",
-    "pct": 0.25,
-    "chg": "0.25",
-    "chgType": "新增"
-   },
-   {
     "code": "SNDK",
     "name": "闪迪",
     "pct": 0.25,
@@ -11212,15 +11205,22 @@
     "chgType": "新增"
    },
    {
-    "code": "TER",
-    "name": "泰瑞达",
+    "code": "TECH",
+    "name": "Bio-Techne Corp",
     "pct": 0.25,
     "chg": "0.25",
     "chgType": "新增"
    },
    {
-    "code": "TECH",
-    "name": "Bio-Techne Corp",
+    "code": "LRCX",
+    "name": "拉姆研究",
+    "pct": 0.25,
+    "chg": "0.25",
+    "chgType": "新增"
+   },
+   {
+    "code": "TER",
+    "name": "泰瑞达",
     "pct": 0.25,
     "chg": "0.25",
     "chgType": "新增"
