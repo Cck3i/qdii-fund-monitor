@@ -15,9 +15,9 @@
   "manager": "刘杰",
   "risk": "5",
   "estDate": "2015-01-16",
-  "scale": 122.23,
-  "scaleDate": "2026-06-30",
-  "shares": 14.45,
+  "scale": 122.81,
+  "scaleDate": "2026-09-30",
+  "shares": 14.7,
   "mgrFee": "0.80%",
   "trustFee": "0.20%",
   "salesFee": "0.00%",
@@ -69,11 +69,11 @@
   "asset": {
    "stock": "--",
    "bond": "--",
-   "cash": "9.04",
-   "fund": "90.4",
-   "other": "0.56",
-   "net": "208.6345",
-   "date": "2026-06-30"
+   "cash": "7.83",
+   "fund": "91.86",
+   "other": "0.31",
+   "net": "212.0399",
+   "date": "2026-09-30"
   },
   "notices": [
    {
@@ -110,9 +110,9 @@
   "manager": "冉凌浩",
   "risk": "4",
   "estDate": "2014-11-13",
-  "scale": 48.87,
-  "scaleDate": "2026-06-30",
-  "shares": 7.5,
+  "scale": 49.58,
+  "scaleDate": "2026-09-30",
+  "shares": 7.7,
   "mgrFee": "0.80%",
   "trustFee": "0.20%",
   "salesFee": "0.00%",
@@ -164,11 +164,11 @@
   "asset": {
    "stock": "--",
    "bond": "--",
-   "cash": "9.91",
-   "fund": "90.32",
-   "other": "0",
-   "net": "59.9704",
-   "date": "2026-06-30"
+   "cash": "9.48",
+   "fund": "90.2",
+   "other": "0.32",
+   "net": "60.7287",
+   "date": "2026-09-30"
   },
   "notices": [
    {
@@ -295,9 +295,9 @@
   "manager": "刘杰",
   "risk": "4",
   "estDate": "2018-10-25",
-  "scale": 64.93,
-  "scaleDate": "2026-06-30",
-  "shares": 7.81,
+  "scale": 64.63,
+  "scaleDate": "2026-09-30",
+  "shares": 7.87,
   "mgrFee": "0.80%",
   "trustFee": "0.20%",
   "salesFee": "0.20%",
@@ -349,11 +349,11 @@
   "asset": {
    "stock": "--",
    "bond": "--",
-   "cash": "9.04",
-   "fund": "90.4",
-   "other": "0.56",
-   "net": "208.6345",
-   "date": "2026-06-30"
+   "cash": "7.83",
+   "fund": "91.86",
+   "other": "0.31",
+   "net": "212.0399",
+   "date": "2026-09-30"
   },
   "notices": [
    {
@@ -390,9 +390,9 @@
   "manager": "刘杰",
   "risk": "5",
   "estDate": "2018-10-25",
-  "scale": 64.93,
-  "scaleDate": "2026-06-30",
-  "shares": 7.81,
+  "scale": 64.63,
+  "scaleDate": "2026-09-30",
+  "shares": 7.87,
   "mgrFee": "0.80%",
   "trustFee": "0.20%",
   "salesFee": "0.20%",
@@ -444,11 +444,11 @@
   "asset": {
    "stock": "--",
    "bond": "--",
-   "cash": "9.04",
-   "fund": "90.4",
-   "other": "0.56",
-   "net": "208.6345",
-   "date": "2026-06-30"
+   "cash": "7.83",
+   "fund": "91.86",
+   "other": "0.31",
+   "net": "212.0399",
+   "date": "2026-09-30"
   },
   "notices": [
    {
@@ -485,9 +485,9 @@
   "manager": "冉凌浩",
   "risk": "4",
   "estDate": "2023-06-28",
-  "scale": 11.1,
-  "scaleDate": "2026-06-30",
-  "shares": 1.72,
+  "scale": 11.15,
+  "scaleDate": "2026-09-30",
+  "shares": 1.75,
   "mgrFee": "0.80%",
   "trustFee": "0.20%",
   "salesFee": "0.30%",
@@ -539,11 +539,11 @@
   "asset": {
    "stock": "--",
    "bond": "--",
-   "cash": "9.91",
-   "fund": "90.32",
-   "other": "0",
-   "net": "59.9704",
-   "date": "2026-06-30"
+   "cash": "9.48",
+   "fund": "90.2",
+   "other": "0.32",
+   "net": "60.7287",
+   "date": "2026-09-30"
   },
   "notices": [
    {
@@ -1258,9 +1258,9 @@
   "manager": "倪斌",
   "risk": "4",
   "estDate": "2022-02-22",
-  "scale": 13.48,
-  "scaleDate": "2026-06-30",
-  "shares": 1.62,
+  "scale": 15.14,
+  "scaleDate": "2026-09-30",
+  "shares": 1.84,
   "mgrFee": "0.60%",
   "trustFee": "0.20%",
   "salesFee": "0.20%",
@@ -1312,13 +1312,18 @@
   "asset": {
    "stock": "--",
    "bond": "--",
-   "cash": "8.82",
-   "fund": "90.64",
-   "other": "0.54",
-   "net": "71.5787",
-   "date": "2026-06-30"
+   "cash": "9.47",
+   "fund": "90.01",
+   "other": "0.52",
+   "net": "78.527",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "华安纳斯达克100交易型开放式指数证券投资基金联接基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/014978,AN202610271830988057.html"
+   },
    {
     "date": "2026-10-20",
     "title": "关于华安纳斯达克100交易型开放式指数证券投资基金联接基金(QDII)暂停申购及定期定额投资的公告",
@@ -1328,11 +1333,6 @@
     "date": "2026-10-16",
     "title": "华安基金管理有限公司关于因服务器维护、暂停投顾服务的通知",
     "url": "https://fund.eastmoney.com/gonggao/014978,AN202610171830644014.html"
-   },
-   {
-    "date": "2026-09-23",
-    "title": "关于华安纳斯达克100交易型开放式指数证券投资基金联接基金(QDII)暂停大额申购、大额定期定额投资的公告",
-    "url": "https://fund.eastmoney.com/gonggao/014978,AN202609231829773864.html"
    }
   ],
   "changed": false
@@ -1353,9 +1353,9 @@
   "manager": "赵宗庭",
   "risk": "4",
   "estDate": "2022-04-14",
-  "scale": 3.23,
-  "scaleDate": "2026-06-30",
-  "shares": 1.54,
+  "scale": 3.26,
+  "scaleDate": "2026-09-30",
+  "shares": 1.57,
   "mgrFee": "0.60%",
   "trustFee": "0.20%",
   "salesFee": "0.00%",
@@ -1404,22 +1404,15 @@
   },
   "holdings": [
    {
-    "code": "920189",
-    "name": "康美特",
+    "code": "920162",
+    "name": "莫森泰克",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
    },
    {
-    "code": "920193",
-    "name": "吉和昌",
-    "pct": 0.0,
-    "chg": "0",
-    "chgType": "新增"
-   },
-   {
-    "code": "920136",
-    "name": "永励精密",
+    "code": "920157",
+    "name": "宇特光电",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -1428,28 +1421,28 @@
   "fofHoldings": [],
   "asset": {
    "stock": "0",
-   "bond": "3.03",
-   "cash": "3.98",
-   "fund": "91.32",
-   "other": "1.67",
-   "net": "4.9078",
-   "date": "2026-06-30"
+   "bond": "--",
+   "cash": "8.3",
+   "fund": "91.68",
+   "other": "0.02",
+   "net": "4.9017",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "华夏基金管理有限公司旗下部分基金2026年第3季度报告提示性公告",
+    "url": "https://fund.eastmoney.com/gonggao/015299,AN202610271830996008.html"
+   },
+   {
+    "date": "2026-10-27",
+    "title": "华夏纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/015299,AN202610271830987363.html"
+   },
    {
     "date": "2026-10-23",
     "title": "华夏基金管理有限公司关于暂停部分电子交易的服务提示",
     "url": "https://fund.eastmoney.com/gonggao/015299,AN202610241830876580.html"
-   },
-   {
-    "date": "2026-10-08",
-    "title": "华夏基金管理有限公司关于终止瑞银基金销售(深圳)有限公司办理本公司旗下基金销售业务的公告",
-    "url": "https://fund.eastmoney.com/gonggao/015299,AN202610081830198059.html"
-   },
-   {
-    "date": "2026-09-11",
-    "title": "华夏基金管理有限公司关于暂停部分电子交易的服务提示",
-    "url": "https://fund.eastmoney.com/gonggao/015299,AN202609121829312402.html"
    }
   ],
   "changed": false
@@ -1470,9 +1463,9 @@
   "manager": "赵宗庭",
   "risk": "4",
   "estDate": "2022-04-14",
-  "scale": 1.68,
-  "scaleDate": "2026-06-30",
-  "shares": 0.81,
+  "scale": 1.64,
+  "scaleDate": "2026-09-30",
+  "shares": 0.8,
   "mgrFee": "0.60%",
   "trustFee": "0.20%",
   "salesFee": "0.30%",
@@ -1521,22 +1514,15 @@
   },
   "holdings": [
    {
-    "code": "920193",
-    "name": "吉和昌",
+    "code": "920157",
+    "name": "宇特光电",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
    },
    {
-    "code": "920136",
-    "name": "永励精密",
-    "pct": 0.0,
-    "chg": "0",
-    "chgType": "新增"
-   },
-   {
-    "code": "920189",
-    "name": "康美特",
+    "code": "920162",
+    "name": "莫森泰克",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -1545,14 +1531,19 @@
   "fofHoldings": [],
   "asset": {
    "stock": "0",
-   "bond": "3.03",
-   "cash": "3.98",
-   "fund": "91.32",
-   "other": "1.67",
-   "net": "4.9078",
-   "date": "2026-06-30"
+   "bond": "--",
+   "cash": "8.3",
+   "fund": "91.68",
+   "other": "0.02",
+   "net": "4.9017",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "华夏纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/015300,AN202610271830987363.html"
+   },
    {
     "date": "2026-10-23",
     "title": "华夏基金管理有限公司关于暂停部分电子交易的服务提示",
@@ -1562,11 +1553,6 @@
     "date": "2026-10-08",
     "title": "华夏基金管理有限公司关于终止瑞银基金销售(深圳)有限公司办理本公司旗下基金销售业务的公告",
     "url": "https://fund.eastmoney.com/gonggao/015300,AN202610081830198059.html"
-   },
-   {
-    "date": "2026-09-11",
-    "title": "华夏基金管理有限公司关于暂停部分电子交易的服务提示",
-    "url": "https://fund.eastmoney.com/gonggao/015300,AN202609121829312402.html"
    }
   ],
   "changed": false
@@ -1587,8 +1573,8 @@
   "manager": "赵宗庭",
   "risk": "5",
   "estDate": "2022-04-14",
-  "scale": 3.23,
-  "scaleDate": "2026-06-30",
+  "scale": 3.26,
+  "scaleDate": "2026-09-30",
   "shares": 1.54,
   "mgrFee": "0.60%",
   "trustFee": "0.20%",
@@ -1638,22 +1624,15 @@
   },
   "holdings": [
    {
-    "code": "920136",
-    "name": "永励精密",
+    "code": "920157",
+    "name": "宇特光电",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
    },
    {
-    "code": "920189",
-    "name": "康美特",
-    "pct": 0.0,
-    "chg": "0",
-    "chgType": "新增"
-   },
-   {
-    "code": "920193",
-    "name": "吉和昌",
+    "code": "920162",
+    "name": "莫森泰克",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -1662,14 +1641,19 @@
   "fofHoldings": [],
   "asset": {
    "stock": "0",
-   "bond": "3.03",
-   "cash": "3.98",
-   "fund": "91.32",
-   "other": "1.67",
-   "net": "4.9078",
-   "date": "2026-06-30"
+   "bond": "--",
+   "cash": "8.3",
+   "fund": "91.68",
+   "other": "0.02",
+   "net": "4.9017",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "华夏纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/015518,AN202610271830987363.html"
+   },
    {
     "date": "2026-10-23",
     "title": "华夏基金管理有限公司关于暂停部分电子交易的服务提示",
@@ -1679,11 +1663,6 @@
     "date": "2026-10-08",
     "title": "华夏基金管理有限公司关于终止瑞银基金销售(深圳)有限公司办理本公司旗下基金销售业务的公告",
     "url": "https://fund.eastmoney.com/gonggao/015518,AN202610081830198059.html"
-   },
-   {
-    "date": "2026-09-11",
-    "title": "华夏基金管理有限公司关于暂停部分电子交易的服务提示",
-    "url": "https://fund.eastmoney.com/gonggao/015518,AN202609121829312402.html"
    }
   ],
   "changed": false
@@ -1704,9 +1683,9 @@
   "manager": "万琼",
   "risk": "4",
   "estDate": "2022-07-26",
-  "scale": 15.04,
-  "scaleDate": "2026-06-30",
-  "shares": 6.9,
+  "scale": 14.57,
+  "scaleDate": "2026-09-30",
+  "shares": 6.71,
   "mgrFee": "0.50%",
   "trustFee": "0.15%",
   "salesFee": "0.00%",
@@ -1758,22 +1737,22 @@
   "asset": {
    "stock": "--",
    "bond": "--",
-   "cash": "6.76",
-   "fund": "93.5",
-   "other": "0",
-   "net": "23.8169",
-   "date": "2026-06-30"
+   "cash": "6.8",
+   "fund": "92.68",
+   "other": "0.52",
+   "net": "22.8894",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "博时纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/016055,AN202610271830982387.html"
+   },
    {
     "date": "2026-10-16",
     "title": "博时基金管理有限公司关于披露委托的第三方互联网平台等信息的公告",
     "url": "https://fund.eastmoney.com/gonggao/016055,AN202610161830625680.html"
-   },
-   {
-    "date": "2026-09-30",
-    "title": "博时基金管理有限公司关于高级管理人员变更的公告",
-    "url": "https://fund.eastmoney.com/gonggao/016055,AN202609301830053719.html"
    }
   ],
   "changed": false
@@ -1794,8 +1773,8 @@
   "manager": "万琼",
   "risk": "5",
   "estDate": "2022-07-26",
-  "scale": 15.04,
-  "scaleDate": "2026-06-30",
+  "scale": 14.57,
+  "scaleDate": "2026-09-30",
   "shares": 6.9,
   "mgrFee": "0.50%",
   "trustFee": "0.15%",
@@ -1848,22 +1827,22 @@
   "asset": {
    "stock": "--",
    "bond": "--",
-   "cash": "6.76",
-   "fund": "93.5",
-   "other": "0",
-   "net": "23.8169",
-   "date": "2026-06-30"
+   "cash": "6.8",
+   "fund": "92.68",
+   "other": "0.52",
+   "net": "22.8894",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "博时纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/016056,AN202610271830982387.html"
+   },
    {
     "date": "2026-10-16",
     "title": "博时基金管理有限公司关于披露委托的第三方互联网平台等信息的公告",
     "url": "https://fund.eastmoney.com/gonggao/016056,AN202610161830625680.html"
-   },
-   {
-    "date": "2026-09-30",
-    "title": "博时基金管理有限公司关于高级管理人员变更的公告",
-    "url": "https://fund.eastmoney.com/gonggao/016056,AN202609301830053719.html"
    }
   ],
   "changed": false
@@ -1884,9 +1863,9 @@
   "manager": "万琼",
   "risk": "4",
   "estDate": "2022-07-26",
-  "scale": 7.07,
-  "scaleDate": "2026-06-30",
-  "shares": 3.29,
+  "scale": 6.69,
+  "scaleDate": "2026-09-30",
+  "shares": 3.13,
   "mgrFee": "0.50%",
   "trustFee": "0.15%",
   "salesFee": "0.30%",
@@ -1938,22 +1917,22 @@
   "asset": {
    "stock": "--",
    "bond": "--",
-   "cash": "6.76",
-   "fund": "93.5",
-   "other": "0",
-   "net": "23.8169",
-   "date": "2026-06-30"
+   "cash": "6.8",
+   "fund": "92.68",
+   "other": "0.52",
+   "net": "22.8894",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "博时纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/016057,AN202610271830982387.html"
+   },
    {
     "date": "2026-10-16",
     "title": "博时基金管理有限公司关于披露委托的第三方互联网平台等信息的公告",
     "url": "https://fund.eastmoney.com/gonggao/016057,AN202610161830625680.html"
-   },
-   {
-    "date": "2026-09-30",
-    "title": "博时基金管理有限公司关于高级管理人员变更的公告",
-    "url": "https://fund.eastmoney.com/gonggao/016057,AN202609301830053719.html"
    }
   ],
   "changed": false
@@ -1974,8 +1953,8 @@
   "manager": "万琼",
   "risk": "5",
   "estDate": "2022-07-26",
-  "scale": 7.07,
-  "scaleDate": "2026-06-30",
+  "scale": 6.69,
+  "scaleDate": "2026-09-30",
   "shares": 3.29,
   "mgrFee": "0.50%",
   "trustFee": "0.15%",
@@ -2028,22 +2007,22 @@
   "asset": {
    "stock": "--",
    "bond": "--",
-   "cash": "6.76",
-   "fund": "93.5",
-   "other": "0",
-   "net": "23.8169",
-   "date": "2026-06-30"
+   "cash": "6.8",
+   "fund": "92.68",
+   "other": "0.52",
+   "net": "22.8894",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "博时纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/016058,AN202610271830982387.html"
+   },
    {
     "date": "2026-10-16",
     "title": "博时基金管理有限公司关于披露委托的第三方互联网平台等信息的公告",
     "url": "https://fund.eastmoney.com/gonggao/016058,AN202610161830625680.html"
-   },
-   {
-    "date": "2026-09-30",
-    "title": "博时基金管理有限公司关于高级管理人员变更的公告",
-    "url": "https://fund.eastmoney.com/gonggao/016058,AN202609301830053719.html"
    }
   ],
   "changed": false
@@ -2187,13 +2166,13 @@
   ],
   "fofHoldings": [],
   "asset": {
-   "stock": "87.41",
+   "stock": "89.56",
    "bond": "--",
-   "cash": "7.99",
-   "fund": "2.79",
-   "other": "1.81",
-   "net": "141.7948",
-   "date": "2026-06-30"
+   "cash": "6.72",
+   "fund": "2.54",
+   "other": "1.18",
+   "net": "154.6029",
+   "date": "2026-09-30"
   },
   "notices": [
    {
@@ -2353,13 +2332,13 @@
   ],
   "fofHoldings": [],
   "asset": {
-   "stock": "87.41",
+   "stock": "89.56",
    "bond": "--",
-   "cash": "7.99",
-   "fund": "2.79",
-   "other": "1.81",
-   "net": "141.7948",
-   "date": "2026-06-30"
+   "cash": "6.72",
+   "fund": "2.54",
+   "other": "1.18",
+   "net": "154.6029",
+   "date": "2026-09-30"
   },
   "notices": [
    {
@@ -2450,11 +2429,11 @@
   "asset": {
    "stock": "--",
    "bond": "--",
-   "cash": "8.96",
-   "fund": "90.91",
-   "other": "0.13",
-   "net": "37.4142",
-   "date": "2026-06-30"
+   "cash": "9.01",
+   "fund": "90.76",
+   "other": "0.23",
+   "net": "35.5192",
+   "date": "2026-09-30"
   },
   "notices": [
    {
@@ -2545,11 +2524,11 @@
   "asset": {
    "stock": "--",
    "bond": "--",
-   "cash": "8.96",
-   "fund": "90.91",
-   "other": "0.13",
-   "net": "37.4142",
-   "date": "2026-06-30"
+   "cash": "9.01",
+   "fund": "90.76",
+   "other": "0.23",
+   "net": "35.5192",
+   "date": "2026-09-30"
   },
   "notices": [
    {
@@ -2640,11 +2619,11 @@
   "asset": {
    "stock": "--",
    "bond": "--",
-   "cash": "8.96",
-   "fund": "90.91",
-   "other": "0.13",
-   "net": "37.4142",
-   "date": "2026-06-30"
+   "cash": "9.01",
+   "fund": "90.76",
+   "other": "0.23",
+   "net": "35.5192",
+   "date": "2026-09-30"
   },
   "notices": [
    {
@@ -2735,11 +2714,11 @@
   "asset": {
    "stock": "--",
    "bond": "--",
-   "cash": "8.96",
-   "fund": "90.91",
-   "other": "0.13",
-   "net": "37.4142",
-   "date": "2026-06-30"
+   "cash": "9.01",
+   "fund": "90.76",
+   "other": "0.23",
+   "net": "35.5192",
+   "date": "2026-09-30"
   },
   "notices": [
    {
@@ -2776,9 +2755,9 @@
   "manager": "LIU DONG(刘冬),胡超",
   "risk": "4",
   "estDate": "2023-04-11",
-  "scale": 30.75,
-  "scaleDate": "2026-06-30",
-  "shares": 14.67,
+  "scale": 32.44,
+  "scaleDate": "2026-09-30",
+  "shares": 15.58,
   "mgrFee": "0.50%",
   "trustFee": "0.10%",
   "salesFee": "0.00%",
@@ -2829,85 +2808,90 @@
    {
     "code": "NVDA",
     "name": "英伟达",
-    "pct": 6.84,
-    "chg": "-0.91",
-    "chgType": "减持"
+    "pct": 7.58,
+    "chg": "0.74",
+    "chgType": "增持"
    },
    {
     "code": "AAPL",
     "name": "苹果",
-    "pct": 6.0,
-    "chg": "-0.81",
-    "chgType": "减持"
-   },
-   {
-    "code": "MU",
-    "name": "美光科技",
-    "pct": 5.15,
-    "chg": "5.15",
-    "chgType": "新增"
+    "pct": 6.7,
+    "chg": "0.7",
+    "chgType": "增持"
    },
    {
     "code": "MSFT",
     "name": "微软",
-    "pct": 3.91,
-    "chg": "-1.11",
+    "pct": 5.25,
+    "chg": "1.34",
+    "chgType": "增持"
+   },
+   {
+    "code": "MU",
+    "name": "美光科技",
+    "pct": 4.58,
+    "chg": "-0.57",
     "chgType": "减持"
    },
    {
     "code": "AMD",
     "name": "超威半导体",
-    "pct": 3.74,
-    "chg": "3.74",
-    "chgType": "新增"
+    "pct": 3.8,
+    "chg": "0.06",
+    "chgType": "增持"
    },
    {
     "code": "AMZN",
     "name": "亚马逊",
-    "pct": 3.62,
-    "chg": "-0.47",
+    "pct": 3.7,
+    "chg": "0.08",
+    "chgType": "增持"
+   },
+   {
+    "code": "META",
+    "name": "Meta Platforms Inc-A",
+    "pct": 2.97,
+    "chg": "2.97",
+    "chgType": "新增"
+   },
+   {
+    "code": "GOOGL",
+    "name": "谷歌-A",
+    "pct": 2.78,
+    "chg": "-0.16",
+    "chgType": "减持"
+   },
+   {
+    "code": "GOOG",
+    "name": "谷歌-C",
+    "pct": 2.59,
+    "chg": "-0.13",
     "chgType": "减持"
    },
    {
     "code": "TSLA",
     "name": "特斯拉",
-    "pct": 2.97,
-    "chg": "-0.42",
-    "chgType": "减持"
-   },
-   {
-    "code": "GOOGL",
-    "name": "谷歌-A",
-    "pct": 2.94,
-    "chg": "-0.12",
-    "chgType": "减持"
-   },
-   {
-    "code": "INTC",
-    "name": "英特尔",
-    "pct": 2.77,
-    "chg": "2.77",
-    "chgType": "新增"
-   },
-   {
-    "code": "GOOG",
-    "name": "谷歌-C",
-    "pct": 2.72,
-    "chg": "-0.13",
+    "pct": 2.57,
+    "chg": "-0.4",
     "chgType": "减持"
    }
   ],
   "fofHoldings": [],
   "asset": {
-   "stock": "88.96",
-   "bond": "2.77",
-   "cash": "4.21",
+   "stock": "89.35",
+   "bond": "2.62",
+   "cash": "4.48",
    "fund": "--",
-   "other": "4.06",
-   "net": "61.798",
-   "date": "2026-06-30"
+   "other": "3.55",
+   "net": "65.7579",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "天弘纳斯达克100指数型发起式证券投资基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/018043,AN202610271830983909.html"
+   },
    {
     "date": "2026-09-18",
     "title": "天弘基金管理有限公司关于天弘纳斯达克100指数型发起式证券投资基金(QDII)A类基金份额、C类基金份额暂停申购及定期定额投资业务的公告",
@@ -2917,11 +2901,6 @@
     "date": "2026-09-04",
     "title": "天弘基金管理有限公司关于终止瑞银基金销售(深圳)有限公司办理旗下基金相关销售业务的公告",
     "url": "https://fund.eastmoney.com/gonggao/018043,AN202609041828989156.html"
-   },
-   {
-    "date": "2026-09-01",
-    "title": "天弘基金管理有限公司关于天弘纳斯达克100指数型发起式证券投资基金(QDII)恢复申购、定期定额投资业务及限制大额申购、定期定额投资业务的公告",
-    "url": "https://fund.eastmoney.com/gonggao/018043,AN202609011828848127.html"
    }
   ],
   "changed": false
@@ -2942,9 +2921,9 @@
   "manager": "LIU DONG(刘冬),胡超",
   "risk": "4",
   "estDate": "2023-04-11",
-  "scale": 29.34,
-  "scaleDate": "2026-06-30",
-  "shares": 14.11,
+  "scale": 31.7,
+  "scaleDate": "2026-09-30",
+  "shares": 15.36,
   "mgrFee": "0.50%",
   "trustFee": "0.10%",
   "salesFee": "0.20%",
@@ -2995,85 +2974,90 @@
    {
     "code": "NVDA",
     "name": "英伟达",
-    "pct": 6.84,
-    "chg": "-0.91",
-    "chgType": "减持"
+    "pct": 7.58,
+    "chg": "0.74",
+    "chgType": "增持"
    },
    {
     "code": "AAPL",
     "name": "苹果",
-    "pct": 6.0,
-    "chg": "-0.81",
-    "chgType": "减持"
-   },
-   {
-    "code": "MU",
-    "name": "美光科技",
-    "pct": 5.15,
-    "chg": "5.15",
-    "chgType": "新增"
+    "pct": 6.7,
+    "chg": "0.7",
+    "chgType": "增持"
    },
    {
     "code": "MSFT",
     "name": "微软",
-    "pct": 3.91,
-    "chg": "-1.11",
+    "pct": 5.25,
+    "chg": "1.34",
+    "chgType": "增持"
+   },
+   {
+    "code": "MU",
+    "name": "美光科技",
+    "pct": 4.58,
+    "chg": "-0.57",
     "chgType": "减持"
    },
    {
     "code": "AMD",
     "name": "超威半导体",
-    "pct": 3.74,
-    "chg": "3.74",
-    "chgType": "新增"
+    "pct": 3.8,
+    "chg": "0.06",
+    "chgType": "增持"
    },
    {
     "code": "AMZN",
     "name": "亚马逊",
-    "pct": 3.62,
-    "chg": "-0.47",
+    "pct": 3.7,
+    "chg": "0.08",
+    "chgType": "增持"
+   },
+   {
+    "code": "META",
+    "name": "Meta Platforms Inc-A",
+    "pct": 2.97,
+    "chg": "2.97",
+    "chgType": "新增"
+   },
+   {
+    "code": "GOOGL",
+    "name": "谷歌-A",
+    "pct": 2.78,
+    "chg": "-0.16",
+    "chgType": "减持"
+   },
+   {
+    "code": "GOOG",
+    "name": "谷歌-C",
+    "pct": 2.59,
+    "chg": "-0.13",
     "chgType": "减持"
    },
    {
     "code": "TSLA",
     "name": "特斯拉",
-    "pct": 2.97,
-    "chg": "-0.42",
-    "chgType": "减持"
-   },
-   {
-    "code": "GOOGL",
-    "name": "谷歌-A",
-    "pct": 2.94,
-    "chg": "-0.12",
-    "chgType": "减持"
-   },
-   {
-    "code": "INTC",
-    "name": "英特尔",
-    "pct": 2.77,
-    "chg": "2.77",
-    "chgType": "新增"
-   },
-   {
-    "code": "GOOG",
-    "name": "谷歌-C",
-    "pct": 2.72,
-    "chg": "-0.13",
+    "pct": 2.57,
+    "chg": "-0.4",
     "chgType": "减持"
    }
   ],
   "fofHoldings": [],
   "asset": {
-   "stock": "88.96",
-   "bond": "2.77",
-   "cash": "4.21",
+   "stock": "89.35",
+   "bond": "2.62",
+   "cash": "4.48",
    "fund": "--",
-   "other": "4.06",
-   "net": "61.798",
-   "date": "2026-06-30"
+   "other": "3.55",
+   "net": "65.7579",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "天弘纳斯达克100指数型发起式证券投资基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/018044,AN202610271830983909.html"
+   },
    {
     "date": "2026-09-18",
     "title": "天弘基金管理有限公司关于天弘纳斯达克100指数型发起式证券投资基金(QDII)A类基金份额、C类基金份额暂停申购及定期定额投资业务的公告",
@@ -3083,11 +3067,6 @@
     "date": "2026-09-04",
     "title": "天弘基金管理有限公司关于终止瑞银基金销售(深圳)有限公司办理旗下基金相关销售业务的公告",
     "url": "https://fund.eastmoney.com/gonggao/018044,AN202609041828989156.html"
-   },
-   {
-    "date": "2026-09-01",
-    "title": "天弘基金管理有限公司关于天弘纳斯达克100指数型发起式证券投资基金(QDII)恢复申购、定期定额投资业务及限制大额申购、定期定额投资业务的公告",
-    "url": "https://fund.eastmoney.com/gonggao/018044,AN202609011828848127.html"
    }
   ],
   "changed": false
@@ -3108,9 +3087,9 @@
   "manager": "乐无穹",
   "risk": "4",
   "estDate": "2023-08-02",
-  "scale": 16.33,
-  "scaleDate": "2026-06-30",
-  "shares": 9.64,
+  "scale": 20.35,
+  "scaleDate": "2026-09-30",
+  "shares": 12.27,
   "mgrFee": "0.50%",
   "trustFee": "0.15%",
   "salesFee": "0.00%",
@@ -3161,23 +3140,28 @@
   "fofHoldings": [],
   "asset": {
    "stock": "--",
-   "bond": "0.64",
-   "cash": "9.92",
-   "fund": "90.41",
+   "bond": "0.55",
+   "cash": "8.07",
+   "fund": "91.48",
    "other": "0",
-   "net": "31.2899",
-   "date": "2026-06-30"
+   "net": "36.8632",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "汇添富基金管理股份有限公司旗下基金2026年第三季度报告提示性公告",
+    "url": "https://fund.eastmoney.com/gonggao/018966,AN202610271830996011.html"
+   },
+   {
+    "date": "2026-10-27",
+    "title": "汇添富纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/018966,AN202610271830982218.html"
+   },
    {
     "date": "2026-09-24",
     "title": "关于汇添富纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)暂停申购、定期定额投资业务的公告",
     "url": "https://fund.eastmoney.com/gonggao/018966,AN202609241829835607.html"
-   },
-   {
-    "date": "2026-09-22",
-    "title": "关于汇添富纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)调整直销机构大额申购、定期定额投资业务限制金额的公告",
-    "url": "https://fund.eastmoney.com/gonggao/018966,AN202609221829742553.html"
    }
   ],
   "changed": false
@@ -3198,9 +3182,9 @@
   "manager": "乐无穹",
   "risk": "4",
   "estDate": "2023-08-02",
-  "scale": 11.09,
-  "scaleDate": "2026-06-30",
-  "shares": 6.62,
+  "scale": 11.58,
+  "scaleDate": "2026-09-30",
+  "shares": 7.07,
   "mgrFee": "0.50%",
   "trustFee": "0.15%",
   "salesFee": "0.40%",
@@ -3251,23 +3235,28 @@
   "fofHoldings": [],
   "asset": {
    "stock": "--",
-   "bond": "0.64",
-   "cash": "9.92",
-   "fund": "90.41",
+   "bond": "0.55",
+   "cash": "8.07",
+   "fund": "91.48",
    "other": "0",
-   "net": "31.2899",
-   "date": "2026-06-30"
+   "net": "36.8632",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "汇添富基金管理股份有限公司旗下基金2026年第三季度报告提示性公告",
+    "url": "https://fund.eastmoney.com/gonggao/018967,AN202610271830996011.html"
+   },
+   {
+    "date": "2026-10-27",
+    "title": "汇添富纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/018967,AN202610271830982218.html"
+   },
    {
     "date": "2026-09-24",
     "title": "关于汇添富纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)暂停申购、定期定额投资业务的公告",
     "url": "https://fund.eastmoney.com/gonggao/018967,AN202609241829835607.html"
-   },
-   {
-    "date": "2026-09-22",
-    "title": "关于汇添富纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)调整直销机构大额申购、定期定额投资业务限制金额的公告",
-    "url": "https://fund.eastmoney.com/gonggao/018967,AN202609221829742553.html"
    }
   ],
   "changed": false
@@ -3288,8 +3277,8 @@
   "manager": "乐无穹",
   "risk": "4",
   "estDate": "2023-08-02",
-  "scale": 0.23,
-  "scaleDate": "2026-06-30",
+  "scale": 0.27,
+  "scaleDate": "2026-09-30",
   "shares": 0.02,
   "mgrFee": "0.50%",
   "trustFee": "0.15%",
@@ -3341,23 +3330,28 @@
   "fofHoldings": [],
   "asset": {
    "stock": "--",
-   "bond": "0.64",
-   "cash": "9.92",
-   "fund": "90.41",
+   "bond": "0.55",
+   "cash": "8.07",
+   "fund": "91.48",
    "other": "0",
-   "net": "31.2899",
-   "date": "2026-06-30"
+   "net": "36.8632",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "汇添富基金管理股份有限公司旗下基金2026年第三季度报告提示性公告",
+    "url": "https://fund.eastmoney.com/gonggao/018968,AN202610271830996011.html"
+   },
+   {
+    "date": "2026-10-27",
+    "title": "汇添富纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/018968,AN202610271830982218.html"
+   },
    {
     "date": "2026-09-24",
     "title": "关于汇添富纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)暂停申购、定期定额投资业务的公告",
     "url": "https://fund.eastmoney.com/gonggao/018968,AN202609241829835607.html"
-   },
-   {
-    "date": "2026-09-22",
-    "title": "关于汇添富纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)调整直销机构大额申购、定期定额投资业务限制金额的公告",
-    "url": "https://fund.eastmoney.com/gonggao/018968,AN202609221829742553.html"
    }
   ],
   "changed": false
@@ -3379,7 +3373,7 @@
   "risk": "5",
   "estDate": "2023-08-02",
   "scale": 0.0,
-  "scaleDate": "2023-12-31",
+  "scaleDate": "2026-09-30",
   "shares": 0.0,
   "mgrFee": "0.50%",
   "trustFee": "0.15%",
@@ -3431,23 +3425,28 @@
   "fofHoldings": [],
   "asset": {
    "stock": "--",
-   "bond": "0.64",
-   "cash": "9.92",
-   "fund": "90.41",
+   "bond": "0.55",
+   "cash": "8.07",
+   "fund": "91.48",
    "other": "0",
-   "net": "31.2899",
-   "date": "2026-06-30"
+   "net": "36.8632",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "汇添富基金管理股份有限公司旗下基金2026年第三季度报告提示性公告",
+    "url": "https://fund.eastmoney.com/gonggao/018969,AN202610271830996011.html"
+   },
+   {
+    "date": "2026-10-27",
+    "title": "汇添富纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/018969,AN202610271830982218.html"
+   },
    {
     "date": "2026-09-24",
     "title": "关于汇添富纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)暂停申购、定期定额投资业务的公告",
     "url": "https://fund.eastmoney.com/gonggao/018969,AN202609241829835607.html"
-   },
-   {
-    "date": "2026-09-22",
-    "title": "关于汇添富纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)调整直销机构大额申购、定期定额投资业务限制金额的公告",
-    "url": "https://fund.eastmoney.com/gonggao/018969,AN202609221829742553.html"
    }
   ],
   "changed": false
@@ -3468,9 +3467,9 @@
   "manager": "何智豪,徐寅",
   "risk": "4",
   "estDate": "2023-09-25",
-  "scale": 29.69,
-  "scaleDate": "2026-06-30",
-  "shares": 16.5,
+  "scale": 32.03,
+  "scaleDate": "2026-09-30",
+  "shares": 17.87,
   "mgrFee": "0.50%",
   "trustFee": "0.10%",
   "salesFee": "0.00%",
@@ -3521,94 +3520,99 @@
    {
     "code": "NVDA",
     "name": "英伟达",
-    "pct": 6.96,
-    "chg": "-1.32",
-    "chgType": "减持"
+    "pct": 7.89,
+    "chg": "0.93",
+    "chgType": "增持"
    },
    {
     "code": "AAPL",
     "name": "苹果",
-    "pct": 6.11,
-    "chg": "-1.17",
-    "chgType": "减持"
-   },
-   {
-    "code": "MU",
-    "name": "美光科技",
-    "pct": 5.17,
-    "chg": "5.17",
-    "chgType": "新增"
+    "pct": 6.96,
+    "chg": "0.85",
+    "chgType": "增持"
    },
    {
     "code": "MSFT",
     "name": "微软",
-    "pct": 3.98,
-    "chg": "-1.39",
+    "pct": 5.46,
+    "chg": "1.48",
+    "chgType": "增持"
+   },
+   {
+    "code": "MU",
+    "name": "美光科技",
+    "pct": 4.76,
+    "chg": "-0.41",
     "chgType": "减持"
    },
    {
     "code": "AMD",
     "name": "超威半导体",
-    "pct": 3.76,
-    "chg": "3.76",
-    "chgType": "新增"
+    "pct": 3.95,
+    "chg": "0.19",
+    "chgType": "增持"
    },
    {
     "code": "AMZN",
     "name": "亚马逊",
-    "pct": 3.69,
-    "chg": "-0.68",
+    "pct": 3.85,
+    "chg": "0.16",
+    "chgType": "增持"
+   },
+   {
+    "code": "META",
+    "name": "Meta Platforms Inc-A",
+    "pct": 3.09,
+    "chg": "3.09",
+    "chgType": "新增"
+   },
+   {
+    "code": "GOOGL",
+    "name": "谷歌-A",
+    "pct": 2.89,
+    "chg": "-0.1",
+    "chgType": "减持"
+   },
+   {
+    "code": "GOOG",
+    "name": "谷歌-C",
+    "pct": 2.7,
+    "chg": "-0.07",
     "chgType": "减持"
    },
    {
     "code": "TSLA",
     "name": "特斯拉",
-    "pct": 3.02,
-    "chg": "-0.61",
-    "chgType": "减持"
-   },
-   {
-    "code": "GOOGL",
-    "name": "谷歌-A",
-    "pct": 2.99,
-    "chg": "-0.28",
-    "chgType": "减持"
-   },
-   {
-    "code": "INTC",
-    "name": "英特尔",
-    "pct": 2.78,
-    "chg": "2.78",
-    "chgType": "新增"
-   },
-   {
-    "code": "GOOG",
-    "name": "谷歌-C",
-    "pct": 2.77,
-    "chg": "-0.28",
+    "pct": 2.67,
+    "chg": "-0.35",
     "chgType": "减持"
    }
   ],
   "fofHoldings": [],
   "asset": {
-   "stock": "90.03",
+   "stock": "92.97",
    "bond": "--",
-   "cash": "9.29",
+   "cash": "6.18",
    "fund": "--",
-   "other": "0.68",
-   "net": "40.7757",
-   "date": "2026-06-30"
+   "other": "0.85",
+   "net": "43.4095",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "摩根基金管理(中国)有限公司旗下部分基金2026年第三季度报告提示性公告",
+    "url": "https://fund.eastmoney.com/gonggao/019172,AN202610271831008850.html"
+   },
+   {
+    "date": "2026-10-27",
+    "title": "摩根纳斯达克100指数型发起式证券投资基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/019172,AN202610271830980335.html"
+   },
    {
     "date": "2026-10-22",
     "title": "摩根基金管理(中国)有限公司参与上市公司治理管理工作指引",
     "url": "https://fund.eastmoney.com/gonggao/019172,AN202610221830782663.html"
-   },
-   {
-    "date": "2026-09-21",
-    "title": "关于新增万联证券股份有限公司为摩根基金管理(中国)有限公司旗下部分基金代销机构的公告",
-    "url": "https://fund.eastmoney.com/gonggao/019172,AN202609211829686442.html"
    }
   ],
   "changed": false
@@ -3629,9 +3633,9 @@
   "manager": "何智豪,徐寅",
   "risk": "4",
   "estDate": "2023-09-25",
-  "scale": 10.8,
-  "scaleDate": "2026-06-30",
-  "shares": 6.06,
+  "scale": 11.09,
+  "scaleDate": "2026-09-30",
+  "shares": 6.24,
   "mgrFee": "0.50%",
   "trustFee": "0.10%",
   "salesFee": "0.30%",
@@ -3682,94 +3686,99 @@
    {
     "code": "NVDA",
     "name": "英伟达",
-    "pct": 6.96,
-    "chg": "-1.32",
-    "chgType": "减持"
+    "pct": 7.89,
+    "chg": "0.93",
+    "chgType": "增持"
    },
    {
     "code": "AAPL",
     "name": "苹果",
-    "pct": 6.11,
-    "chg": "-1.17",
-    "chgType": "减持"
-   },
-   {
-    "code": "MU",
-    "name": "美光科技",
-    "pct": 5.17,
-    "chg": "5.17",
-    "chgType": "新增"
+    "pct": 6.96,
+    "chg": "0.85",
+    "chgType": "增持"
    },
    {
     "code": "MSFT",
     "name": "微软",
-    "pct": 3.98,
-    "chg": "-1.39",
+    "pct": 5.46,
+    "chg": "1.48",
+    "chgType": "增持"
+   },
+   {
+    "code": "MU",
+    "name": "美光科技",
+    "pct": 4.76,
+    "chg": "-0.41",
     "chgType": "减持"
    },
    {
     "code": "AMD",
     "name": "超威半导体",
-    "pct": 3.76,
-    "chg": "3.76",
-    "chgType": "新增"
+    "pct": 3.95,
+    "chg": "0.19",
+    "chgType": "增持"
    },
    {
     "code": "AMZN",
     "name": "亚马逊",
-    "pct": 3.69,
-    "chg": "-0.68",
+    "pct": 3.85,
+    "chg": "0.16",
+    "chgType": "增持"
+   },
+   {
+    "code": "META",
+    "name": "Meta Platforms Inc-A",
+    "pct": 3.09,
+    "chg": "3.09",
+    "chgType": "新增"
+   },
+   {
+    "code": "GOOGL",
+    "name": "谷歌-A",
+    "pct": 2.89,
+    "chg": "-0.1",
+    "chgType": "减持"
+   },
+   {
+    "code": "GOOG",
+    "name": "谷歌-C",
+    "pct": 2.7,
+    "chg": "-0.07",
     "chgType": "减持"
    },
    {
     "code": "TSLA",
     "name": "特斯拉",
-    "pct": 3.02,
-    "chg": "-0.61",
-    "chgType": "减持"
-   },
-   {
-    "code": "GOOGL",
-    "name": "谷歌-A",
-    "pct": 2.99,
-    "chg": "-0.28",
-    "chgType": "减持"
-   },
-   {
-    "code": "INTC",
-    "name": "英特尔",
-    "pct": 2.78,
-    "chg": "2.78",
-    "chgType": "新增"
-   },
-   {
-    "code": "GOOG",
-    "name": "谷歌-C",
-    "pct": 2.77,
-    "chg": "-0.28",
+    "pct": 2.67,
+    "chg": "-0.35",
     "chgType": "减持"
    }
   ],
   "fofHoldings": [],
   "asset": {
-   "stock": "90.03",
+   "stock": "92.97",
    "bond": "--",
-   "cash": "9.29",
+   "cash": "6.18",
    "fund": "--",
-   "other": "0.68",
-   "net": "40.7757",
-   "date": "2026-06-30"
+   "other": "0.85",
+   "net": "43.4095",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "摩根基金管理(中国)有限公司旗下部分基金2026年第三季度报告提示性公告",
+    "url": "https://fund.eastmoney.com/gonggao/019173,AN202610271831008850.html"
+   },
+   {
+    "date": "2026-10-27",
+    "title": "摩根纳斯达克100指数型发起式证券投资基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/019173,AN202610271830980335.html"
+   },
    {
     "date": "2026-10-22",
     "title": "摩根基金管理(中国)有限公司参与上市公司治理管理工作指引",
     "url": "https://fund.eastmoney.com/gonggao/019173,AN202610221830782663.html"
-   },
-   {
-    "date": "2026-09-21",
-    "title": "关于新增万联证券股份有限公司为摩根基金管理(中国)有限公司旗下部分基金代销机构的公告",
-    "url": "https://fund.eastmoney.com/gonggao/019173,AN202609211829686442.html"
    }
   ],
   "changed": false
@@ -3790,8 +3799,8 @@
   "manager": "何智豪,徐寅",
   "risk": "5",
   "estDate": "2023-09-25",
-  "scale": 0.15,
-  "scaleDate": "2026-06-30",
+  "scale": 0.16,
+  "scaleDate": "2026-09-30",
   "shares": 0.01,
   "mgrFee": "0.50%",
   "trustFee": "0.10%",
@@ -3843,94 +3852,99 @@
    {
     "code": "NVDA",
     "name": "英伟达",
-    "pct": 6.96,
-    "chg": "-1.32",
-    "chgType": "减持"
+    "pct": 7.89,
+    "chg": "0.93",
+    "chgType": "增持"
    },
    {
     "code": "AAPL",
     "name": "苹果",
-    "pct": 6.11,
-    "chg": "-1.17",
-    "chgType": "减持"
-   },
-   {
-    "code": "MU",
-    "name": "美光科技",
-    "pct": 5.17,
-    "chg": "5.17",
-    "chgType": "新增"
+    "pct": 6.96,
+    "chg": "0.85",
+    "chgType": "增持"
    },
    {
     "code": "MSFT",
     "name": "微软",
-    "pct": 3.98,
-    "chg": "-1.39",
+    "pct": 5.46,
+    "chg": "1.48",
+    "chgType": "增持"
+   },
+   {
+    "code": "MU",
+    "name": "美光科技",
+    "pct": 4.76,
+    "chg": "-0.41",
     "chgType": "减持"
    },
    {
     "code": "AMD",
     "name": "超威半导体",
-    "pct": 3.76,
-    "chg": "3.76",
-    "chgType": "新增"
+    "pct": 3.95,
+    "chg": "0.19",
+    "chgType": "增持"
    },
    {
     "code": "AMZN",
     "name": "亚马逊",
-    "pct": 3.69,
-    "chg": "-0.68",
+    "pct": 3.85,
+    "chg": "0.16",
+    "chgType": "增持"
+   },
+   {
+    "code": "META",
+    "name": "Meta Platforms Inc-A",
+    "pct": 3.09,
+    "chg": "3.09",
+    "chgType": "新增"
+   },
+   {
+    "code": "GOOGL",
+    "name": "谷歌-A",
+    "pct": 2.89,
+    "chg": "-0.1",
+    "chgType": "减持"
+   },
+   {
+    "code": "GOOG",
+    "name": "谷歌-C",
+    "pct": 2.7,
+    "chg": "-0.07",
     "chgType": "减持"
    },
    {
     "code": "TSLA",
     "name": "特斯拉",
-    "pct": 3.02,
-    "chg": "-0.61",
-    "chgType": "减持"
-   },
-   {
-    "code": "GOOGL",
-    "name": "谷歌-A",
-    "pct": 2.99,
-    "chg": "-0.28",
-    "chgType": "减持"
-   },
-   {
-    "code": "INTC",
-    "name": "英特尔",
-    "pct": 2.78,
-    "chg": "2.78",
-    "chgType": "新增"
-   },
-   {
-    "code": "GOOG",
-    "name": "谷歌-C",
-    "pct": 2.77,
-    "chg": "-0.28",
+    "pct": 2.67,
+    "chg": "-0.35",
     "chgType": "减持"
    }
   ],
   "fofHoldings": [],
   "asset": {
-   "stock": "90.03",
+   "stock": "92.97",
    "bond": "--",
-   "cash": "9.29",
+   "cash": "6.18",
    "fund": "--",
-   "other": "0.68",
-   "net": "40.7757",
-   "date": "2026-06-30"
+   "other": "0.85",
+   "net": "43.4095",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "摩根基金管理(中国)有限公司旗下部分基金2026年第三季度报告提示性公告",
+    "url": "https://fund.eastmoney.com/gonggao/019174,AN202610271831008850.html"
+   },
+   {
+    "date": "2026-10-27",
+    "title": "摩根纳斯达克100指数型发起式证券投资基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/019174,AN202610271830980335.html"
+   },
    {
     "date": "2026-10-22",
     "title": "摩根基金管理(中国)有限公司参与上市公司治理管理工作指引",
     "url": "https://fund.eastmoney.com/gonggao/019174,AN202610221830782663.html"
-   },
-   {
-    "date": "2026-09-07",
-    "title": "摩根基金管理(中国)有限公司关于终止瑞银基金销售(深圳)有限公司办理旗下基金相关销售业务及后续投资者服务措施的公告",
-    "url": "https://fund.eastmoney.com/gonggao/019174,AN202609071829085833.html"
    }
   ],
   "changed": false
@@ -3952,7 +3966,7 @@
   "risk": "5",
   "estDate": "2023-09-25",
   "scale": 0.14,
-  "scaleDate": "2026-06-30",
+  "scaleDate": "2026-09-30",
   "shares": 0.01,
   "mgrFee": "0.50%",
   "trustFee": "0.10%",
@@ -4004,94 +4018,99 @@
    {
     "code": "NVDA",
     "name": "英伟达",
-    "pct": 6.96,
-    "chg": "-1.32",
-    "chgType": "减持"
+    "pct": 7.89,
+    "chg": "0.93",
+    "chgType": "增持"
    },
    {
     "code": "AAPL",
     "name": "苹果",
-    "pct": 6.11,
-    "chg": "-1.17",
-    "chgType": "减持"
-   },
-   {
-    "code": "MU",
-    "name": "美光科技",
-    "pct": 5.17,
-    "chg": "5.17",
-    "chgType": "新增"
+    "pct": 6.96,
+    "chg": "0.85",
+    "chgType": "增持"
    },
    {
     "code": "MSFT",
     "name": "微软",
-    "pct": 3.98,
-    "chg": "-1.39",
+    "pct": 5.46,
+    "chg": "1.48",
+    "chgType": "增持"
+   },
+   {
+    "code": "MU",
+    "name": "美光科技",
+    "pct": 4.76,
+    "chg": "-0.41",
     "chgType": "减持"
    },
    {
     "code": "AMD",
     "name": "超威半导体",
-    "pct": 3.76,
-    "chg": "3.76",
-    "chgType": "新增"
+    "pct": 3.95,
+    "chg": "0.19",
+    "chgType": "增持"
    },
    {
     "code": "AMZN",
     "name": "亚马逊",
-    "pct": 3.69,
-    "chg": "-0.68",
+    "pct": 3.85,
+    "chg": "0.16",
+    "chgType": "增持"
+   },
+   {
+    "code": "META",
+    "name": "Meta Platforms Inc-A",
+    "pct": 3.09,
+    "chg": "3.09",
+    "chgType": "新增"
+   },
+   {
+    "code": "GOOGL",
+    "name": "谷歌-A",
+    "pct": 2.89,
+    "chg": "-0.1",
+    "chgType": "减持"
+   },
+   {
+    "code": "GOOG",
+    "name": "谷歌-C",
+    "pct": 2.7,
+    "chg": "-0.07",
     "chgType": "减持"
    },
    {
     "code": "TSLA",
     "name": "特斯拉",
-    "pct": 3.02,
-    "chg": "-0.61",
-    "chgType": "减持"
-   },
-   {
-    "code": "GOOGL",
-    "name": "谷歌-A",
-    "pct": 2.99,
-    "chg": "-0.28",
-    "chgType": "减持"
-   },
-   {
-    "code": "INTC",
-    "name": "英特尔",
-    "pct": 2.78,
-    "chg": "2.78",
-    "chgType": "新增"
-   },
-   {
-    "code": "GOOG",
-    "name": "谷歌-C",
-    "pct": 2.77,
-    "chg": "-0.28",
+    "pct": 2.67,
+    "chg": "-0.35",
     "chgType": "减持"
    }
   ],
   "fofHoldings": [],
   "asset": {
-   "stock": "90.03",
+   "stock": "92.97",
    "bond": "--",
-   "cash": "9.29",
+   "cash": "6.18",
    "fund": "--",
-   "other": "0.68",
-   "net": "40.7757",
-   "date": "2026-06-30"
+   "other": "0.85",
+   "net": "43.4095",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "摩根基金管理(中国)有限公司旗下部分基金2026年第三季度报告提示性公告",
+    "url": "https://fund.eastmoney.com/gonggao/019175,AN202610271831008850.html"
+   },
+   {
+    "date": "2026-10-27",
+    "title": "摩根纳斯达克100指数型发起式证券投资基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/019175,AN202610271830980335.html"
+   },
    {
     "date": "2026-10-22",
     "title": "摩根基金管理(中国)有限公司参与上市公司治理管理工作指引",
     "url": "https://fund.eastmoney.com/gonggao/019175,AN202610221830782663.html"
-   },
-   {
-    "date": "2026-09-07",
-    "title": "摩根基金管理(中国)有限公司关于终止瑞银基金销售(深圳)有限公司办理旗下基金相关销售业务及后续投资者服务措施的公告",
-    "url": "https://fund.eastmoney.com/gonggao/019175,AN202609071829085833.html"
    }
   ],
   "changed": false
@@ -4112,9 +4131,9 @@
   "manager": "杨坤,贺方舟",
   "risk": "4",
   "estDate": "2023-09-27",
-  "scale": 9.68,
-  "scaleDate": "2026-06-30",
-  "shares": 5.59,
+  "scale": 14.86,
+  "scaleDate": "2026-09-30",
+  "shares": 8.6,
   "mgrFee": "0.50%",
   "trustFee": "0.15%",
   "salesFee": "0.00%",
@@ -4165,99 +4184,99 @@
    {
     "code": "NVDA",
     "name": "英伟达",
-    "pct": 7.16,
-    "chg": "-1.03",
-    "chgType": "减持"
+    "pct": 7.9,
+    "chg": "0.74",
+    "chgType": "增持"
    },
    {
     "code": "AAPL",
     "name": "苹果",
-    "pct": 6.28,
-    "chg": "-0.92",
-    "chgType": "减持"
-   },
-   {
-    "code": "MU",
-    "name": "美光科技",
-    "pct": 5.31,
-    "chg": "5.31",
-    "chgType": "新增"
+    "pct": 6.98,
+    "chg": "0.7",
+    "chgType": "增持"
    },
    {
     "code": "MSFT",
     "name": "微软",
-    "pct": 4.09,
-    "chg": "-1.22",
+    "pct": 5.47,
+    "chg": "1.38",
+    "chgType": "增持"
+   },
+   {
+    "code": "MU",
+    "name": "美光科技",
+    "pct": 4.77,
+    "chg": "-0.54",
     "chgType": "减持"
    },
    {
     "code": "AMD",
     "name": "超威半导体",
-    "pct": 3.86,
-    "chg": "3.86",
-    "chgType": "新增"
+    "pct": 3.96,
+    "chg": "0.1",
+    "chgType": "增持"
    },
    {
     "code": "AMZN",
     "name": "亚马逊",
-    "pct": 3.79,
-    "chg": "-0.53",
+    "pct": 3.86,
+    "chg": "0.07",
+    "chgType": "增持"
+   },
+   {
+    "code": "META",
+    "name": "Meta Platforms Inc-A",
+    "pct": 3.1,
+    "chg": "3.1",
+    "chgType": "新增"
+   },
+   {
+    "code": "GOOGL",
+    "name": "谷歌-A",
+    "pct": 2.9,
+    "chg": "-0.18",
+    "chgType": "减持"
+   },
+   {
+    "code": "GOOG",
+    "name": "谷歌-C",
+    "pct": 2.7,
+    "chg": "-0.15",
     "chgType": "减持"
    },
    {
     "code": "TSLA",
     "name": "特斯拉",
-    "pct": 3.1,
-    "chg": "-0.49",
-    "chgType": "减持"
-   },
-   {
-    "code": "GOOGL",
-    "name": "谷歌-A",
-    "pct": 3.08,
-    "chg": "-0.16",
-    "chgType": "减持"
-   },
-   {
-    "code": "INTC",
-    "name": "英特尔",
-    "pct": 2.86,
-    "chg": "2.86",
-    "chgType": "新增"
-   },
-   {
-    "code": "GOOG",
-    "name": "谷歌-C",
-    "pct": 2.85,
-    "chg": "-0.17",
+    "pct": 2.68,
+    "chg": "-0.42",
     "chgType": "减持"
    }
   ],
   "fofHoldings": [],
   "asset": {
-   "stock": "92.56",
+   "stock": "93.15",
    "bond": "--",
-   "cash": "5.37",
+   "cash": "6.21",
    "fund": "--",
-   "other": "2.07",
-   "net": "13.9677",
-   "date": "2026-06-30"
+   "other": "0.64",
+   "net": "21.8309",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "万家基金管理有限公司关于旗下基金2026年第3季度报告提示性公告",
+    "url": "https://fund.eastmoney.com/gonggao/019441,AN202610271830997609.html"
+   },
+   {
+    "date": "2026-10-27",
+    "title": "万家纳斯达克100指数型发起式证券投资基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/019441,AN202610271830981233.html"
+   },
    {
     "date": "2026-10-21",
     "title": "关于万家纳斯达克100指数型发起式证券投资基金(QDII)调整大额申购(含定期定额投资)业务金额限制的公告",
     "url": "https://fund.eastmoney.com/gonggao/019441,AN202610211830733237.html"
-   },
-   {
-    "date": "2026-10-20",
-    "title": "万家纳斯达克100指数型发起式证券投资基金(QDII)更新招募说明书(2026年第2号)",
-    "url": "https://fund.eastmoney.com/gonggao/019441,AN202610201830701010.html"
-   },
-   {
-    "date": "2026-10-20",
-    "title": "万家纳斯达克100指数型发起式证券投资基金(QDII)基金产品资料概要更新",
-    "url": "https://fund.eastmoney.com/gonggao/019441,AN202610201830701009.html"
    }
   ],
   "changed": false
@@ -4278,9 +4297,9 @@
   "manager": "杨坤,贺方舟",
   "risk": "4",
   "estDate": "2023-09-27",
-  "scale": 4.29,
-  "scaleDate": "2026-06-30",
-  "shares": 2.49,
+  "scale": 6.97,
+  "scaleDate": "2026-09-30",
+  "shares": 4.06,
   "mgrFee": "0.50%",
   "trustFee": "0.15%",
   "salesFee": "0.20%",
@@ -4331,99 +4350,99 @@
    {
     "code": "NVDA",
     "name": "英伟达",
-    "pct": 7.16,
-    "chg": "-1.03",
-    "chgType": "减持"
+    "pct": 7.9,
+    "chg": "0.74",
+    "chgType": "增持"
    },
    {
     "code": "AAPL",
     "name": "苹果",
-    "pct": 6.28,
-    "chg": "-0.92",
-    "chgType": "减持"
-   },
-   {
-    "code": "MU",
-    "name": "美光科技",
-    "pct": 5.31,
-    "chg": "5.31",
-    "chgType": "新增"
+    "pct": 6.98,
+    "chg": "0.7",
+    "chgType": "增持"
    },
    {
     "code": "MSFT",
     "name": "微软",
-    "pct": 4.09,
-    "chg": "-1.22",
+    "pct": 5.47,
+    "chg": "1.38",
+    "chgType": "增持"
+   },
+   {
+    "code": "MU",
+    "name": "美光科技",
+    "pct": 4.77,
+    "chg": "-0.54",
     "chgType": "减持"
    },
    {
     "code": "AMD",
     "name": "超威半导体",
-    "pct": 3.86,
-    "chg": "3.86",
-    "chgType": "新增"
+    "pct": 3.96,
+    "chg": "0.1",
+    "chgType": "增持"
    },
    {
     "code": "AMZN",
     "name": "亚马逊",
-    "pct": 3.79,
-    "chg": "-0.53",
+    "pct": 3.86,
+    "chg": "0.07",
+    "chgType": "增持"
+   },
+   {
+    "code": "META",
+    "name": "Meta Platforms Inc-A",
+    "pct": 3.1,
+    "chg": "3.1",
+    "chgType": "新增"
+   },
+   {
+    "code": "GOOGL",
+    "name": "谷歌-A",
+    "pct": 2.9,
+    "chg": "-0.18",
+    "chgType": "减持"
+   },
+   {
+    "code": "GOOG",
+    "name": "谷歌-C",
+    "pct": 2.7,
+    "chg": "-0.15",
     "chgType": "减持"
    },
    {
     "code": "TSLA",
     "name": "特斯拉",
-    "pct": 3.1,
-    "chg": "-0.49",
-    "chgType": "减持"
-   },
-   {
-    "code": "GOOGL",
-    "name": "谷歌-A",
-    "pct": 3.08,
-    "chg": "-0.16",
-    "chgType": "减持"
-   },
-   {
-    "code": "INTC",
-    "name": "英特尔",
-    "pct": 2.86,
-    "chg": "2.86",
-    "chgType": "新增"
-   },
-   {
-    "code": "GOOG",
-    "name": "谷歌-C",
-    "pct": 2.85,
-    "chg": "-0.17",
+    "pct": 2.68,
+    "chg": "-0.42",
     "chgType": "减持"
    }
   ],
   "fofHoldings": [],
   "asset": {
-   "stock": "92.56",
+   "stock": "93.15",
    "bond": "--",
-   "cash": "5.37",
+   "cash": "6.21",
    "fund": "--",
-   "other": "2.07",
-   "net": "13.9677",
-   "date": "2026-06-30"
+   "other": "0.64",
+   "net": "21.8309",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "万家基金管理有限公司关于旗下基金2026年第3季度报告提示性公告",
+    "url": "https://fund.eastmoney.com/gonggao/019442,AN202610271830997609.html"
+   },
+   {
+    "date": "2026-10-27",
+    "title": "万家纳斯达克100指数型发起式证券投资基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/019442,AN202610271830981233.html"
+   },
    {
     "date": "2026-10-21",
     "title": "关于万家纳斯达克100指数型发起式证券投资基金(QDII)调整大额申购(含定期定额投资)业务金额限制的公告",
     "url": "https://fund.eastmoney.com/gonggao/019442,AN202610211830733237.html"
-   },
-   {
-    "date": "2026-10-20",
-    "title": "万家纳斯达克100指数型发起式证券投资基金(QDII)更新招募说明书(2026年第2号)",
-    "url": "https://fund.eastmoney.com/gonggao/019442,AN202610201830701010.html"
-   },
-   {
-    "date": "2026-10-20",
-    "title": "万家纳斯达克100指数型发起式证券投资基金(QDII)基金产品资料概要更新",
-    "url": "https://fund.eastmoney.com/gonggao/019442,AN202610201830701009.html"
    }
   ],
   "changed": false
@@ -4507,6 +4526,11 @@
   "notices": [
    {
     "date": "2026-10-27",
+    "title": "华泰柏瑞基金管理有限公司关于增加长城证券股份有限公司为旗下部分基金代销机构同时开通基金转换和定投业务的通知",
+    "url": "https://fund.eastmoney.com/gonggao/019524,AN202610271831011930.html"
+   },
+   {
+    "date": "2026-10-27",
     "title": "华泰柏瑞纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)2026年第3季度报告",
     "url": "https://fund.eastmoney.com/gonggao/019524,AN202610271830962077.html"
    },
@@ -4514,11 +4538,6 @@
     "date": "2026-10-27",
     "title": "华泰柏瑞基金管理有限公司旗下部分基金季度报告提示性公告",
     "url": "https://fund.eastmoney.com/gonggao/019524,AN202610271830960953.html"
-   },
-   {
-    "date": "2026-10-20",
-    "title": "华泰柏瑞基金产品风险等级-20261020",
-    "url": "https://fund.eastmoney.com/gonggao/019524,AN202610201830709465.html"
    }
   ],
   "changed": false
@@ -4602,6 +4621,11 @@
   "notices": [
    {
     "date": "2026-10-27",
+    "title": "华泰柏瑞基金管理有限公司关于增加长城证券股份有限公司为旗下部分基金代销机构同时开通基金转换和定投业务的通知",
+    "url": "https://fund.eastmoney.com/gonggao/019525,AN202610271831011930.html"
+   },
+   {
+    "date": "2026-10-27",
     "title": "华泰柏瑞纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)2026年第3季度报告",
     "url": "https://fund.eastmoney.com/gonggao/019525,AN202610271830962077.html"
    },
@@ -4609,11 +4633,6 @@
     "date": "2026-10-27",
     "title": "华泰柏瑞基金管理有限公司旗下部分基金季度报告提示性公告",
     "url": "https://fund.eastmoney.com/gonggao/019525,AN202610271830960953.html"
-   },
-   {
-    "date": "2026-10-20",
-    "title": "华泰柏瑞基金产品风险等级-20261020",
-    "url": "https://fund.eastmoney.com/gonggao/019525,AN202610201830709465.html"
    }
   ],
   "changed": false
@@ -4634,9 +4653,9 @@
   "manager": "刘重杰",
   "risk": "4",
   "estDate": "2023-11-29",
-  "scale": 21.78,
-  "scaleDate": "2026-06-30",
-  "shares": 13.46,
+  "scale": 23.23,
+  "scaleDate": "2026-09-30",
+  "shares": 14.43,
   "mgrFee": "0.50%",
   "trustFee": "0.15%",
   "salesFee": "0.00%",
@@ -4687,14 +4706,19 @@
   "fofHoldings": [],
   "asset": {
    "stock": "--",
-   "bond": "0.11",
-   "cash": "6.5",
-   "fund": "94.28",
-   "other": "0",
-   "net": "36.956",
-   "date": "2026-06-30"
+   "bond": "--",
+   "cash": "6.53",
+   "fund": "90.99",
+   "other": "2.48",
+   "net": "37.6861",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "招商纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/019547,AN202610271830990238.html"
+   },
    {
     "date": "2026-10-14",
     "title": "关于暂停招商纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)申购(含定期定额投资)业务的公告",
@@ -4704,11 +4728,6 @@
     "date": "2026-09-03",
     "title": "关于旗下部分基金2026年9月7日因境外主要投资市场节假日暂停申购、赎回、转换、定期定额投资业务的公告",
     "url": "https://fund.eastmoney.com/gonggao/019547,AN202609021828932440.html"
-   },
-   {
-    "date": "2026-09-01",
-    "title": "关于调整招商纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)在直销机构大额申购(含定期定额投资)业务的公告",
-    "url": "https://fund.eastmoney.com/gonggao/019547,AN202609011828847866.html"
    }
   ],
   "changed": false
@@ -4729,9 +4748,9 @@
   "manager": "刘重杰",
   "risk": "4",
   "estDate": "2023-11-29",
-  "scale": 15.17,
-  "scaleDate": "2026-06-30",
-  "shares": 9.47,
+  "scale": 14.46,
+  "scaleDate": "2026-09-30",
+  "shares": 9.08,
   "mgrFee": "0.50%",
   "trustFee": "0.15%",
   "salesFee": "0.40%",
@@ -4782,14 +4801,19 @@
   "fofHoldings": [],
   "asset": {
    "stock": "--",
-   "bond": "0.11",
-   "cash": "6.5",
-   "fund": "94.28",
-   "other": "0",
-   "net": "36.956",
-   "date": "2026-06-30"
+   "bond": "--",
+   "cash": "6.53",
+   "fund": "90.99",
+   "other": "2.48",
+   "net": "37.6861",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "招商纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/019548,AN202610271830990238.html"
+   },
    {
     "date": "2026-10-14",
     "title": "关于暂停招商纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)申购(含定期定额投资)业务的公告",
@@ -4799,11 +4823,6 @@
     "date": "2026-09-03",
     "title": "关于旗下部分基金2026年9月7日因境外主要投资市场节假日暂停申购、赎回、转换、定期定额投资业务的公告",
     "url": "https://fund.eastmoney.com/gonggao/019548,AN202609021828932440.html"
-   },
-   {
-    "date": "2026-09-01",
-    "title": "关于调整招商纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)在直销机构大额申购(含定期定额投资)业务的公告",
-    "url": "https://fund.eastmoney.com/gonggao/019548,AN202609011828847866.html"
    }
   ],
   "changed": false
@@ -4947,15 +4966,20 @@
   ],
   "fofHoldings": [],
   "asset": {
-   "stock": "93.15",
+   "stock": "92.52",
    "bond": "--",
-   "cash": "7.26",
+   "cash": "8.4",
    "fund": "--",
    "other": "0",
-   "net": "14.6843",
-   "date": "2026-06-30"
+   "net": "19.9786",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "宝盈基金管理有限公司基金风险评级(2026年第4次更新)",
+    "url": "https://fund.eastmoney.com/gonggao/019736,AN202610271830976115.html"
+   },
    {
     "date": "2026-10-27",
     "title": "宝盈纳斯达克100指数型发起式证券投资基金(QDII)2026年第3季度报告",
@@ -5103,15 +5127,20 @@
   ],
   "fofHoldings": [],
   "asset": {
-   "stock": "93.15",
+   "stock": "92.52",
    "bond": "--",
-   "cash": "7.26",
+   "cash": "8.4",
    "fund": "--",
    "other": "0",
-   "net": "14.6843",
-   "date": "2026-06-30"
+   "net": "19.9786",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "宝盈基金管理有限公司基金风险评级(2026年第4次更新)",
+    "url": "https://fund.eastmoney.com/gonggao/019737,AN202610271830976115.html"
+   },
    {
     "date": "2026-10-27",
     "title": "宝盈纳斯达克100指数型发起式证券投资基金(QDII)2026年第3季度报告",
@@ -5259,15 +5288,20 @@
   ],
   "fofHoldings": [],
   "asset": {
-   "stock": "93.15",
+   "stock": "92.52",
    "bond": "--",
-   "cash": "7.26",
+   "cash": "8.4",
    "fund": "--",
    "other": "0",
-   "net": "14.6843",
-   "date": "2026-06-30"
+   "net": "19.9786",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "宝盈基金管理有限公司基金风险评级(2026年第4次更新)",
+    "url": "https://fund.eastmoney.com/gonggao/019738,AN202610271830976115.html"
+   },
    {
     "date": "2026-10-27",
     "title": "宝盈纳斯达克100指数型发起式证券投资基金(QDII)2026年第3季度报告",
@@ -5415,15 +5449,20 @@
   ],
   "fofHoldings": [],
   "asset": {
-   "stock": "93.15",
+   "stock": "92.52",
    "bond": "--",
-   "cash": "7.26",
+   "cash": "8.4",
    "fund": "--",
    "other": "0",
-   "net": "14.6843",
-   "date": "2026-06-30"
+   "net": "19.9786",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "宝盈基金管理有限公司基金风险评级(2026年第4次更新)",
+    "url": "https://fund.eastmoney.com/gonggao/019739,AN202610271830976115.html"
+   },
    {
     "date": "2026-10-27",
     "title": "宝盈纳斯达克100指数型发起式证券投资基金(QDII)2026年第3季度报告",
@@ -5571,13 +5610,13 @@
   ],
   "fofHoldings": [],
   "asset": {
-   "stock": "87.41",
+   "stock": "89.56",
    "bond": "--",
-   "cash": "7.99",
-   "fund": "2.79",
-   "other": "1.81",
-   "net": "141.7948",
-   "date": "2026-06-30"
+   "cash": "6.72",
+   "fund": "2.54",
+   "other": "1.18",
+   "net": "154.6029",
+   "date": "2026-09-30"
   },
   "notices": [
    {
@@ -5614,9 +5653,9 @@
   "manager": "乐无穹",
   "risk": "4",
   "estDate": "2024-07-03",
-  "scale": 3.64,
-  "scaleDate": "2026-06-30",
-  "shares": 2.15,
+  "scale": 4.66,
+  "scaleDate": "2026-09-30",
+  "shares": 2.82,
   "mgrFee": "0.50%",
   "trustFee": "0.15%",
   "salesFee": "0.10%",
@@ -5667,23 +5706,28 @@
   "fofHoldings": [],
   "asset": {
    "stock": "--",
-   "bond": "0.64",
-   "cash": "9.92",
-   "fund": "90.41",
+   "bond": "0.55",
+   "cash": "8.07",
+   "fund": "91.48",
    "other": "0",
-   "net": "31.2899",
-   "date": "2026-06-30"
+   "net": "36.8632",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "汇添富基金管理股份有限公司旗下基金2026年第三季度报告提示性公告",
+    "url": "https://fund.eastmoney.com/gonggao/021773,AN202610271830996011.html"
+   },
+   {
+    "date": "2026-10-27",
+    "title": "汇添富纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/021773,AN202610271830982218.html"
+   },
    {
     "date": "2026-09-24",
     "title": "关于汇添富纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)暂停申购、定期定额投资业务的公告",
     "url": "https://fund.eastmoney.com/gonggao/021773,AN202609241829835607.html"
-   },
-   {
-    "date": "2026-09-22",
-    "title": "关于汇添富纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)调整直销机构大额申购、定期定额投资业务限制金额的公告",
-    "url": "https://fund.eastmoney.com/gonggao/021773,AN202609221829742553.html"
    }
   ],
   "changed": false
@@ -5704,9 +5748,9 @@
   "manager": "刘杰",
   "risk": "5",
   "estDate": "2024-08-14",
-  "scale": 21.47,
-  "scaleDate": "2026-06-30",
-  "shares": 2.55,
+  "scale": 24.6,
+  "scaleDate": "2026-09-30",
+  "shares": 2.95,
   "mgrFee": "0.80%",
   "trustFee": "0.20%",
   "salesFee": "0.18%",
@@ -5758,11 +5802,11 @@
   "asset": {
    "stock": "--",
    "bond": "--",
-   "cash": "9.04",
-   "fund": "90.4",
-   "other": "0.56",
-   "net": "208.6345",
-   "date": "2026-06-30"
+   "cash": "7.83",
+   "fund": "91.86",
+   "other": "0.31",
+   "net": "212.0399",
+   "date": "2026-09-30"
   },
   "notices": [
    {
@@ -5853,11 +5897,11 @@
   "asset": {
    "stock": "--",
    "bond": "--",
-   "cash": "8.96",
-   "fund": "90.91",
-   "other": "0.13",
-   "net": "37.4142",
-   "date": "2026-06-30"
+   "cash": "9.01",
+   "fund": "90.76",
+   "other": "0.23",
+   "net": "35.5192",
+   "date": "2026-09-30"
   },
   "notices": [
    {
@@ -5894,9 +5938,9 @@
   "manager": "LIU DONG(刘冬),胡超",
   "risk": "5",
   "estDate": "2024-11-01",
-  "scale": 1.71,
-  "scaleDate": "2026-06-30",
-  "shares": 0.82,
+  "scale": 1.62,
+  "scaleDate": "2026-09-30",
+  "shares": 0.79,
   "mgrFee": "0.50%",
   "trustFee": "0.10%",
   "salesFee": "0.20%",
@@ -5947,85 +5991,90 @@
    {
     "code": "NVDA",
     "name": "英伟达",
-    "pct": 6.84,
-    "chg": "-0.91",
-    "chgType": "减持"
+    "pct": 7.58,
+    "chg": "0.74",
+    "chgType": "增持"
    },
    {
     "code": "AAPL",
     "name": "苹果",
-    "pct": 6.0,
-    "chg": "-0.81",
-    "chgType": "减持"
-   },
-   {
-    "code": "MU",
-    "name": "美光科技",
-    "pct": 5.15,
-    "chg": "5.15",
-    "chgType": "新增"
+    "pct": 6.7,
+    "chg": "0.7",
+    "chgType": "增持"
    },
    {
     "code": "MSFT",
     "name": "微软",
-    "pct": 3.91,
-    "chg": "-1.11",
+    "pct": 5.25,
+    "chg": "1.34",
+    "chgType": "增持"
+   },
+   {
+    "code": "MU",
+    "name": "美光科技",
+    "pct": 4.58,
+    "chg": "-0.57",
     "chgType": "减持"
    },
    {
     "code": "AMD",
     "name": "超威半导体",
-    "pct": 3.74,
-    "chg": "3.74",
-    "chgType": "新增"
+    "pct": 3.8,
+    "chg": "0.06",
+    "chgType": "增持"
    },
    {
     "code": "AMZN",
     "name": "亚马逊",
-    "pct": 3.62,
-    "chg": "-0.47",
+    "pct": 3.7,
+    "chg": "0.08",
+    "chgType": "增持"
+   },
+   {
+    "code": "META",
+    "name": "Meta Platforms Inc-A",
+    "pct": 2.97,
+    "chg": "2.97",
+    "chgType": "新增"
+   },
+   {
+    "code": "GOOGL",
+    "name": "谷歌-A",
+    "pct": 2.78,
+    "chg": "-0.16",
+    "chgType": "减持"
+   },
+   {
+    "code": "GOOG",
+    "name": "谷歌-C",
+    "pct": 2.59,
+    "chg": "-0.13",
     "chgType": "减持"
    },
    {
     "code": "TSLA",
     "name": "特斯拉",
-    "pct": 2.97,
-    "chg": "-0.42",
-    "chgType": "减持"
-   },
-   {
-    "code": "GOOGL",
-    "name": "谷歌-A",
-    "pct": 2.94,
-    "chg": "-0.12",
-    "chgType": "减持"
-   },
-   {
-    "code": "INTC",
-    "name": "英特尔",
-    "pct": 2.77,
-    "chg": "2.77",
-    "chgType": "新增"
-   },
-   {
-    "code": "GOOG",
-    "name": "谷歌-C",
-    "pct": 2.72,
-    "chg": "-0.13",
+    "pct": 2.57,
+    "chg": "-0.4",
     "chgType": "减持"
    }
   ],
   "fofHoldings": [],
   "asset": {
-   "stock": "88.96",
-   "bond": "2.77",
-   "cash": "4.21",
+   "stock": "89.35",
+   "bond": "2.62",
+   "cash": "4.48",
    "fund": "--",
-   "other": "4.06",
-   "net": "61.798",
-   "date": "2026-06-30"
+   "other": "3.55",
+   "net": "65.7579",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "天弘纳斯达克100指数型发起式证券投资基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/022525,AN202610271830983909.html"
+   },
    {
     "date": "2026-09-18",
     "title": "天弘基金管理有限公司关于天弘纳斯达克100指数型发起式证券投资基金(QDII)A类基金份额、C类基金份额暂停申购及定期定额投资业务的公告",
@@ -6035,11 +6084,6 @@
     "date": "2026-09-04",
     "title": "天弘基金管理有限公司关于终止瑞银基金销售(深圳)有限公司办理旗下基金相关销售业务的公告",
     "url": "https://fund.eastmoney.com/gonggao/022525,AN202609041828989156.html"
-   },
-   {
-    "date": "2026-09-01",
-    "title": "天弘基金管理有限公司关于天弘纳斯达克100指数型发起式证券投资基金(QDII)恢复申购、定期定额投资业务及限制大额申购、定期定额投资业务的公告",
-    "url": "https://fund.eastmoney.com/gonggao/022525,AN202609011828848127.html"
    }
   ],
   "changed": false
@@ -6123,18 +6167,18 @@
   "notices": [
    {
     "date": "2026-10-27",
-    "title": "华泰柏瑞纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)2026年第3季度报告",
-    "url": "https://fund.eastmoney.com/gonggao/022664,AN202610271830962077.html"
+    "title": "华泰柏瑞基金管理有限公司关于增加中泰证券股份有限公司为华泰柏瑞纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)I份额代销机构同时开通基金转换和定投业务的通知",
+    "url": "https://fund.eastmoney.com/gonggao/022664,AN202610271831020985.html"
    },
    {
     "date": "2026-10-27",
-    "title": "华泰柏瑞基金管理有限公司旗下部分基金季度报告提示性公告",
-    "url": "https://fund.eastmoney.com/gonggao/022664,AN202610271830960953.html"
+    "title": "华泰柏瑞基金管理有限公司关于增加长城证券股份有限公司为旗下部分基金代销机构同时开通基金转换和定投业务的通知",
+    "url": "https://fund.eastmoney.com/gonggao/022664,AN202610271831011930.html"
    },
    {
-    "date": "2026-10-20",
-    "title": "华泰柏瑞基金产品风险等级-20261020",
-    "url": "https://fund.eastmoney.com/gonggao/022664,AN202610201830709465.html"
+    "date": "2026-10-27",
+    "title": "华泰柏瑞纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/022664,AN202610271830962077.html"
    }
   ],
   "changed": false
@@ -6321,9 +6365,9 @@
   "manager": "万琼",
   "risk": "5",
   "estDate": "2025-05-12",
-  "scale": 1.7,
-  "scaleDate": "2026-06-30",
-  "shares": 0.78,
+  "scale": 1.63,
+  "scaleDate": "2026-09-30",
+  "shares": 0.75,
   "mgrFee": "0.50%",
   "trustFee": "0.15%",
   "salesFee": "0.15%",
@@ -6375,22 +6419,22 @@
   "asset": {
    "stock": "--",
    "bond": "--",
-   "cash": "6.76",
-   "fund": "93.5",
-   "other": "0",
-   "net": "23.8169",
-   "date": "2026-06-30"
+   "cash": "6.8",
+   "fund": "92.68",
+   "other": "0.52",
+   "net": "22.8894",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "博时纳斯达克100交易型开放式指数证券投资基金发起式联接基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/024237,AN202610271830982387.html"
+   },
    {
     "date": "2026-10-16",
     "title": "博时基金管理有限公司关于披露委托的第三方互联网平台等信息的公告",
     "url": "https://fund.eastmoney.com/gonggao/024237,AN202610161830625680.html"
-   },
-   {
-    "date": "2026-09-30",
-    "title": "博时基金管理有限公司关于高级管理人员变更的公告",
-    "url": "https://fund.eastmoney.com/gonggao/024237,AN202609301830053719.html"
    }
   ],
   "changed": false
@@ -6411,9 +6455,9 @@
   "manager": "倪斌",
   "risk": "4",
   "estDate": "2013-08-02",
-  "scale": 58.1,
-  "scaleDate": "2026-06-30",
-  "shares": 6.84,
+  "scale": 63.39,
+  "scaleDate": "2026-09-30",
+  "shares": 7.56,
   "mgrFee": "0.60%",
   "trustFee": "0.20%",
   "salesFee": "0.00%",
@@ -6465,13 +6509,18 @@
   "asset": {
    "stock": "--",
    "bond": "--",
-   "cash": "8.82",
-   "fund": "90.64",
-   "other": "0.54",
-   "net": "71.5787",
-   "date": "2026-06-30"
+   "cash": "9.47",
+   "fund": "90.01",
+   "other": "0.52",
+   "net": "78.527",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "华安纳斯达克100交易型开放式指数证券投资基金联接基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/040046,AN202610271830988057.html"
+   },
    {
     "date": "2026-10-20",
     "title": "关于华安纳斯达克100交易型开放式指数证券投资基金联接基金(QDII)暂停申购及定期定额投资的公告",
@@ -6481,11 +6530,6 @@
     "date": "2026-10-16",
     "title": "华安基金管理有限公司关于因服务器维护、暂停投顾服务的通知",
     "url": "https://fund.eastmoney.com/gonggao/040046,AN202610171830644014.html"
-   },
-   {
-    "date": "2026-09-23",
-    "title": "关于华安纳斯达克100交易型开放式指数证券投资基金联接基金(QDII)暂停大额申购、大额定期定额投资的公告",
-    "url": "https://fund.eastmoney.com/gonggao/040046,AN202609231829773864.html"
    }
   ],
   "changed": false
@@ -6506,8 +6550,8 @@
   "manager": "倪斌",
   "risk": "5",
   "estDate": "2013-08-02",
-  "scale": 58.1,
-  "scaleDate": "2026-06-30",
+  "scale": 63.39,
+  "scaleDate": "2026-09-30",
   "shares": 6.84,
   "mgrFee": "0.60%",
   "trustFee": "0.20%",
@@ -6560,13 +6604,18 @@
   "asset": {
    "stock": "--",
    "bond": "--",
-   "cash": "8.82",
-   "fund": "90.64",
-   "other": "0.54",
-   "net": "71.5787",
-   "date": "2026-06-30"
+   "cash": "9.47",
+   "fund": "90.01",
+   "other": "0.52",
+   "net": "78.527",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "华安纳斯达克100交易型开放式指数证券投资基金联接基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/040047,AN202610271830988057.html"
+   },
    {
     "date": "2026-10-20",
     "title": "关于华安纳斯达克100交易型开放式指数证券投资基金联接基金(QDII)暂停申购及定期定额投资的公告",
@@ -6576,11 +6625,6 @@
     "date": "2026-10-16",
     "title": "华安基金管理有限公司关于因服务器维护、暂停投顾服务的通知",
     "url": "https://fund.eastmoney.com/gonggao/040047,AN202610171830644014.html"
-   },
-   {
-    "date": "2026-09-23",
-    "title": "关于华安纳斯达克100交易型开放式指数证券投资基金联接基金(QDII)暂停大额申购、大额定期定额投资的公告",
-    "url": "https://fund.eastmoney.com/gonggao/040047,AN202609231829773864.html"
    }
   ],
   "changed": false
@@ -6601,8 +6645,8 @@
   "manager": "倪斌",
   "risk": "5",
   "estDate": "2013-08-02",
-  "scale": 58.1,
-  "scaleDate": "2026-06-30",
+  "scale": 63.39,
+  "scaleDate": "2026-09-30",
   "shares": 6.84,
   "mgrFee": "0.60%",
   "trustFee": "0.20%",
@@ -6655,13 +6699,18 @@
   "asset": {
    "stock": "--",
    "bond": "--",
-   "cash": "8.82",
-   "fund": "90.64",
-   "other": "0.54",
-   "net": "71.5787",
-   "date": "2026-06-30"
+   "cash": "9.47",
+   "fund": "90.01",
+   "other": "0.52",
+   "net": "78.527",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "华安纳斯达克100交易型开放式指数证券投资基金联接基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/040048,AN202610271830988057.html"
+   },
    {
     "date": "2026-10-20",
     "title": "关于华安纳斯达克100交易型开放式指数证券投资基金联接基金(QDII)暂停申购及定期定额投资的公告",
@@ -6671,11 +6720,6 @@
     "date": "2026-10-16",
     "title": "华安基金管理有限公司关于因服务器维护、暂停投顾服务的通知",
     "url": "https://fund.eastmoney.com/gonggao/040048,AN202610171830644014.html"
-   },
-   {
-    "date": "2026-09-23",
-    "title": "关于华安纳斯达克100交易型开放式指数证券投资基金联接基金(QDII)暂停大额申购、大额定期定额投资的公告",
-    "url": "https://fund.eastmoney.com/gonggao/040048,AN202609231829773864.html"
    }
   ],
   "changed": false
@@ -6696,9 +6740,9 @@
   "manager": "朱丹",
   "risk": "4",
   "estDate": "2010-04-29",
-  "scale": 21.77,
-  "scaleDate": "2026-06-30",
-  "shares": 4.72,
+  "scale": 28.82,
+  "scaleDate": "2026-09-30",
+  "shares": 6.28,
   "mgrFee": "0.80%",
   "trustFee": "0.20%",
   "salesFee": "--",
@@ -6749,85 +6793,90 @@
    {
     "code": "NVDA",
     "name": "英伟达",
-    "pct": 6.19,
-    "chg": "-0.85",
-    "chgType": "减持"
+    "pct": 6.82,
+    "chg": "0.63",
+    "chgType": "增持"
    },
    {
     "code": "AAPL",
     "name": "苹果",
-    "pct": 5.41,
-    "chg": "-0.8",
-    "chgType": "减持"
-   },
-   {
-    "code": "MU",
-    "name": "美光科技",
-    "pct": 4.41,
-    "chg": "4.41",
-    "chgType": "新增"
+    "pct": 5.95,
+    "chg": "0.54",
+    "chgType": "增持"
    },
    {
     "code": "MSFT",
     "name": "微软",
-    "pct": 3.54,
-    "chg": "-1.04",
+    "pct": 4.68,
+    "chg": "1.14",
+    "chgType": "增持"
+   },
+   {
+    "code": "MU",
+    "name": "美光科技",
+    "pct": 4.13,
+    "chg": "-0.28",
     "chgType": "减持"
    },
    {
     "code": "AMD",
     "name": "超威半导体",
-    "pct": 3.31,
-    "chg": "3.31",
-    "chgType": "新增"
+    "pct": 3.42,
+    "chg": "0.11",
+    "chgType": "增持"
    },
    {
     "code": "AMZN",
     "name": "亚马逊",
-    "pct": 3.25,
-    "chg": "-0.48",
-    "chgType": "减持"
+    "pct": 3.29,
+    "chg": "0.04",
+    "chgType": "增持"
    },
    {
-    "code": "TSLA",
-    "name": "特斯拉",
-    "pct": 2.66,
-    "chg": "-0.43",
-    "chgType": "减持"
+    "code": "META",
+    "name": "Meta Platforms Inc-A",
+    "pct": 2.68,
+    "chg": "2.68",
+    "chgType": "新增"
    },
    {
     "code": "GOOGL",
     "name": "谷歌-A",
-    "pct": 2.65,
-    "chg": "-0.15",
+    "pct": 2.49,
+    "chg": "-0.16",
     "chgType": "减持"
    },
    {
     "code": "GOOG",
     "name": "谷歌-C",
-    "pct": 2.46,
-    "chg": "-0.15",
+    "pct": 2.32,
+    "chg": "-0.14",
     "chgType": "减持"
    },
    {
-    "code": "INTC",
-    "name": "英特尔",
-    "pct": 2.44,
-    "chg": "2.44",
-    "chgType": "新增"
+    "code": "TSLA",
+    "name": "特斯拉",
+    "pct": 2.31,
+    "chg": "-0.35",
+    "chgType": "减持"
    }
   ],
   "fofHoldings": [],
   "asset": {
-   "stock": "79.63",
+   "stock": "80.24",
    "bond": "--",
-   "cash": "18.1",
+   "cash": "18.01",
    "fund": "--",
-   "other": "2.27",
-   "net": "21.7701",
-   "date": "2026-06-30"
+   "other": "1.75",
+   "net": "28.8153",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "国泰纳斯达克100指数证券投资基金2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/160213,AN202610271830985130.html"
+   },
    {
     "date": "2026-10-21",
     "title": "国泰基金管理有限公司关于直销系统升级维护暂停网上交易系统服务的通知",
@@ -6837,11 +6886,6 @@
     "date": "2026-09-29",
     "title": "国泰基金管理有限公司调整长期停牌股票估值方法的公告",
     "url": "https://fund.eastmoney.com/gonggao/160213,AN202609291829979605.html"
-   },
-   {
-    "date": "2026-09-22",
-    "title": "国泰纳斯达克100指数证券投资基金暂停申购、定期定额投资业务的公告",
-    "url": "https://fund.eastmoney.com/gonggao/160213,AN202609221829740223.html"
    }
   ],
   "changed": false
@@ -6952,9 +6996,9 @@
   "manager": "刘杰",
   "risk": "4",
   "estDate": "2012-08-15",
-  "scale": 122.23,
-  "scaleDate": "2026-06-30",
-  "shares": 14.45,
+  "scale": 122.81,
+  "scaleDate": "2026-09-30",
+  "shares": 14.7,
   "mgrFee": "0.80%",
   "trustFee": "0.20%",
   "salesFee": "0.00%",
@@ -7006,11 +7050,11 @@
   "asset": {
    "stock": "--",
    "bond": "--",
-   "cash": "9.04",
-   "fund": "90.4",
-   "other": "0.56",
-   "net": "208.6345",
-   "date": "2026-06-30"
+   "cash": "7.83",
+   "fund": "91.86",
+   "other": "0.31",
+   "net": "212.0399",
+   "date": "2026-09-30"
   },
   "notices": [
    {
@@ -7374,9 +7418,9 @@
   "manager": "万琼",
   "risk": "4",
   "estDate": "2018-06-07",
-  "scale": 12.86,
-  "scaleDate": "2026-06-30",
-  "shares": 2.42,
+  "scale": 12.43,
+  "scaleDate": "2026-09-30",
+  "shares": 2.32,
   "mgrFee": "0.60%",
   "trustFee": "0.20%",
   "salesFee": "0.35%",
@@ -7428,22 +7472,22 @@
   "asset": {
    "stock": "--",
    "bond": "--",
-   "cash": "7.51",
-   "fund": "92.73",
-   "other": "0",
-   "net": "100.5663",
-   "date": "2026-06-30"
+   "cash": "7.29",
+   "fund": "92.35",
+   "other": "0.36",
+   "net": "100.3326",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "博时标普500交易型开放式指数证券投资基金联接基金2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/006075,AN202610271830984284.html"
+   },
    {
     "date": "2026-10-16",
     "title": "博时基金管理有限公司关于披露委托的第三方互联网平台等信息的公告",
     "url": "https://fund.eastmoney.com/gonggao/006075,AN202610161830625680.html"
-   },
-   {
-    "date": "2026-09-30",
-    "title": "博时基金管理有限公司关于高级管理人员变更的公告",
-    "url": "https://fund.eastmoney.com/gonggao/006075,AN202609301830053719.html"
    }
   ],
   "changed": false
@@ -7464,9 +7508,9 @@
   "manager": "胡超",
   "risk": "4",
   "estDate": "2019-09-24",
-  "scale": 25.25,
-  "scaleDate": "2026-06-30",
-  "shares": 11.39,
+  "scale": 26.83,
+  "scaleDate": "2026-09-30",
+  "shares": 11.98,
   "mgrFee": "0.60%",
   "trustFee": "0.20%",
   "salesFee": "0.00%",
@@ -7517,14 +7561,19 @@
   "fofHoldings": [],
   "asset": {
    "stock": "--",
-   "bond": "3.04",
-   "cash": "3.82",
-   "fund": "91.02",
-   "other": "2.12",
-   "net": "43.1589",
-   "date": "2026-06-30"
+   "bond": "2.83",
+   "cash": "4.16",
+   "fund": "91.2",
+   "other": "1.81",
+   "net": "46.5057",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "天弘标普500发起式证券投资基金(QDII-FOF)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/007721,AN202610271830984011.html"
+   },
    {
     "date": "2026-10-21",
     "title": "天弘标普500发起式证券投资基金(QDII-FOF)招募说明书(更新)",
@@ -7534,11 +7583,6 @@
     "date": "2026-09-18",
     "title": "天弘基金管理有限公司关于天弘标普500发起式证券投资基金(QDII-FOF)A类基金份额、C类基金份额暂停申购及定期定额投资业务的公告",
     "url": "https://fund.eastmoney.com/gonggao/007721,AN202609181829580336.html"
-   },
-   {
-    "date": "2026-09-04",
-    "title": "天弘基金管理有限公司关于终止瑞银基金销售(深圳)有限公司办理旗下基金相关销售业务的公告",
-    "url": "https://fund.eastmoney.com/gonggao/007721,AN202609041828989156.html"
    }
   ],
   "changed": false
@@ -7559,9 +7603,9 @@
   "manager": "胡超",
   "risk": "4",
   "estDate": "2019-09-24",
-  "scale": 16.07,
-  "scaleDate": "2026-06-30",
-  "shares": 7.38,
+  "scale": 17.84,
+  "scaleDate": "2026-09-30",
+  "shares": 8.11,
   "mgrFee": "0.60%",
   "trustFee": "0.20%",
   "salesFee": "0.25%",
@@ -7612,14 +7656,19 @@
   "fofHoldings": [],
   "asset": {
    "stock": "--",
-   "bond": "3.04",
-   "cash": "3.82",
-   "fund": "91.02",
-   "other": "2.12",
-   "net": "43.1589",
-   "date": "2026-06-30"
+   "bond": "2.83",
+   "cash": "4.16",
+   "fund": "91.2",
+   "other": "1.81",
+   "net": "46.5057",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "天弘标普500发起式证券投资基金(QDII-FOF)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/007722,AN202610271830984011.html"
+   },
    {
     "date": "2026-10-21",
     "title": "天弘标普500发起式证券投资基金(QDII-FOF)招募说明书(更新)",
@@ -7629,11 +7678,6 @@
     "date": "2026-09-18",
     "title": "天弘基金管理有限公司关于天弘标普500发起式证券投资基金(QDII-FOF)A类基金份额、C类基金份额暂停申购及定期定额投资业务的公告",
     "url": "https://fund.eastmoney.com/gonggao/007722,AN202609181829580336.html"
-   },
-   {
-    "date": "2026-09-04",
-    "title": "天弘基金管理有限公司关于终止瑞银基金销售(深圳)有限公司办理旗下基金相关销售业务的公告",
-    "url": "https://fund.eastmoney.com/gonggao/007722,AN202609041828989156.html"
    }
   ],
   "changed": false
@@ -7654,9 +7698,9 @@
   "manager": "冉凌浩",
   "risk": "4",
   "estDate": "2023-08-30",
-  "scale": 2.1,
-  "scaleDate": "2026-06-30",
-  "shares": 0.76,
+  "scale": 2.81,
+  "scaleDate": "2026-09-30",
+  "shares": 1.04,
   "mgrFee": "1.00%",
   "trustFee": "0.20%",
   "salesFee": "0.30%",
@@ -7708,82 +7752,82 @@
     "code": "MRNA",
     "name": "Moderna Inc",
     "pct": 0.28,
-    "chg": "0.28",
-    "chgType": "新增"
+    "chg": "0",
+    "chgType": "不变"
    },
    {
-    "code": "GLW",
-    "name": "康宁",
-    "pct": 0.28,
-    "chg": "0.28",
-    "chgType": "新增"
-   },
-   {
-    "code": "AMAT",
-    "name": "应用材料",
-    "pct": 0.27,
-    "chg": "0.27",
-    "chgType": "新增"
-   },
-   {
-    "code": "KLAC",
-    "name": "科磊",
+    "code": "P",
+    "name": "Everpure Inc-A",
     "pct": 0.26,
     "chg": "0.26",
     "chgType": "新增"
    },
    {
-    "code": "TER",
-    "name": "泰瑞达",
+    "code": "ILMN",
+    "name": "Illumina Inc",
+    "pct": 0.26,
+    "chg": "0.26",
+    "chgType": "新增"
+   },
+   {
+    "code": "CRWD",
+    "name": "CrowdStrike Holdings Inc-A",
     "pct": 0.25,
     "chg": "0.25",
     "chgType": "新增"
    },
    {
-    "code": "LRCX",
-    "name": "拉姆研究",
-    "pct": 0.25,
-    "chg": "0.25",
-    "chgType": "新增"
-   },
-   {
-    "code": "TECH",
-    "name": "Bio-Techne Corp",
-    "pct": 0.25,
-    "chg": "0.25",
-    "chgType": "新增"
-   },
-   {
-    "code": "SNDK",
-    "name": "闪迪",
-    "pct": 0.25,
-    "chg": "0.25",
-    "chgType": "新增"
-   },
-   {
-    "code": "GEV",
-    "name": "GE Vernova Inc",
+    "code": "RVTY",
+    "name": "Revvity Inc",
     "pct": 0.24,
     "chg": "0.24",
     "chgType": "新增"
    },
    {
-    "code": "UAL",
-    "name": "联合航空",
+    "code": "DDOG",
+    "name": "Datadog Inc-A",
     "pct": 0.24,
     "chg": "0.24",
+    "chgType": "新增"
+   },
+   {
+    "code": "CDNS",
+    "name": "铿腾电子",
+    "pct": 0.23,
+    "chg": "0.23",
+    "chgType": "新增"
+   },
+   {
+    "code": "AMD",
+    "name": "超威半导体",
+    "pct": 0.23,
+    "chg": "0.23",
+    "chgType": "新增"
+   },
+   {
+    "code": "MTD",
+    "name": "梅特勒-托利多",
+    "pct": 0.23,
+    "chg": "0.23",
+    "chgType": "新增"
+   },
+   {
+    "code": "PANW",
+    "name": "派拓网络",
+    "pct": 0.23,
+    "chg": "0.23",
     "chgType": "新增"
    }
   ],
   "fofHoldings": [],
   "asset": {
-   "stock": "93.97",
+   "stock": "93",
    "bond": "--",
-   "cash": "6.71",
+   "cash": "7.14",
    "fund": "--",
    "other": "0",
-   "net": "9.4002",
-   "date": "2026-06-30"
+   "net": "11.6399",
+   "date": "2026-09-30"
   },
   "notices": [
    {
@@ -8142,9 +8186,9 @@
   "manager": "冉凌浩",
   "risk": "5",
   "estDate": "2021-09-07",
-  "scale": 7.3,
-  "scaleDate": "2026-06-30",
-  "shares": 2.62,
+  "scale": 8.83,
+  "scaleDate": "2026-09-30",
+  "shares": 3.26,
   "mgrFee": "1.00%",
   "trustFee": "0.20%",
   "salesFee": "0.00%",
@@ -8193,85 +8237,85 @@
   },
   "holdings": [
    {
-    "code": "GLW",
-    "name": "康宁",
-    "pct": 0.28,
-    "chg": "0.28",
-    "chgType": "新增"
-   },
-   {
     "code": "MRNA",
     "name": "Moderna Inc",
     "pct": 0.28,
-    "chg": "0.28",
-    "chgType": "新增"
+    "chg": "0",
+    "chgType": "不变"
    },
    {
-    "code": "AMAT",
-    "name": "应用材料",
-    "pct": 0.27,
-    "chg": "0.27",
-    "chgType": "新增"
-   },
-   {
-    "code": "KLAC",
-    "name": "科磊",
+    "code": "ILMN",
+    "name": "Illumina Inc",
     "pct": 0.26,
     "chg": "0.26",
     "chgType": "新增"
    },
    {
-    "code": "TER",
-    "name": "泰瑞达",
+    "code": "P",
+    "name": "Everpure Inc-A",
+    "pct": 0.26,
+    "chg": "0.26",
+    "chgType": "新增"
+   },
+   {
+    "code": "CRWD",
+    "name": "CrowdStrike Holdings Inc-A",
     "pct": 0.25,
     "chg": "0.25",
     "chgType": "新增"
    },
    {
-    "code": "LRCX",
-    "name": "拉姆研究",
-    "pct": 0.25,
-    "chg": "0.25",
-    "chgType": "新增"
-   },
-   {
-    "code": "SNDK",
-    "name": "闪迪",
-    "pct": 0.25,
-    "chg": "0.25",
-    "chgType": "新增"
-   },
-   {
-    "code": "TECH",
-    "name": "Bio-Techne Corp",
-    "pct": 0.25,
-    "chg": "0.25",
-    "chgType": "新增"
-   },
-   {
-    "code": "GEV",
-    "name": "GE Vernova Inc",
+    "code": "DDOG",
+    "name": "Datadog Inc-A",
     "pct": 0.24,
     "chg": "0.24",
     "chgType": "新增"
    },
    {
-    "code": "UAL",
-    "name": "联合航空",
+    "code": "RVTY",
+    "name": "Revvity Inc",
     "pct": 0.24,
     "chg": "0.24",
+    "chgType": "新增"
+   },
+   {
+    "code": "CDNS",
+    "name": "铿腾电子",
+    "pct": 0.23,
+    "chg": "0.23",
+    "chgType": "新增"
+   },
+   {
+    "code": "AMD",
+    "name": "超威半导体",
+    "pct": 0.23,
+    "chg": "0.23",
+    "chgType": "新增"
+   },
+   {
+    "code": "PANW",
+    "name": "派拓网络",
+    "pct": 0.23,
+    "chg": "0.23",
+    "chgType": "新增"
+   },
+   {
+    "code": "MTD",
+    "name": "梅特勒-托利多",
+    "pct": 0.23,
+    "chg": "0.23",
     "chgType": "新增"
    }
   ],
   "fofHoldings": [],
   "asset": {
-   "stock": "93.97",
+   "stock": "93",
    "bond": "--",
-   "cash": "6.71",
+   "cash": "7.14",
    "fund": "--",
    "other": "0",
-   "net": "9.4002",
-   "date": "2026-06-30"
+   "net": "11.6399",
+   "date": "2026-09-30"
   },
   "notices": [
    {
@@ -8308,8 +8352,8 @@
   "manager": "万琼",
   "risk": "5",
   "estDate": "2021-09-07",
-  "scale": 64.67,
-  "scaleDate": "2026-06-30",
+  "scale": 63.48,
+  "scaleDate": "2026-09-30",
   "shares": 11.77,
   "mgrFee": "0.60%",
   "trustFee": "0.20%",
@@ -8362,22 +8406,22 @@
   "asset": {
    "stock": "--",
    "bond": "--",
-   "cash": "7.51",
-   "fund": "92.73",
-   "other": "0",
-   "net": "100.5663",
-   "date": "2026-06-30"
+   "cash": "7.29",
+   "fund": "92.35",
+   "other": "0.36",
+   "net": "100.3326",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "博时标普500交易型开放式指数证券投资基金联接基金2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/013425,AN202610271830984284.html"
+   },
    {
     "date": "2026-10-16",
     "title": "博时基金管理有限公司关于披露委托的第三方互联网平台等信息的公告",
     "url": "https://fund.eastmoney.com/gonggao/013425,AN202610161830625680.html"
-   },
-   {
-    "date": "2026-09-30",
-    "title": "博时基金管理有限公司关于高级管理人员变更的公告",
-    "url": "https://fund.eastmoney.com/gonggao/013425,AN202609301830053719.html"
    }
   ],
   "changed": false
@@ -8398,8 +8442,8 @@
   "manager": "万琼",
   "risk": "5",
   "estDate": "2021-09-07",
-  "scale": 12.86,
-  "scaleDate": "2026-06-30",
+  "scale": 12.43,
+  "scaleDate": "2026-09-30",
   "shares": 2.42,
   "mgrFee": "0.60%",
   "trustFee": "0.20%",
@@ -8452,22 +8496,22 @@
   "asset": {
    "stock": "--",
    "bond": "--",
-   "cash": "7.51",
-   "fund": "92.73",
-   "other": "0",
-   "net": "100.5663",
-   "date": "2026-06-30"
+   "cash": "7.29",
+   "fund": "92.35",
+   "other": "0.36",
+   "net": "100.3326",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "博时标普500交易型开放式指数证券投资基金联接基金2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/013499,AN202610271830984284.html"
+   },
    {
     "date": "2026-10-16",
     "title": "博时基金管理有限公司关于披露委托的第三方互联网平台等信息的公告",
     "url": "https://fund.eastmoney.com/gonggao/013499,AN202610161830625680.html"
-   },
-   {
-    "date": "2026-09-30",
-    "title": "博时基金管理有限公司关于高级管理人员变更的公告",
-    "url": "https://fund.eastmoney.com/gonggao/013499,AN202609301830053719.html"
    }
   ],
   "changed": false
@@ -8488,9 +8532,9 @@
   "manager": "冉凌浩",
   "risk": "5",
   "estDate": "2023-08-30",
-  "scale": 2.1,
-  "scaleDate": "2026-06-30",
-  "shares": 0.76,
+  "scale": 2.81,
+  "scaleDate": "2026-09-30",
+  "shares": 1.04,
   "mgrFee": "1.00%",
   "trustFee": "0.20%",
   "salesFee": "0.30%",
@@ -8539,85 +8583,85 @@
   },
   "holdings": [
    {
-    "code": "GLW",
-    "name": "康宁",
-    "pct": 0.28,
-    "chg": "0.28",
-    "chgType": "新增"
-   },
-   {
     "code": "MRNA",
     "name": "Moderna Inc",
     "pct": 0.28,
-    "chg": "0.28",
-    "chgType": "新增"
+    "chg": "0",
+    "chgType": "不变"
    },
    {
-    "code": "AMAT",
-    "name": "应用材料",
-    "pct": 0.27,
-    "chg": "0.27",
-    "chgType": "新增"
-   },
-   {
-    "code": "KLAC",
-    "name": "科磊",
+    "code": "ILMN",
+    "name": "Illumina Inc",
     "pct": 0.26,
     "chg": "0.26",
     "chgType": "新增"
    },
    {
-    "code": "SNDK",
-    "name": "闪迪",
+    "code": "P",
+    "name": "Everpure Inc-A",
+    "pct": 0.26,
+    "chg": "0.26",
+    "chgType": "新增"
+   },
+   {
+    "code": "CRWD",
+    "name": "CrowdStrike Holdings Inc-A",
     "pct": 0.25,
     "chg": "0.25",
     "chgType": "新增"
    },
    {
-    "code": "LRCX",
-    "name": "拉姆研究",
-    "pct": 0.25,
-    "chg": "0.25",
-    "chgType": "新增"
-   },
-   {
-    "code": "TER",
-    "name": "泰瑞达",
-    "pct": 0.25,
-    "chg": "0.25",
-    "chgType": "新增"
-   },
-   {
-    "code": "TECH",
-    "name": "Bio-Techne Corp",
-    "pct": 0.25,
-    "chg": "0.25",
-    "chgType": "新增"
-   },
-   {
-    "code": "GEV",
-    "name": "GE Vernova Inc",
+    "code": "RVTY",
+    "name": "Revvity Inc",
     "pct": 0.24,
     "chg": "0.24",
     "chgType": "新增"
    },
    {
-    "code": "UAL",
-    "name": "联合航空",
+    "code": "DDOG",
+    "name": "Datadog Inc-A",
     "pct": 0.24,
     "chg": "0.24",
+    "chgType": "新增"
+   },
+   {
+    "code": "PANW",
+    "name": "派拓网络",
+    "pct": 0.23,
+    "chg": "0.23",
+    "chgType": "新增"
+   },
+   {
+    "code": "MTD",
+    "name": "梅特勒-托利多",
+    "pct": 0.23,
+    "chg": "0.23",
+    "chgType": "新增"
+   },
+   {
+    "code": "CDNS",
+    "name": "铿腾电子",
+    "pct": 0.23,
+    "chg": "0.23",
+    "chgType": "新增"
+   },
+   {
+    "code": "AMD",
+    "name": "超威半导体",
+    "pct": 0.23,
+    "chg": "0.23",
     "chgType": "新增"
    }
   ],
   "fofHoldings": [],
   "asset": {
-   "stock": "93.97",
+   "stock": "93",
    "bond": "--",
-   "cash": "6.71",
+   "cash": "7.14",
    "fund": "--",
    "other": "0",
-   "net": "9.4002",
-   "date": "2026-06-30"
+   "net": "11.6399",
+   "date": "2026-09-30"
   },
   "notices": [
    {
@@ -8654,9 +8698,9 @@
   "manager": "苗梦羽",
   "risk": "4",
   "estDate": "2022-11-02",
-  "scale": 1.32,
-  "scaleDate": "2026-06-30",
-  "shares": 0.78,
+  "scale": 1.27,
+  "scaleDate": "2026-09-30",
+  "shares": 0.74,
   "mgrFee": "0.60%",
   "trustFee": "0.15%",
   "salesFee": "0.00%",
@@ -8707,14 +8751,19 @@
   "fofHoldings": [],
   "asset": {
    "stock": "--",
-   "bond": "1.79",
-   "cash": "4.11",
-   "fund": "94.8",
+   "bond": "0.22",
+   "cash": "5.33",
+   "fund": "94.75",
    "other": "0",
-   "net": "1.9238",
-   "date": "2026-06-30"
+   "net": "1.8476",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "国泰标普500交易型开放式指数证券投资基金发起式联接基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/017028,AN202610271830982511.html"
+   },
    {
     "date": "2026-10-21",
     "title": "国泰基金管理有限公司关于直销系统升级维护暂停网上交易系统服务的通知",
@@ -8724,11 +8773,6 @@
     "date": "2026-09-29",
     "title": "国泰基金管理有限公司调整长期停牌股票估值方法的公告",
     "url": "https://fund.eastmoney.com/gonggao/017028,AN202609291829979605.html"
-   },
-   {
-    "date": "2026-09-21",
-    "title": "国泰标普500交易型开放式指数证券投资基金发起式联接基金(QDII)(国泰标普500ETF发起联接(QDII)A人民币)产品资料概要更新",
-    "url": "https://fund.eastmoney.com/gonggao/017028,AN202609211829696221.html"
    }
   ],
   "changed": false
@@ -8749,9 +8793,9 @@
   "manager": "苗梦羽",
   "risk": "4",
   "estDate": "2022-11-02",
-  "scale": 0.6,
-  "scaleDate": "2026-06-30",
-  "shares": 0.36,
+  "scale": 0.58,
+  "scaleDate": "2026-09-30",
+  "shares": 0.34,
   "mgrFee": "0.60%",
   "trustFee": "0.15%",
   "salesFee": "0.30%",
@@ -8802,14 +8846,19 @@
   "fofHoldings": [],
   "asset": {
    "stock": "--",
-   "bond": "1.79",
-   "cash": "4.11",
-   "fund": "94.8",
+   "bond": "0.22",
+   "cash": "5.33",
+   "fund": "94.75",
    "other": "0",
-   "net": "1.9238",
-   "date": "2026-06-30"
+   "net": "1.8476",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "国泰标普500交易型开放式指数证券投资基金发起式联接基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/017030,AN202610271830982511.html"
+   },
    {
     "date": "2026-10-21",
     "title": "国泰基金管理有限公司关于直销系统升级维护暂停网上交易系统服务的通知",
@@ -8819,11 +8868,6 @@
     "date": "2026-09-29",
     "title": "国泰基金管理有限公司调整长期停牌股票估值方法的公告",
     "url": "https://fund.eastmoney.com/gonggao/017030,AN202609291829979605.html"
-   },
-   {
-    "date": "2026-09-21",
-    "title": "国泰标普500交易型开放式指数证券投资基金发起式联接基金(QDII)(国泰标普500ETF发起联接(QDII)C人民币)产品资料概要更新",
-    "url": "https://fund.eastmoney.com/gonggao/017030,AN202609211829696240.html"
    }
   ],
   "changed": false
@@ -8844,9 +8888,9 @@
   "manager": "汪洋,张晓南",
   "risk": "4",
   "estDate": "2022-12-09",
-  "scale": 27.7,
-  "scaleDate": "2026-06-30",
-  "shares": 9.63,
+  "scale": 31.25,
+  "scaleDate": "2026-09-30",
+  "shares": 10.47,
   "mgrFee": "0.80%",
   "trustFee": "0.20%",
   "salesFee": "0.00%",
@@ -8893,18 +8937,94 @@
    "code": "159509",
    "name": "纳指科技ETF景顺"
   },
-  "holdings": [],
+  "holdings": [
+   {
+    "code": "AAPL",
+    "name": "苹果",
+    "pct": 1.37,
+    "chg": "1.37",
+    "chgType": "新增"
+   },
+   {
+    "code": "NVDA",
+    "name": "英伟达",
+    "pct": 1.35,
+    "chg": "1.35",
+    "chgType": "新增"
+   },
+   {
+    "code": "MSFT",
+    "name": "微软",
+    "pct": 1.28,
+    "chg": "1.28",
+    "chgType": "新增"
+   },
+   {
+    "code": "META",
+    "name": "Meta Platforms Inc-A",
+    "pct": 0.7,
+    "chg": "0.7",
+    "chgType": "新增"
+   },
+   {
+    "code": "GOOGL",
+    "name": "谷歌-A",
+    "pct": 0.68,
+    "chg": "0.68",
+    "chgType": "新增"
+   },
+   {
+    "code": "GOOG",
+    "name": "谷歌-C",
+    "pct": 0.63,
+    "chg": "0.63",
+    "chgType": "新增"
+   },
+   {
+    "code": "AVGO",
+    "name": "博通",
+    "pct": 0.56,
+    "chg": "0.56",
+    "chgType": "新增"
+   },
+   {
+    "code": "MU",
+    "name": "美光科技",
+    "pct": 0.53,
+    "chg": "0.53",
+    "chgType": "新增"
+   },
+   {
+    "code": "AMD",
+    "name": "超威半导体",
+    "pct": 0.44,
+    "chg": "0.44",
+    "chgType": "新增"
+   },
+   {
+    "code": "INTC",
+    "name": "英特尔",
+    "pct": 0.28,
+    "chg": "0.28",
+    "chgType": "新增"
+   }
+  ],
   "fofHoldings": [],
   "asset": {
-   "stock": "--",
+   "stock": "10.04",
    "bond": "--",
-   "cash": "6.54",
-   "fund": "94.15",
+   "cash": "7.63",
+   "fund": "82.35",
    "other": "0",
-   "net": "49.8566",
-   "date": "2026-06-30"
+   "net": "57.7268",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "景顺长城纳斯达克科技市值加权交易型开放式指数证券投资基金发起式联接基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/017091,AN202610271830980030.html"
+   },
    {
     "date": "2026-10-23",
     "title": "景顺长城基金管理有限公司关于提请投资者及时更新或完善身份信息的公告",
@@ -8914,11 +9034,6 @@
     "date": "2026-10-21",
     "title": "景顺长城基金管理有限公司关于系统停机维护的通知",
     "url": "https://fund.eastmoney.com/gonggao/017091,AN202610211830758684.html"
-   },
-   {
-    "date": "2026-09-30",
-    "title": "关于景顺长城纳斯达克科技市值加权交易型开放式指数证券投资基金发起式联接基金(QDII)新增青岛银行为销售机构的公告",
-    "url": "https://fund.eastmoney.com/gonggao/017091,AN202609301830019351.html"
    }
   ],
   "changed": false
@@ -8939,9 +9054,9 @@
   "manager": "汪洋,张晓南",
   "risk": "5",
   "estDate": "2022-12-09",
-  "scale": 27.7,
-  "scaleDate": "2026-06-30",
-  "shares": 9.63,
+  "scale": 31.25,
+  "scaleDate": "2026-09-30",
+  "shares": 10.47,
   "mgrFee": "0.80%",
   "trustFee": "0.20%",
   "salesFee": "0.00%",
@@ -8988,18 +9103,94 @@
    "code": "159509",
    "name": "纳指科技ETF景顺"
   },
-  "holdings": [],
+  "holdings": [
+   {
+    "code": "AAPL",
+    "name": "苹果",
+    "pct": 1.37,
+    "chg": "1.37",
+    "chgType": "新增"
+   },
+   {
+    "code": "NVDA",
+    "name": "英伟达",
+    "pct": 1.35,
+    "chg": "1.35",
+    "chgType": "新增"
+   },
+   {
+    "code": "MSFT",
+    "name": "微软",
+    "pct": 1.28,
+    "chg": "1.28",
+    "chgType": "新增"
+   },
+   {
+    "code": "META",
+    "name": "Meta Platforms Inc-A",
+    "pct": 0.7,
+    "chg": "0.7",
+    "chgType": "新增"
+   },
+   {
+    "code": "GOOGL",
+    "name": "谷歌-A",
+    "pct": 0.68,
+    "chg": "0.68",
+    "chgType": "新增"
+   },
+   {
+    "code": "GOOG",
+    "name": "谷歌-C",
+    "pct": 0.63,
+    "chg": "0.63",
+    "chgType": "新增"
+   },
+   {
+    "code": "AVGO",
+    "name": "博通",
+    "pct": 0.56,
+    "chg": "0.56",
+    "chgType": "新增"
+   },
+   {
+    "code": "MU",
+    "name": "美光科技",
+    "pct": 0.53,
+    "chg": "0.53",
+    "chgType": "新增"
+   },
+   {
+    "code": "AMD",
+    "name": "超威半导体",
+    "pct": 0.44,
+    "chg": "0.44",
+    "chgType": "新增"
+   },
+   {
+    "code": "INTC",
+    "name": "英特尔",
+    "pct": 0.28,
+    "chg": "0.28",
+    "chgType": "新增"
+   }
+  ],
   "fofHoldings": [],
   "asset": {
-   "stock": "--",
+   "stock": "10.04",
    "bond": "--",
-   "cash": "6.54",
-   "fund": "94.15",
+   "cash": "7.63",
+   "fund": "82.35",
    "other": "0",
-   "net": "49.8566",
-   "date": "2026-06-30"
+   "net": "57.7268",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "景顺长城纳斯达克科技市值加权交易型开放式指数证券投资基金发起式联接基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/017092,AN202610271830980030.html"
+   },
    {
     "date": "2026-10-23",
     "title": "景顺长城基金管理有限公司关于提请投资者及时更新或完善身份信息的公告",
@@ -9009,11 +9200,6 @@
     "date": "2026-10-21",
     "title": "景顺长城基金管理有限公司关于系统停机维护的通知",
     "url": "https://fund.eastmoney.com/gonggao/017092,AN202610211830758684.html"
-   },
-   {
-    "date": "2026-09-30",
-    "title": "关于景顺长城纳斯达克科技市值加权交易型开放式指数证券投资基金发起式联接基金(QDII)新增青岛银行为销售机构的公告",
-    "url": "https://fund.eastmoney.com/gonggao/017092,AN202609301830019351.html"
    }
   ],
   "changed": false
@@ -9034,9 +9220,9 @@
   "manager": "汪洋,张晓南",
   "risk": "4",
   "estDate": "2022-12-09",
-  "scale": 13.28,
-  "scaleDate": "2026-06-30",
-  "shares": 4.69,
+  "scale": 15.24,
+  "scaleDate": "2026-09-30",
+  "shares": 5.19,
   "mgrFee": "0.80%",
   "trustFee": "0.20%",
   "salesFee": "0.40%",
@@ -9083,18 +9269,94 @@
    "code": "159509",
    "name": "纳指科技ETF景顺"
   },
-  "holdings": [],
+  "holdings": [
+   {
+    "code": "AAPL",
+    "name": "苹果",
+    "pct": 1.37,
+    "chg": "1.37",
+    "chgType": "新增"
+   },
+   {
+    "code": "NVDA",
+    "name": "英伟达",
+    "pct": 1.35,
+    "chg": "1.35",
+    "chgType": "新增"
+   },
+   {
+    "code": "MSFT",
+    "name": "微软",
+    "pct": 1.28,
+    "chg": "1.28",
+    "chgType": "新增"
+   },
+   {
+    "code": "META",
+    "name": "Meta Platforms Inc-A",
+    "pct": 0.7,
+    "chg": "0.7",
+    "chgType": "新增"
+   },
+   {
+    "code": "GOOGL",
+    "name": "谷歌-A",
+    "pct": 0.68,
+    "chg": "0.68",
+    "chgType": "新增"
+   },
+   {
+    "code": "GOOG",
+    "name": "谷歌-C",
+    "pct": 0.63,
+    "chg": "0.63",
+    "chgType": "新增"
+   },
+   {
+    "code": "AVGO",
+    "name": "博通",
+    "pct": 0.56,
+    "chg": "0.56",
+    "chgType": "新增"
+   },
+   {
+    "code": "MU",
+    "name": "美光科技",
+    "pct": 0.53,
+    "chg": "0.53",
+    "chgType": "新增"
+   },
+   {
+    "code": "AMD",
+    "name": "超威半导体",
+    "pct": 0.44,
+    "chg": "0.44",
+    "chgType": "新增"
+   },
+   {
+    "code": "INTC",
+    "name": "英特尔",
+    "pct": 0.28,
+    "chg": "0.28",
+    "chgType": "新增"
+   }
+  ],
   "fofHoldings": [],
   "asset": {
-   "stock": "--",
+   "stock": "10.04",
    "bond": "--",
-   "cash": "6.54",
-   "fund": "94.15",
+   "cash": "7.63",
+   "fund": "82.35",
    "other": "0",
-   "net": "49.8566",
-   "date": "2026-06-30"
+   "net": "57.7268",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "景顺长城纳斯达克科技市值加权交易型开放式指数证券投资基金发起式联接基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/017093,AN202610271830980030.html"
+   },
    {
     "date": "2026-10-23",
     "title": "景顺长城基金管理有限公司关于提请投资者及时更新或完善身份信息的公告",
@@ -9104,11 +9366,6 @@
     "date": "2026-10-21",
     "title": "景顺长城基金管理有限公司关于系统停机维护的通知",
     "url": "https://fund.eastmoney.com/gonggao/017093,AN202610211830758684.html"
-   },
-   {
-    "date": "2026-09-30",
-    "title": "关于景顺长城纳斯达克科技市值加权交易型开放式指数证券投资基金发起式联接基金(QDII)新增青岛银行为销售机构的公告",
-    "url": "https://fund.eastmoney.com/gonggao/017093,AN202609301830019351.html"
    }
   ],
   "changed": false
@@ -9441,9 +9698,9 @@
   "manager": "张军",
   "risk": "4",
   "estDate": "2023-04-06",
-  "scale": 53.03,
-  "scaleDate": "2026-06-30",
-  "shares": 31.68,
+  "scale": 59.31,
+  "scaleDate": "2026-09-30",
+  "shares": 35.05,
   "mgrFee": "0.50%",
   "trustFee": "0.15%",
   "salesFee": "0.00%",
@@ -9494,94 +9751,99 @@
    {
     "code": "NVDA",
     "name": "英伟达",
-    "pct": 7.37,
-    "chg": "-0.08",
-    "chgType": "减持"
+    "pct": 8.01,
+    "chg": "0.64",
+    "chgType": "增持"
    },
    {
     "code": "AAPL",
     "name": "苹果",
-    "pct": 6.39,
-    "chg": "-0.21",
-    "chgType": "减持"
+    "pct": 7.01,
+    "chg": "0.62",
+    "chgType": "增持"
    },
    {
     "code": "MSFT",
     "name": "微软",
-    "pct": 4.15,
-    "chg": "-0.69",
-    "chgType": "减持"
+    "pct": 5.43,
+    "chg": "1.28",
+    "chgType": "增持"
    },
    {
     "code": "AMZN",
     "name": "亚马逊",
-    "pct": 3.47,
-    "chg": "-0.09",
-    "chgType": "减持"
+    "pct": 3.5,
+    "chg": "0.03",
+    "chgType": "增持"
    },
    {
     "code": "GOOGL",
     "name": "谷歌-A",
-    "pct": 3.11,
-    "chg": "0.17",
-    "chgType": "增持"
+    "pct": 2.89,
+    "chg": "-0.22",
+    "chgType": "减持"
    },
    {
     "code": "AVGO",
     "name": "博通",
-    "pct": 2.72,
-    "chg": "0.15",
-    "chgType": "增持"
+    "pct": 2.4,
+    "chg": "-0.32",
+    "chgType": "减持"
    },
    {
     "code": "GOOG",
     "name": "谷歌-C",
-    "pct": 2.46,
-    "chg": "0.11",
+    "pct": 2.31,
+    "chg": "-0.15",
+    "chgType": "减持"
+   },
+   {
+    "code": "META",
+    "name": "Meta Platforms Inc-A",
+    "pct": 2.29,
+    "chg": "0.46",
     "chgType": "增持"
    },
    {
     "code": "MU",
     "name": "美光科技",
-    "pct": 1.99,
-    "chg": "1.99",
-    "chgType": "新增"
-   },
-   {
-    "code": "META",
-    "name": "Meta Platforms Inc-A",
-    "pct": 1.83,
-    "chg": "-0.36",
+    "pct": 1.74,
+    "chg": "-0.25",
     "chgType": "减持"
    },
    {
     "code": "TSLA",
     "name": "特斯拉",
-    "pct": 1.77,
-    "chg": "-0.07",
+    "pct": 1.43,
+    "chg": "-0.34",
     "chgType": "减持"
    }
   ],
   "fofHoldings": [],
   "asset": {
-   "stock": "94.03",
+   "stock": "93.2",
    "bond": "--",
-   "cash": "6.9",
+   "cash": "6.71",
    "fund": "--",
-   "other": "0",
-   "net": "71.5481",
-   "date": "2026-06-30"
+   "other": "0.09",
+   "net": "79.1963",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "摩根基金管理(中国)有限公司旗下部分基金2026年第三季度报告提示性公告",
+    "url": "https://fund.eastmoney.com/gonggao/017641,AN202610271831008850.html"
+   },
+   {
+    "date": "2026-10-27",
+    "title": "摩根标普500指数型发起式证券投资基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/017641,AN202610271830980341.html"
+   },
    {
     "date": "2026-10-22",
     "title": "摩根基金管理(中国)有限公司参与上市公司治理管理工作指引",
     "url": "https://fund.eastmoney.com/gonggao/017641,AN202610221830782663.html"
-   },
-   {
-    "date": "2026-09-21",
-    "title": "关于新增万联证券股份有限公司为摩根基金管理(中国)有限公司旗下部分基金代销机构的公告",
-    "url": "https://fund.eastmoney.com/gonggao/017641,AN202609211829686442.html"
    }
   ],
   "changed": false
@@ -9602,8 +9864,8 @@
   "manager": "张军",
   "risk": "5",
   "estDate": "2023-04-06",
-  "scale": 53.03,
-  "scaleDate": "2026-06-30",
+  "scale": 59.31,
+  "scaleDate": "2026-09-30",
   "shares": 31.68,
   "mgrFee": "0.50%",
   "trustFee": "0.15%",
@@ -9655,94 +9917,99 @@
    {
     "code": "NVDA",
     "name": "英伟达",
-    "pct": 7.37,
-    "chg": "-0.08",
-    "chgType": "减持"
+    "pct": 8.01,
+    "chg": "0.64",
+    "chgType": "增持"
    },
    {
     "code": "AAPL",
     "name": "苹果",
-    "pct": 6.39,
-    "chg": "-0.21",
-    "chgType": "减持"
+    "pct": 7.01,
+    "chg": "0.62",
+    "chgType": "增持"
    },
    {
     "code": "MSFT",
     "name": "微软",
-    "pct": 4.15,
-    "chg": "-0.69",
-    "chgType": "减持"
+    "pct": 5.43,
+    "chg": "1.28",
+    "chgType": "增持"
    },
    {
     "code": "AMZN",
     "name": "亚马逊",
-    "pct": 3.47,
-    "chg": "-0.09",
-    "chgType": "减持"
+    "pct": 3.5,
+    "chg": "0.03",
+    "chgType": "增持"
    },
    {
     "code": "GOOGL",
     "name": "谷歌-A",
-    "pct": 3.11,
-    "chg": "0.17",
-    "chgType": "增持"
+    "pct": 2.89,
+    "chg": "-0.22",
+    "chgType": "减持"
    },
    {
     "code": "AVGO",
     "name": "博通",
-    "pct": 2.72,
-    "chg": "0.15",
-    "chgType": "增持"
+    "pct": 2.4,
+    "chg": "-0.32",
+    "chgType": "减持"
    },
    {
     "code": "GOOG",
     "name": "谷歌-C",
-    "pct": 2.46,
-    "chg": "0.11",
+    "pct": 2.31,
+    "chg": "-0.15",
+    "chgType": "减持"
+   },
+   {
+    "code": "META",
+    "name": "Meta Platforms Inc-A",
+    "pct": 2.29,
+    "chg": "0.46",
     "chgType": "增持"
    },
    {
     "code": "MU",
     "name": "美光科技",
-    "pct": 1.99,
-    "chg": "1.99",
-    "chgType": "新增"
-   },
-   {
-    "code": "META",
-    "name": "Meta Platforms Inc-A",
-    "pct": 1.83,
-    "chg": "-0.36",
+    "pct": 1.74,
+    "chg": "-0.25",
     "chgType": "减持"
    },
    {
     "code": "TSLA",
     "name": "特斯拉",
-    "pct": 1.77,
-    "chg": "-0.07",
+    "pct": 1.43,
+    "chg": "-0.34",
     "chgType": "减持"
    }
   ],
   "fofHoldings": [],
   "asset": {
-   "stock": "94.03",
+   "stock": "93.2",
    "bond": "--",
-   "cash": "6.9",
+   "cash": "6.71",
    "fund": "--",
-   "other": "0",
-   "net": "71.5481",
-   "date": "2026-06-30"
+   "other": "0.09",
+   "net": "79.1963",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "摩根基金管理(中国)有限公司旗下部分基金2026年第三季度报告提示性公告",
+    "url": "https://fund.eastmoney.com/gonggao/017642,AN202610271831008850.html"
+   },
+   {
+    "date": "2026-10-27",
+    "title": "摩根标普500指数型发起式证券投资基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/017642,AN202610271830980341.html"
+   },
    {
     "date": "2026-10-22",
     "title": "摩根基金管理(中国)有限公司参与上市公司治理管理工作指引",
     "url": "https://fund.eastmoney.com/gonggao/017642,AN202610221830782663.html"
-   },
-   {
-    "date": "2026-09-07",
-    "title": "摩根基金管理(中国)有限公司关于终止瑞银基金销售(深圳)有限公司办理旗下基金相关销售业务及后续投资者服务措施的公告",
-    "url": "https://fund.eastmoney.com/gonggao/017642,AN202609071829085833.html"
    }
   ],
   "changed": false
@@ -9763,8 +10030,8 @@
   "manager": "张军",
   "risk": "5",
   "estDate": "2023-04-06",
-  "scale": 53.03,
-  "scaleDate": "2026-06-30",
+  "scale": 59.31,
+  "scaleDate": "2026-09-30",
   "shares": 31.68,
   "mgrFee": "0.50%",
   "trustFee": "0.15%",
@@ -9816,94 +10083,99 @@
    {
     "code": "NVDA",
     "name": "英伟达",
-    "pct": 7.37,
-    "chg": "-0.08",
-    "chgType": "减持"
+    "pct": 8.01,
+    "chg": "0.64",
+    "chgType": "增持"
    },
    {
     "code": "AAPL",
     "name": "苹果",
-    "pct": 6.39,
-    "chg": "-0.21",
-    "chgType": "减持"
+    "pct": 7.01,
+    "chg": "0.62",
+    "chgType": "增持"
    },
    {
     "code": "MSFT",
     "name": "微软",
-    "pct": 4.15,
-    "chg": "-0.69",
-    "chgType": "减持"
+    "pct": 5.43,
+    "chg": "1.28",
+    "chgType": "增持"
    },
    {
     "code": "AMZN",
     "name": "亚马逊",
-    "pct": 3.47,
-    "chg": "-0.09",
-    "chgType": "减持"
+    "pct": 3.5,
+    "chg": "0.03",
+    "chgType": "增持"
    },
    {
     "code": "GOOGL",
     "name": "谷歌-A",
-    "pct": 3.11,
-    "chg": "0.17",
-    "chgType": "增持"
+    "pct": 2.89,
+    "chg": "-0.22",
+    "chgType": "减持"
    },
    {
     "code": "AVGO",
     "name": "博通",
-    "pct": 2.72,
-    "chg": "0.15",
-    "chgType": "增持"
+    "pct": 2.4,
+    "chg": "-0.32",
+    "chgType": "减持"
    },
    {
     "code": "GOOG",
     "name": "谷歌-C",
-    "pct": 2.46,
-    "chg": "0.11",
+    "pct": 2.31,
+    "chg": "-0.15",
+    "chgType": "减持"
+   },
+   {
+    "code": "META",
+    "name": "Meta Platforms Inc-A",
+    "pct": 2.29,
+    "chg": "0.46",
     "chgType": "增持"
    },
    {
     "code": "MU",
     "name": "美光科技",
-    "pct": 1.99,
-    "chg": "1.99",
-    "chgType": "新增"
-   },
-   {
-    "code": "META",
-    "name": "Meta Platforms Inc-A",
-    "pct": 1.83,
-    "chg": "-0.36",
+    "pct": 1.74,
+    "chg": "-0.25",
     "chgType": "减持"
    },
    {
     "code": "TSLA",
     "name": "特斯拉",
-    "pct": 1.77,
-    "chg": "-0.07",
+    "pct": 1.43,
+    "chg": "-0.34",
     "chgType": "减持"
    }
   ],
   "fofHoldings": [],
   "asset": {
-   "stock": "94.03",
+   "stock": "93.2",
    "bond": "--",
-   "cash": "6.9",
+   "cash": "6.71",
    "fund": "--",
-   "other": "0",
-   "net": "71.5481",
-   "date": "2026-06-30"
+   "other": "0.09",
+   "net": "79.1963",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "摩根基金管理(中国)有限公司旗下部分基金2026年第三季度报告提示性公告",
+    "url": "https://fund.eastmoney.com/gonggao/017643,AN202610271831008850.html"
+   },
+   {
+    "date": "2026-10-27",
+    "title": "摩根标普500指数型发起式证券投资基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/017643,AN202610271830980341.html"
+   },
    {
     "date": "2026-10-22",
     "title": "摩根基金管理(中国)有限公司参与上市公司治理管理工作指引",
     "url": "https://fund.eastmoney.com/gonggao/017643,AN202610221830782663.html"
-   },
-   {
-    "date": "2026-09-07",
-    "title": "摩根基金管理(中国)有限公司关于终止瑞银基金销售(深圳)有限公司办理旗下基金相关销售业务及后续投资者服务措施的公告",
-    "url": "https://fund.eastmoney.com/gonggao/017643,AN202609071829085833.html"
    }
   ],
   "changed": false
@@ -9924,9 +10196,9 @@
   "manager": "乐无穹",
   "risk": "4",
   "estDate": "2023-03-14",
-  "scale": 2.89,
-  "scaleDate": "2026-06-30",
-  "shares": 1.91,
+  "scale": 3.3,
+  "scaleDate": "2026-09-30",
+  "shares": 2.06,
   "mgrFee": "0.50%",
   "trustFee": "0.15%",
   "salesFee": "0.00%",
@@ -9978,22 +10250,27 @@
   "asset": {
    "stock": "--",
    "bond": "--",
-   "cash": "6.59",
-   "fund": "93.53",
-   "other": "0",
-   "net": "5.2488",
-   "date": "2026-06-30"
+   "cash": "5.24",
+   "fund": "93.79",
+   "other": "0.97",
+   "net": "5.7741",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "汇添富基金管理股份有限公司旗下基金2026年第三季度报告提示性公告",
+    "url": "https://fund.eastmoney.com/gonggao/017894,AN202610271830996011.html"
+   },
+   {
+    "date": "2026-10-27",
+    "title": "汇添富纳斯达克生物科技交易型开放式指数证券投资基金发起式联接基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/017894,AN202610271830982336.html"
+   },
    {
     "date": "2026-10-08",
     "title": "关于汇添富纳斯达克生物科技交易型开放式指数证券投资基金发起式联接基金(QDII)调整大额申购、定期定额投资业务限制金额的公告",
     "url": "https://fund.eastmoney.com/gonggao/017894,AN202610081830199847.html"
-   },
-   {
-    "date": "2026-09-14",
-    "title": "汇添富基金风险评价结果(2026年9月)",
-    "url": "https://fund.eastmoney.com/gonggao/017894,AN202609141829369303.html"
    }
   ],
   "changed": false
@@ -10014,9 +10291,9 @@
   "manager": "乐无穹",
   "risk": "4",
   "estDate": "2023-03-14",
-  "scale": 2.24,
-  "scaleDate": "2026-06-30",
-  "shares": 1.5,
+  "scale": 2.36,
+  "scaleDate": "2026-09-30",
+  "shares": 1.49,
   "mgrFee": "0.50%",
   "trustFee": "0.15%",
   "salesFee": "0.25%",
@@ -10068,22 +10345,27 @@
   "asset": {
    "stock": "--",
    "bond": "--",
-   "cash": "6.59",
-   "fund": "93.53",
-   "other": "0",
-   "net": "5.2488",
-   "date": "2026-06-30"
+   "cash": "5.24",
+   "fund": "93.79",
+   "other": "0.97",
+   "net": "5.7741",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "汇添富基金管理股份有限公司旗下基金2026年第三季度报告提示性公告",
+    "url": "https://fund.eastmoney.com/gonggao/017895,AN202610271830996011.html"
+   },
+   {
+    "date": "2026-10-27",
+    "title": "汇添富纳斯达克生物科技交易型开放式指数证券投资基金发起式联接基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/017895,AN202610271830982336.html"
+   },
    {
     "date": "2026-10-08",
     "title": "关于汇添富纳斯达克生物科技交易型开放式指数证券投资基金发起式联接基金(QDII)调整大额申购、定期定额投资业务限制金额的公告",
     "url": "https://fund.eastmoney.com/gonggao/017895,AN202610081830199847.html"
-   },
-   {
-    "date": "2026-09-14",
-    "title": "汇添富基金风险评价结果(2026年9月)",
-    "url": "https://fund.eastmoney.com/gonggao/017895,AN202609141829369303.html"
    }
   ],
   "changed": false
@@ -10105,7 +10387,7 @@
   "risk": "4",
   "estDate": "2023-03-14",
   "scale": 0.11,
-  "scaleDate": "2026-06-30",
+  "scaleDate": "2026-09-30",
   "shares": 0.01,
   "mgrFee": "0.50%",
   "trustFee": "0.15%",
@@ -10158,22 +10440,27 @@
   "asset": {
    "stock": "--",
    "bond": "--",
-   "cash": "6.59",
-   "fund": "93.53",
-   "other": "0",
-   "net": "5.2488",
-   "date": "2026-06-30"
+   "cash": "5.24",
+   "fund": "93.79",
+   "other": "0.97",
+   "net": "5.7741",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "汇添富基金管理股份有限公司旗下基金2026年第三季度报告提示性公告",
+    "url": "https://fund.eastmoney.com/gonggao/017951,AN202610271830996011.html"
+   },
+   {
+    "date": "2026-10-27",
+    "title": "汇添富纳斯达克生物科技交易型开放式指数证券投资基金发起式联接基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/017951,AN202610271830982336.html"
+   },
    {
     "date": "2026-10-08",
     "title": "关于汇添富纳斯达克生物科技交易型开放式指数证券投资基金发起式联接基金(QDII)调整大额申购、定期定额投资业务限制金额的公告",
     "url": "https://fund.eastmoney.com/gonggao/017951,AN202610081830199847.html"
-   },
-   {
-    "date": "2026-09-14",
-    "title": "汇添富基金风险评价结果(2026年9月)",
-    "url": "https://fund.eastmoney.com/gonggao/017951,AN202609141829369303.html"
    }
   ],
   "changed": false
@@ -10195,7 +10482,7 @@
   "risk": "5",
   "estDate": "2023-03-14",
   "scale": 0.0,
-  "scaleDate": "2023-06-30",
+  "scaleDate": "2026-09-30",
   "shares": 0.0,
   "mgrFee": "0.50%",
   "trustFee": "0.15%",
@@ -10248,22 +10535,27 @@
   "asset": {
    "stock": "--",
    "bond": "--",
-   "cash": "6.59",
-   "fund": "93.53",
-   "other": "0",
-   "net": "5.2488",
-   "date": "2026-06-30"
+   "cash": "5.24",
+   "fund": "93.79",
+   "other": "0.97",
+   "net": "5.7741",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "汇添富基金管理股份有限公司旗下基金2026年第三季度报告提示性公告",
+    "url": "https://fund.eastmoney.com/gonggao/017952,AN202610271830996011.html"
+   },
+   {
+    "date": "2026-10-27",
+    "title": "汇添富纳斯达克生物科技交易型开放式指数证券投资基金发起式联接基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/017952,AN202610271830982336.html"
+   },
    {
     "date": "2026-10-08",
     "title": "关于汇添富纳斯达克生物科技交易型开放式指数证券投资基金发起式联接基金(QDII)调整大额申购、定期定额投资业务限制金额的公告",
     "url": "https://fund.eastmoney.com/gonggao/017952,AN202610081830199847.html"
-   },
-   {
-    "date": "2026-09-14",
-    "title": "汇添富基金风险评价结果(2026年9月)",
-    "url": "https://fund.eastmoney.com/gonggao/017952,AN202609141829369303.html"
    }
   ],
   "changed": false
@@ -10284,9 +10576,9 @@
   "manager": "赵宗庭",
   "risk": "4",
   "estDate": "2023-05-10",
-  "scale": 3.19,
-  "scaleDate": "2026-06-30",
-  "shares": 1.9,
+  "scale": 3.27,
+  "scaleDate": "2026-09-30",
+  "shares": 1.93,
   "mgrFee": "0.60%",
   "trustFee": "0.15%",
   "salesFee": "0.00%",
@@ -10335,22 +10627,15 @@
   },
   "holdings": [
    {
-    "code": "920136",
-    "name": "永励精密",
+    "code": "920162",
+    "name": "莫森泰克",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
    },
    {
-    "code": "920189",
-    "name": "康美特",
-    "pct": 0.0,
-    "chg": "0",
-    "chgType": "新增"
-   },
-   {
-    "code": "920193",
-    "name": "吉和昌",
+    "code": "920157",
+    "name": "宇特光电",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -10359,28 +10644,28 @@
   "fofHoldings": [],
   "asset": {
    "stock": "0",
-   "bond": "4.17",
-   "cash": "2.89",
-   "fund": "91.21",
-   "other": "1.73",
-   "net": "4.8454",
-   "date": "2026-06-30"
+   "bond": "2.05",
+   "cash": "6.11",
+   "fund": "91.87",
+   "other": "0",
+   "net": "4.9219",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "华夏基金管理有限公司旗下部分基金2026年第3季度报告提示性公告",
+    "url": "https://fund.eastmoney.com/gonggao/018064,AN202610271830996008.html"
+   },
+   {
+    "date": "2026-10-27",
+    "title": "华夏标普500交易型开放式指数证券投资基金发起式联接基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/018064,AN202610271830987500.html"
+   },
    {
     "date": "2026-10-23",
     "title": "华夏基金管理有限公司关于暂停部分电子交易的服务提示",
     "url": "https://fund.eastmoney.com/gonggao/018064,AN202610241830876580.html"
-   },
-   {
-    "date": "2026-10-08",
-    "title": "华夏基金管理有限公司关于终止瑞银基金销售(深圳)有限公司办理本公司旗下基金销售业务的公告",
-    "url": "https://fund.eastmoney.com/gonggao/018064,AN202610081830198059.html"
-   },
-   {
-    "date": "2026-09-11",
-    "title": "华夏基金管理有限公司关于暂停部分电子交易的服务提示",
-    "url": "https://fund.eastmoney.com/gonggao/018064,AN202609121829312402.html"
    }
   ],
   "changed": false
@@ -10401,9 +10686,9 @@
   "manager": "赵宗庭",
   "risk": "4",
   "estDate": "2023-05-10",
-  "scale": 1.66,
-  "scaleDate": "2026-06-30",
-  "shares": 0.99,
+  "scale": 1.65,
+  "scaleDate": "2026-09-30",
+  "shares": 0.98,
   "mgrFee": "0.60%",
   "trustFee": "0.15%",
   "salesFee": "0.30%",
@@ -10452,22 +10737,15 @@
   },
   "holdings": [
    {
-    "code": "920193",
-    "name": "吉和昌",
+    "code": "920162",
+    "name": "莫森泰克",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
    },
    {
-    "code": "920189",
-    "name": "康美特",
-    "pct": 0.0,
-    "chg": "0",
-    "chgType": "新增"
-   },
-   {
-    "code": "920136",
-    "name": "永励精密",
+    "code": "920157",
+    "name": "宇特光电",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -10476,14 +10754,19 @@
   "fofHoldings": [],
   "asset": {
    "stock": "0",
-   "bond": "4.17",
-   "cash": "2.89",
-   "fund": "91.21",
-   "other": "1.73",
-   "net": "4.8454",
-   "date": "2026-06-30"
+   "bond": "2.05",
+   "cash": "6.11",
+   "fund": "91.87",
+   "other": "0",
+   "net": "4.9219",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "华夏标普500交易型开放式指数证券投资基金发起式联接基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/018065,AN202610271830987500.html"
+   },
    {
     "date": "2026-10-23",
     "title": "华夏基金管理有限公司关于暂停部分电子交易的服务提示",
@@ -10493,11 +10776,6 @@
     "date": "2026-10-08",
     "title": "华夏基金管理有限公司关于终止瑞银基金销售(深圳)有限公司办理本公司旗下基金销售业务的公告",
     "url": "https://fund.eastmoney.com/gonggao/018065,AN202610081830198059.html"
-   },
-   {
-    "date": "2026-09-11",
-    "title": "华夏基金管理有限公司关于暂停部分电子交易的服务提示",
-    "url": "https://fund.eastmoney.com/gonggao/018065,AN202609121829312402.html"
    }
   ],
   "changed": false
@@ -10518,9 +10796,9 @@
   "manager": "赵宗庭",
   "risk": "5",
   "estDate": "2023-05-10",
-  "scale": 3.19,
-  "scaleDate": "2026-06-30",
-  "shares": 1.9,
+  "scale": 3.27,
+  "scaleDate": "2026-09-30",
+  "shares": 1.93,
   "mgrFee": "0.60%",
   "trustFee": "0.15%",
   "salesFee": "0.00%",
@@ -10569,22 +10847,15 @@
   },
   "holdings": [
    {
-    "code": "920136",
-    "name": "永励精密",
+    "code": "920157",
+    "name": "宇特光电",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
    },
    {
-    "code": "920189",
-    "name": "康美特",
-    "pct": 0.0,
-    "chg": "0",
-    "chgType": "新增"
-   },
-   {
-    "code": "920193",
-    "name": "吉和昌",
+    "code": "920162",
+    "name": "莫森泰克",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -10593,14 +10864,19 @@
   "fofHoldings": [],
   "asset": {
    "stock": "0",
-   "bond": "4.17",
-   "cash": "2.89",
-   "fund": "91.21",
-   "other": "1.73",
-   "net": "4.8454",
-   "date": "2026-06-30"
+   "bond": "2.05",
+   "cash": "6.11",
+   "fund": "91.87",
+   "other": "0",
+   "net": "4.9219",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "华夏标普500交易型开放式指数证券投资基金发起式联接基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/018066,AN202610271830987500.html"
+   },
    {
     "date": "2026-10-23",
     "title": "华夏基金管理有限公司关于暂停部分电子交易的服务提示",
@@ -10610,11 +10886,6 @@
     "date": "2026-10-08",
     "title": "华夏基金管理有限公司关于终止瑞银基金销售(深圳)有限公司办理本公司旗下基金销售业务的公告",
     "url": "https://fund.eastmoney.com/gonggao/018066,AN202610081830198059.html"
-   },
-   {
-    "date": "2026-09-11",
-    "title": "华夏基金管理有限公司关于暂停部分电子交易的服务提示",
-    "url": "https://fund.eastmoney.com/gonggao/018066,AN202609121829312402.html"
    }
   ],
   "changed": false
@@ -10635,9 +10906,9 @@
   "manager": "万琼",
   "risk": "5",
   "estDate": "2023-07-04",
-  "scale": 23.04,
-  "scaleDate": "2026-06-30",
-  "shares": 4.2,
+  "scale": 24.43,
+  "scaleDate": "2026-09-30",
+  "shares": 4.4,
   "mgrFee": "0.60%",
   "trustFee": "0.20%",
   "salesFee": "0.01%",
@@ -10689,22 +10960,22 @@
   "asset": {
    "stock": "--",
    "bond": "--",
-   "cash": "7.51",
-   "fund": "92.73",
-   "other": "0",
-   "net": "100.5663",
-   "date": "2026-06-30"
+   "cash": "7.29",
+   "fund": "92.35",
+   "other": "0.36",
+   "net": "100.3326",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "博时标普500交易型开放式指数证券投资基金联接基金2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/018738,AN202610271830984284.html"
+   },
    {
     "date": "2026-10-16",
     "title": "博时基金管理有限公司关于披露委托的第三方互联网平台等信息的公告",
     "url": "https://fund.eastmoney.com/gonggao/018738,AN202610161830625680.html"
-   },
-   {
-    "date": "2026-09-30",
-    "title": "博时基金管理有限公司关于高级管理人员变更的公告",
-    "url": "https://fund.eastmoney.com/gonggao/018738,AN202609301830053719.html"
    }
   ],
   "changed": false
@@ -10725,9 +10996,9 @@
   "manager": "汪洋,张晓南",
   "risk": "4",
   "estDate": "2023-08-16",
-  "scale": 8.88,
-  "scaleDate": "2026-06-30",
-  "shares": 3.11,
+  "scale": 11.24,
+  "scaleDate": "2026-09-30",
+  "shares": 3.79,
   "mgrFee": "0.80%",
   "trustFee": "0.20%",
   "salesFee": "0.20%",
@@ -10774,18 +11045,94 @@
    "code": "159509",
    "name": "纳指科技ETF景顺"
   },
-  "holdings": [],
+  "holdings": [
+   {
+    "code": "AAPL",
+    "name": "苹果",
+    "pct": 1.37,
+    "chg": "1.37",
+    "chgType": "新增"
+   },
+   {
+    "code": "NVDA",
+    "name": "英伟达",
+    "pct": 1.35,
+    "chg": "1.35",
+    "chgType": "新增"
+   },
+   {
+    "code": "MSFT",
+    "name": "微软",
+    "pct": 1.28,
+    "chg": "1.28",
+    "chgType": "新增"
+   },
+   {
+    "code": "META",
+    "name": "Meta Platforms Inc-A",
+    "pct": 0.7,
+    "chg": "0.7",
+    "chgType": "新增"
+   },
+   {
+    "code": "GOOGL",
+    "name": "谷歌-A",
+    "pct": 0.68,
+    "chg": "0.68",
+    "chgType": "新增"
+   },
+   {
+    "code": "GOOG",
+    "name": "谷歌-C",
+    "pct": 0.63,
+    "chg": "0.63",
+    "chgType": "新增"
+   },
+   {
+    "code": "AVGO",
+    "name": "博通",
+    "pct": 0.56,
+    "chg": "0.56",
+    "chgType": "新增"
+   },
+   {
+    "code": "MU",
+    "name": "美光科技",
+    "pct": 0.53,
+    "chg": "0.53",
+    "chgType": "新增"
+   },
+   {
+    "code": "AMD",
+    "name": "超威半导体",
+    "pct": 0.44,
+    "chg": "0.44",
+    "chgType": "新增"
+   },
+   {
+    "code": "INTC",
+    "name": "英特尔",
+    "pct": 0.28,
+    "chg": "0.28",
+    "chgType": "新增"
+   }
+  ],
   "fofHoldings": [],
   "asset": {
-   "stock": "--",
+   "stock": "10.04",
    "bond": "--",
-   "cash": "6.54",
-   "fund": "94.15",
+   "cash": "7.63",
+   "fund": "82.35",
    "other": "0",
-   "net": "49.8566",
-   "date": "2026-06-30"
+   "net": "57.7268",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "景顺长城纳斯达克科技市值加权交易型开放式指数证券投资基金发起式联接基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/019118,AN202610271830980030.html"
+   },
    {
     "date": "2026-10-23",
     "title": "景顺长城基金管理有限公司关于提请投资者及时更新或完善身份信息的公告",
@@ -10795,11 +11142,6 @@
     "date": "2026-10-21",
     "title": "景顺长城基金管理有限公司关于系统停机维护的通知",
     "url": "https://fund.eastmoney.com/gonggao/019118,AN202610211830758684.html"
-   },
-   {
-    "date": "2026-09-30",
-    "title": "关于景顺长城纳斯达克科技市值加权交易型开放式指数证券投资基金发起式联接基金(QDII)新增青岛银行为销售机构的公告",
-    "url": "https://fund.eastmoney.com/gonggao/019118,AN202609301830019351.html"
    }
   ],
   "changed": false
@@ -10820,9 +11162,9 @@
   "manager": "张军",
   "risk": "4",
   "estDate": "2023-09-01",
-  "scale": 18.52,
-  "scaleDate": "2026-06-30",
-  "shares": 11.16,
+  "scale": 19.88,
+  "scaleDate": "2026-09-30",
+  "shares": 11.86,
   "mgrFee": "0.50%",
   "trustFee": "0.15%",
   "salesFee": "0.30%",
@@ -10873,94 +11215,99 @@
    {
     "code": "NVDA",
     "name": "英伟达",
-    "pct": 7.37,
-    "chg": "-0.08",
-    "chgType": "减持"
+    "pct": 8.01,
+    "chg": "0.64",
+    "chgType": "增持"
    },
    {
     "code": "AAPL",
     "name": "苹果",
-    "pct": 6.39,
-    "chg": "-0.21",
-    "chgType": "减持"
+    "pct": 7.01,
+    "chg": "0.62",
+    "chgType": "增持"
    },
    {
     "code": "MSFT",
     "name": "微软",
-    "pct": 4.15,
-    "chg": "-0.69",
-    "chgType": "减持"
+    "pct": 5.43,
+    "chg": "1.28",
+    "chgType": "增持"
    },
    {
     "code": "AMZN",
     "name": "亚马逊",
-    "pct": 3.47,
-    "chg": "-0.09",
-    "chgType": "减持"
+    "pct": 3.5,
+    "chg": "0.03",
+    "chgType": "增持"
    },
    {
     "code": "GOOGL",
     "name": "谷歌-A",
-    "pct": 3.11,
-    "chg": "0.17",
-    "chgType": "增持"
+    "pct": 2.89,
+    "chg": "-0.22",
+    "chgType": "减持"
    },
    {
     "code": "AVGO",
     "name": "博通",
-    "pct": 2.72,
-    "chg": "0.15",
-    "chgType": "增持"
+    "pct": 2.4,
+    "chg": "-0.32",
+    "chgType": "减持"
    },
    {
     "code": "GOOG",
     "name": "谷歌-C",
-    "pct": 2.46,
-    "chg": "0.11",
+    "pct": 2.31,
+    "chg": "-0.15",
+    "chgType": "减持"
+   },
+   {
+    "code": "META",
+    "name": "Meta Platforms Inc-A",
+    "pct": 2.29,
+    "chg": "0.46",
     "chgType": "增持"
    },
    {
     "code": "MU",
     "name": "美光科技",
-    "pct": 1.99,
-    "chg": "1.99",
-    "chgType": "新增"
-   },
-   {
-    "code": "META",
-    "name": "Meta Platforms Inc-A",
-    "pct": 1.83,
-    "chg": "-0.36",
+    "pct": 1.74,
+    "chg": "-0.25",
     "chgType": "减持"
    },
    {
     "code": "TSLA",
     "name": "特斯拉",
-    "pct": 1.77,
-    "chg": "-0.07",
+    "pct": 1.43,
+    "chg": "-0.34",
     "chgType": "减持"
    }
   ],
   "fofHoldings": [],
   "asset": {
-   "stock": "94.03",
+   "stock": "93.2",
    "bond": "--",
-   "cash": "6.9",
+   "cash": "6.71",
    "fund": "--",
-   "other": "0",
-   "net": "71.5481",
-   "date": "2026-06-30"
+   "other": "0.09",
+   "net": "79.1963",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "摩根基金管理(中国)有限公司旗下部分基金2026年第三季度报告提示性公告",
+    "url": "https://fund.eastmoney.com/gonggao/019305,AN202610271831008850.html"
+   },
+   {
+    "date": "2026-10-27",
+    "title": "摩根标普500指数型发起式证券投资基金(QDII)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/019305,AN202610271830980341.html"
+   },
    {
     "date": "2026-10-22",
     "title": "摩根基金管理(中国)有限公司参与上市公司治理管理工作指引",
     "url": "https://fund.eastmoney.com/gonggao/019305,AN202610221830782663.html"
-   },
-   {
-    "date": "2026-09-21",
-    "title": "关于新增万联证券股份有限公司为摩根基金管理(中国)有限公司旗下部分基金代销机构的公告",
-    "url": "https://fund.eastmoney.com/gonggao/019305,AN202609211829686442.html"
    }
   ],
   "changed": false
@@ -10981,9 +11328,9 @@
   "manager": "胡超",
   "risk": "5",
   "estDate": "2024-11-01",
-  "scale": 1.84,
-  "scaleDate": "2026-06-30",
-  "shares": 0.84,
+  "scale": 1.83,
+  "scaleDate": "2026-09-30",
+  "shares": 0.83,
   "mgrFee": "0.60%",
   "trustFee": "0.20%",
   "salesFee": "0.25%",
@@ -11034,14 +11381,19 @@
   "fofHoldings": [],
   "asset": {
    "stock": "--",
-   "bond": "3.04",
-   "cash": "3.82",
-   "fund": "91.02",
-   "other": "2.12",
-   "net": "43.1589",
-   "date": "2026-06-30"
+   "bond": "2.83",
+   "cash": "4.16",
+   "fund": "91.2",
+   "other": "1.81",
+   "net": "46.5057",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "天弘标普500发起式证券投资基金(QDII-FOF)2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/022523,AN202610271830984011.html"
+   },
    {
     "date": "2026-10-21",
     "title": "天弘标普500发起式证券投资基金(QDII-FOF)招募说明书(更新)",
@@ -11051,11 +11403,6 @@
     "date": "2026-09-04",
     "title": "天弘基金管理有限公司关于终止瑞银基金销售(深圳)有限公司办理旗下基金相关销售业务的公告",
     "url": "https://fund.eastmoney.com/gonggao/022523,AN202609041828989156.html"
-   },
-   {
-    "date": "2026-09-01",
-    "title": "天弘基金管理有限公司关于天弘标普500发起式证券投资基金(QDII-FOF)恢复申购、定期定额投资业务及限制大额申购、定期定额投资业务的公告",
-    "url": "https://fund.eastmoney.com/gonggao/022523,AN202609011828844257.html"
    }
   ],
   "changed": false
@@ -11076,9 +11423,9 @@
   "manager": "万琼",
   "risk": "4",
   "estDate": "2012-06-14",
-  "scale": 64.67,
-  "scaleDate": "2026-06-30",
-  "shares": 11.77,
+  "scale": 63.48,
+  "scaleDate": "2026-09-30",
+  "shares": 11.44,
   "mgrFee": "0.60%",
   "trustFee": "0.20%",
   "salesFee": "0.00%",
@@ -11130,22 +11477,22 @@
   "asset": {
    "stock": "--",
    "bond": "--",
-   "cash": "7.51",
-   "fund": "92.73",
-   "other": "0",
-   "net": "100.5663",
-   "date": "2026-06-30"
+   "cash": "7.29",
+   "fund": "92.35",
+   "other": "0.36",
+   "net": "100.3326",
+   "date": "2026-09-30"
   },
   "notices": [
+   {
+    "date": "2026-10-27",
+    "title": "博时标普500交易型开放式指数证券投资基金联接基金2026年第3季度报告",
+    "url": "https://fund.eastmoney.com/gonggao/050025,AN202610271830984284.html"
+   },
    {
     "date": "2026-10-16",
     "title": "博时基金管理有限公司关于披露委托的第三方互联网平台等信息的公告",
     "url": "https://fund.eastmoney.com/gonggao/050025,AN202610161830625680.html"
-   },
-   {
-    "date": "2026-09-30",
-    "title": "博时基金管理有限公司关于高级管理人员变更的公告",
-    "url": "https://fund.eastmoney.com/gonggao/050025,AN202609301830053719.html"
    }
   ],
   "changed": false
@@ -11166,9 +11513,9 @@
   "manager": "冉凌浩",
   "risk": "4",
   "estDate": "2011-03-23",
-  "scale": 7.3,
-  "scaleDate": "2026-06-30",
-  "shares": 2.62,
+  "scale": 8.83,
+  "scaleDate": "2026-09-30",
+  "shares": 3.26,
   "mgrFee": "1.00%",
   "trustFee": "0.20%",
   "salesFee": "0.00%",
@@ -11220,82 +11567,82 @@
     "code": "MRNA",
     "name": "Moderna Inc",
     "pct": 0.28,
-    "chg": "0.28",
-    "chgType": "新增"
+    "chg": "0",
+    "chgType": "不变"
    },
    {
-    "code": "GLW",
-    "name": "康宁",
-    "pct": 0.28,
-    "chg": "0.28",
-    "chgType": "新增"
-   },
-   {
-    "code": "AMAT",
-    "name": "应用材料",
-    "pct": 0.27,
-    "chg": "0.27",
-    "chgType": "新增"
-   },
-   {
-    "code": "KLAC",
-    "name": "科磊",
+    "code": "ILMN",
+    "name": "Illumina Inc",
     "pct": 0.26,
     "chg": "0.26",
     "chgType": "新增"
    },
    {
-    "code": "SNDK",
-    "name": "闪迪",
+    "code": "P",
+    "name": "Everpure Inc-A",
+    "pct": 0.26,
+    "chg": "0.26",
+    "chgType": "新增"
+   },
+   {
+    "code": "CRWD",
+    "name": "CrowdStrike Holdings Inc-A",
     "pct": 0.25,
     "chg": "0.25",
     "chgType": "新增"
    },
    {
-    "code": "TECH",
-    "name": "Bio-Techne Corp",
-    "pct": 0.25,
-    "chg": "0.25",
-    "chgType": "新增"
-   },
-   {
-    "code": "LRCX",
-    "name": "拉姆研究",
-    "pct": 0.25,
-    "chg": "0.25",
-    "chgType": "新增"
-   },
-   {
-    "code": "TER",
-    "name": "泰瑞达",
-    "pct": 0.25,
-    "chg": "0.25",
-    "chgType": "新增"
-   },
-   {
-    "code": "GEV",
-    "name": "GE Vernova Inc",
+    "code": "DDOG",
+    "name": "Datadog Inc-A",
     "pct": 0.24,
     "chg": "0.24",
     "chgType": "新增"
    },
    {
-    "code": "UAL",
-    "name": "联合航空",
+    "code": "RVTY",
+    "name": "Revvity Inc",
     "pct": 0.24,
     "chg": "0.24",
+    "chgType": "新增"
+   },
+   {
+    "code": "MTD",
+    "name": "梅特勒-托利多",
+    "pct": 0.23,
+    "chg": "0.23",
+    "chgType": "新增"
+   },
+   {
+    "code": "CDNS",
+    "name": "铿腾电子",
+    "pct": 0.23,
+    "chg": "0.23",
+    "chgType": "新增"
+   },
+   {
+    "code": "AMD",
+    "name": "超威半导体",
+    "pct": 0.23,
+    "chg": "0.23",
+    "chgType": "新增"
+   },
+   {
+    "code": "PANW",
+    "name": "派拓网络",
+    "pct": 0.23,
+    "chg": "0.23",
     "chgType": "新增"
    }
   ],
   "fofHoldings": [],
   "asset": {
-   "stock": "93.97",
+   "stock": "93",
    "bond": "--",
-   "cash": "6.71",
+   "cash": "7.14",
    "fund": "--",
    "other": "0",
-   "net": "9.4002",
-   "date": "2026-06-30"
+   "net": "11.6399",
+   "date": "2026-09-30"
   },
   "notices": [
    {
