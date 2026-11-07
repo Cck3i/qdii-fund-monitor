@@ -5129,7 +5129,7 @@
   "catName": "纳斯达克100",
   "indexName": "纳斯达克100指数",
   "indexCode": "NDX100",
-  "te": "1.73%",
+  "te": "",
   "feeTotal": "0.65%",
   "company": "宝盈基金",
   "manager": "蔡丹",
@@ -5295,7 +5295,7 @@
   "catName": "纳斯达克100",
   "indexName": "纳斯达克100指数",
   "indexCode": "NDX100",
-  "te": "1.73%",
+  "te": "",
   "feeTotal": "0.90%",
   "company": "宝盈基金",
   "manager": "蔡丹",
@@ -7373,11 +7373,6 @@
     "date": "2026-11-06",
     "title": "易方达基金管理有限公司关于公司旗下部分基金估值调整情况的公告",
     "url": "https://fund.eastmoney.com/gonggao/003718,AN202611051831461115.html"
-   },
-   {
-    "date": "2026-10-27",
-    "title": "易方达标普500指数证券投资基金(LOF)2026年第3季度报告",
-    "url": "https://fund.eastmoney.com/gonggao/003718,AN202610261830942952.html"
    }
   ],
   "changed": false
@@ -7736,15 +7731,15 @@
     "chgType": "不变"
    },
    {
-    "code": "ILMN",
-    "name": "Illumina Inc",
+    "code": "P",
+    "name": "Everpure Inc-A",
     "pct": 0.26,
     "chg": "0.26",
     "chgType": "新增"
    },
    {
-    "code": "P",
-    "name": "Everpure Inc-A",
+    "code": "ILMN",
+    "name": "Illumina Inc",
     "pct": 0.26,
     "chg": "0.26",
     "chgType": "新增"
@@ -7785,15 +7780,15 @@
     "chgType": "新增"
    },
    {
-    "code": "MTD",
-    "name": "梅特勒-托利多",
+    "code": "PANW",
+    "name": "派拓网络",
     "pct": 0.23,
     "chg": "0.23",
     "chgType": "新增"
    },
    {
-    "code": "PANW",
-    "name": "派拓网络",
+    "code": "MTD",
+    "name": "梅特勒-托利多",
     "pct": 0.23,
     "chg": "0.23",
     "chgType": "新增"
@@ -7980,11 +7975,6 @@
     "date": "2026-11-06",
     "title": "易方达基金管理有限公司关于公司旗下部分基金估值调整情况的公告",
     "url": "https://fund.eastmoney.com/gonggao/012860,AN202611051831461115.html"
-   },
-   {
-    "date": "2026-10-27",
-    "title": "易方达标普500指数证券投资基金(LOF)2026年第3季度报告",
-    "url": "https://fund.eastmoney.com/gonggao/012860,AN202610261830942952.html"
    }
   ],
   "changed": false
@@ -8141,11 +8131,6 @@
     "date": "2026-11-06",
     "title": "易方达基金管理有限公司关于公司旗下部分基金估值调整情况的公告",
     "url": "https://fund.eastmoney.com/gonggao/012861,AN202611051831461115.html"
-   },
-   {
-    "date": "2026-10-27",
-    "title": "易方达标普500指数证券投资基金(LOF)2026年第3季度报告",
-    "url": "https://fund.eastmoney.com/gonggao/012861,AN202610261830942952.html"
    }
   ],
   "changed": false
@@ -8591,15 +8576,15 @@
     "chgType": "新增"
    },
    {
-    "code": "RVTY",
-    "name": "Revvity Inc",
+    "code": "DDOG",
+    "name": "Datadog Inc-A",
     "pct": 0.24,
     "chg": "0.24",
     "chgType": "新增"
    },
    {
-    "code": "DDOG",
-    "name": "Datadog Inc-A",
+    "code": "RVTY",
+    "name": "Revvity Inc",
     "pct": 0.24,
     "chg": "0.24",
     "chgType": "新增"
@@ -10707,15 +10692,15 @@
   },
   "holdings": [
    {
-    "code": "920162",
-    "name": "莫森泰克",
+    "code": "920157",
+    "name": "宇特光电",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
    },
    {
-    "code": "920157",
-    "name": "宇特光电",
+    "code": "920162",
+    "name": "莫森泰克",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -10817,15 +10802,15 @@
   },
   "holdings": [
    {
-    "code": "920157",
-    "name": "宇特光电",
+    "code": "920162",
+    "name": "莫森泰克",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
    },
    {
-    "code": "920162",
-    "name": "莫森泰克",
+    "code": "920157",
+    "name": "宇特光电",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -11566,15 +11551,15 @@
     "chgType": "新增"
    },
    {
-    "code": "CDNS",
-    "name": "铿腾电子",
+    "code": "MTD",
+    "name": "梅特勒-托利多",
     "pct": 0.23,
     "chg": "0.23",
     "chgType": "新增"
    },
    {
-    "code": "MTD",
-    "name": "梅特勒-托利多",
+    "code": "CDNS",
+    "name": "铿腾电子",
     "pct": 0.23,
     "chg": "0.23",
     "chgType": "新增"
@@ -11775,11 +11760,6 @@
     "date": "2026-11-06",
     "title": "易方达基金管理有限公司关于公司旗下部分基金估值调整情况的公告",
     "url": "https://fund.eastmoney.com/gonggao/161125,AN202611051831461115.html"
-   },
-   {
-    "date": "2026-10-27",
-    "title": "易方达标普500指数证券投资基金(LOF)2026年第3季度报告",
-    "url": "https://fund.eastmoney.com/gonggao/161125,AN202610261830942952.html"
    }
   ],
   "changed": false
