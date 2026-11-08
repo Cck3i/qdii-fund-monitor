@@ -5129,7 +5129,7 @@
   "catName": "纳斯达克100",
   "indexName": "纳斯达克100指数",
   "indexCode": "NDX100",
-  "te": "1.73%",
+  "te": "",
   "feeTotal": "0.65%",
   "company": "宝盈基金",
   "manager": "蔡丹",
@@ -5295,7 +5295,7 @@
   "catName": "纳斯达克100",
   "indexName": "纳斯达克100指数",
   "indexCode": "NDX100",
-  "te": "1.73%",
+  "te": "",
   "feeTotal": "0.90%",
   "company": "宝盈基金",
   "manager": "蔡丹",
@@ -7731,15 +7731,15 @@
     "chgType": "不变"
    },
    {
-    "code": "P",
-    "name": "Everpure Inc-A",
+    "code": "ILMN",
+    "name": "Illumina Inc",
     "pct": 0.26,
     "chg": "0.26",
     "chgType": "新增"
    },
    {
-    "code": "ILMN",
-    "name": "Illumina Inc",
+    "code": "P",
+    "name": "Everpure Inc-A",
     "pct": 0.26,
     "chg": "0.26",
     "chgType": "新增"
@@ -8258,15 +8258,15 @@
     "chgType": "新增"
    },
    {
-    "code": "PANW",
-    "name": "派拓网络",
+    "code": "MTD",
+    "name": "梅特勒-托利多",
     "pct": 0.23,
     "chg": "0.23",
     "chgType": "新增"
    },
    {
-    "code": "MTD",
-    "name": "梅特勒-托利多",
+    "code": "PANW",
+    "name": "派拓网络",
     "pct": 0.23,
     "chg": "0.23",
     "chgType": "新增"
@@ -10692,15 +10692,15 @@
   },
   "holdings": [
    {
-    "code": "920157",
-    "name": "宇特光电",
+    "code": "920162",
+    "name": "莫森泰克",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
    },
    {
-    "code": "920162",
-    "name": "莫森泰克",
+    "code": "920157",
+    "name": "宇特光电",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -10802,15 +10802,15 @@
   },
   "holdings": [
    {
-    "code": "920157",
-    "name": "宇特光电",
+    "code": "920162",
+    "name": "莫森泰克",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
    },
    {
-    "code": "920162",
-    "name": "莫森泰克",
+    "code": "920157",
+    "name": "宇特光电",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -11551,15 +11551,15 @@
     "chgType": "新增"
    },
    {
-    "code": "CDNS",
-    "name": "铿腾电子",
+    "code": "MTD",
+    "name": "梅特勒-托利多",
     "pct": 0.23,
     "chg": "0.23",
     "chgType": "新增"
    },
    {
-    "code": "MTD",
-    "name": "梅特勒-托利多",
+    "code": "CDNS",
+    "name": "铿腾电子",
     "pct": 0.23,
     "chg": "0.23",
     "chgType": "新增"
@@ -11738,11 +11738,11 @@
     "chgType": "减持"
    },
    {
-    "code": "AMD",
-    "name": "超威半导体",
+    "code": "TSLA",
+    "name": "特斯拉",
     "pct": 1.37,
-    "chg": "--",
-    "chgType": "--"
+    "chg": "-0.29",
+    "chgType": "减持"
    }
   ],
   "fofHoldings": [],
