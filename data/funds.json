@@ -1529,15 +1529,15 @@
   },
   "holdings": [
    {
-    "code": "920162",
-    "name": "莫森泰克",
+    "code": "920157",
+    "name": "宇特光电",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
    },
    {
-    "code": "920157",
-    "name": "宇特光电",
+    "code": "920162",
+    "name": "莫森泰克",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -5100,7 +5100,7 @@
   "catName": "纳斯达克100",
   "indexName": "纳斯达克100指数",
   "indexCode": "NDX100",
-  "te": "1.74%",
+  "te": "",
   "feeTotal": "0.65%",
   "company": "宝盈基金",
   "manager": "蔡丹",
@@ -5266,7 +5266,7 @@
   "catName": "纳斯达克100",
   "indexName": "纳斯达克100指数",
   "indexCode": "NDX100",
-  "te": "1.74%",
+  "te": "",
   "feeTotal": "0.90%",
   "company": "宝盈基金",
   "manager": "蔡丹",
@@ -7751,15 +7751,15 @@
     "chgType": "新增"
    },
    {
-    "code": "MTD",
-    "name": "梅特勒-托利多",
+    "code": "PANW",
+    "name": "派拓网络",
     "pct": 0.23,
     "chg": "0.23",
     "chgType": "新增"
    },
    {
-    "code": "PANW",
-    "name": "派拓网络",
+    "code": "MTD",
+    "name": "梅特勒-托利多",
     "pct": 0.23,
     "chg": "0.23",
     "chgType": "新增"
@@ -8547,15 +8547,15 @@
     "chgType": "新增"
    },
    {
-    "code": "DDOG",
-    "name": "Datadog Inc-A",
+    "code": "RVTY",
+    "name": "Revvity Inc",
     "pct": 0.24,
     "chg": "0.24",
     "chgType": "新增"
    },
    {
-    "code": "RVTY",
-    "name": "Revvity Inc",
+    "code": "DDOG",
+    "name": "Datadog Inc-A",
     "pct": 0.24,
     "chg": "0.24",
     "chgType": "新增"
@@ -10515,15 +10515,15 @@
   },
   "holdings": [
    {
-    "code": "920157",
-    "name": "宇特光电",
+    "code": "920162",
+    "name": "莫森泰克",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
    },
    {
-    "code": "920162",
-    "name": "莫森泰克",
+    "code": "920157",
+    "name": "宇特光电",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -11665,11 +11665,11 @@
     "chgType": "减持"
    },
    {
-    "code": "TSLA",
-    "name": "特斯拉",
+    "code": "AMD",
+    "name": "超威半导体",
     "pct": 1.37,
-    "chg": "-0.29",
-    "chgType": "减持"
+    "chg": "--",
+    "chgType": "--"
    }
   ],
   "fofHoldings": [],
