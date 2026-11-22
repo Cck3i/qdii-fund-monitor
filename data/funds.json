@@ -1529,15 +1529,15 @@
   },
   "holdings": [
    {
-    "code": "920162",
-    "name": "莫森泰克",
+    "code": "920157",
+    "name": "宇特光电",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
    },
    {
-    "code": "920157",
-    "name": "宇特光电",
+    "code": "920162",
+    "name": "莫森泰克",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -1639,15 +1639,15 @@
   },
   "holdings": [
    {
-    "code": "920162",
-    "name": "莫森泰克",
+    "code": "920157",
+    "name": "宇特光电",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
    },
    {
-    "code": "920157",
-    "name": "宇特光电",
+    "code": "920162",
+    "name": "莫森泰克",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -5100,7 +5100,7 @@
   "catName": "纳斯达克100",
   "indexName": "纳斯达克100指数",
   "indexCode": "NDX100",
-  "te": "1.74%",
+  "te": "",
   "feeTotal": "0.65%",
   "company": "宝盈基金",
   "manager": "蔡丹",
@@ -5266,7 +5266,7 @@
   "catName": "纳斯达克100",
   "indexName": "纳斯达克100指数",
   "indexCode": "NDX100",
-  "te": "1.74%",
+  "te": "",
   "feeTotal": "0.90%",
   "company": "宝盈基金",
   "manager": "蔡丹",
@@ -10630,15 +10630,15 @@
   },
   "holdings": [
    {
-    "code": "920162",
-    "name": "莫森泰克",
+    "code": "920157",
+    "name": "宇特光电",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
    },
    {
-    "code": "920157",
-    "name": "宇特光电",
+    "code": "920162",
+    "name": "莫森泰克",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -11670,11 +11670,11 @@
     "chgType": "减持"
    },
    {
-    "code": "AMD",
-    "name": "超威半导体",
+    "code": "TSLA",
+    "name": "特斯拉",
     "pct": 1.37,
-    "chg": "--",
-    "chgType": "--"
+    "chg": "-0.29",
+    "chgType": "减持"
    }
   ],
   "fofHoldings": [],
