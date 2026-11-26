@@ -59,7 +59,7 @@
   },
   "sharp": "0.3206",
   "mdd": "19.1716",
-  "std": "23.1754",
+  "std": "23.217",
   "tgtEtf": {
    "code": "159941",
    "name": "纳指ETF广发"
@@ -118,19 +118,19 @@
   "salesFee": "0.00%",
   "buyRate": "0.12%",
   "rawBuyRate": "1.20%",
-  "sgzt": "暂停申购",
-  "sgztMark": "",
-  "shzt": "暂停赎回",
-  "limitText": "单日累计购买上限10元",
+  "sgzt": "限大额",
+  "sgztMark": "限大额(单日累计购买上限10元。)",
+  "shzt": "开放赎回",
+  "limitText": "单日累计购买上限10元。",
   "minBuy": "10",
   "maxBuy": "10",
-  "limitSrc": "天天基金PC详情页",
-  "sgztPC": "暂停申购",
+  "limitSrc": "天天基金手机接口",
+  "sgztPC": "限大额",
   "shztPC": "",
   "pcOk": true,
   "canBuyPC": true,
   "sgztMatch": true,
-  "canBuy": false,
+  "canBuy": true,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
   "nav": "5.4950",
@@ -154,7 +154,7 @@
   },
   "sharp": "0.0292",
   "mdd": "20.6572",
-  "std": "22.9447",
+  "std": "22.9839",
   "tgtEtf": {
    "code": "159513",
    "name": "纳斯达克100ETF大成"
@@ -187,7 +187,7 @@
     "url": "https://fund.eastmoney.com/gonggao/000834,AN202610271830978657.html"
    }
   ],
-  "changed": false
+  "changed": true
  },
  {
   "code": "003722",
@@ -215,7 +215,7 @@
   "rawBuyRate": "1.20%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限0美元",
   "minBuy": "10",
   "maxBuy": "0.01",
@@ -228,28 +228,28 @@
   "canBuy": false,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
-  "nav": "0.5879",
-  "navDate": "2026-11-24",
-  "dayChg": -1.87,
+  "nav": "0.5844",
+  "navDate": "2026-11-25",
+  "dayChg": -0.6,
   "r": {
-   "w1": -2.71,
-   "m1": -8.9,
-   "m3": -8.94,
-   "m6": -10.07,
-   "y1": 5.79,
-   "y2": 24.06,
-   "y3": 58.98,
-   "y5": 54.02,
-   "ytd": 4.48,
-   "since": 301.02
+   "w1": -3.71,
+   "m1": -9.44,
+   "m3": -10.02,
+   "m6": -10.61,
+   "y1": 4.62,
+   "y2": 23.16,
+   "y3": 58.03,
+   "y5": 53.1,
+   "ytd": 3.86,
+   "since": 298.64
   },
   "rank": {
-   "m1": "195",
-   "sc": "363"
+   "m1": "109",
+   "sc": "223"
   },
   "sharp": "0.4081",
   "mdd": "17.9644",
-  "std": "21.9819",
+  "std": "22.0196",
   "tgtEtf": {
    "code": "159696",
    "name": "纳指ETF易方达"
@@ -275,11 +275,6 @@
     "date": "2026-11-24",
     "title": "易方达基金管理有限公司及易方达财富管理基金销售(广州)有限公司关于零售直销业务迁移安排的联合提示性公告",
     "url": "https://fund.eastmoney.com/gonggao/003722,AN202611231831963550.html"
-   },
-   {
-    "date": "2026-11-23",
-    "title": "关于旗下部分基金2026年11月26日暂停申购、赎回、转换、定期定额投资业务的提示性公告(2)",
-    "url": "https://fund.eastmoney.com/gonggao/003722,AN202611221831934225.html"
    }
   ],
   "changed": false
@@ -310,7 +305,7 @@
   "rawBuyRate": "0.00%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限10元",
   "minBuy": "2",
   "maxBuy": "10",
@@ -344,7 +339,7 @@
   },
   "sharp": "0.0633",
   "mdd": "20.4895",
-  "std": "23.2053",
+  "std": "23.2458",
   "tgtEtf": {
    "code": "159941",
    "name": "纳指ETF广发"
@@ -439,7 +434,7 @@
   },
   "sharp": "0.3118",
   "mdd": "19.2395",
-  "std": "23.1844",
+  "std": "23.2259",
   "tgtEtf": {
    "code": "159941",
    "name": "纳指ETF广发"
@@ -498,19 +493,19 @@
   "salesFee": "0.30%",
   "buyRate": "0.00%",
   "rawBuyRate": "0.00%",
-  "sgzt": "暂停申购",
-  "sgztMark": "",
-  "shzt": "暂停赎回",
-  "limitText": "单日累计购买上限10元",
+  "sgzt": "限大额",
+  "sgztMark": "限大额(单日累计购买上限10元。)",
+  "shzt": "开放赎回",
+  "limitText": "单日累计购买上限10元。",
   "minBuy": "10",
   "maxBuy": "10",
-  "limitSrc": "天天基金PC详情页",
-  "sgztPC": "暂停申购",
+  "limitSrc": "天天基金手机接口",
+  "sgztPC": "限大额",
   "shztPC": "",
   "pcOk": true,
   "canBuyPC": true,
   "sgztMatch": true,
-  "canBuy": false,
+  "canBuy": true,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
   "nav": "5.4401",
@@ -534,7 +529,7 @@
   },
   "sharp": "0.0161",
   "mdd": "20.7628",
-  "std": "22.9438",
+  "std": "22.9829",
   "tgtEtf": {
    "code": "159513",
    "name": "纳斯达克100ETF大成"
@@ -567,7 +562,7 @@
     "url": "https://fund.eastmoney.com/gonggao/008971,AN202610271830978657.html"
    }
   ],
-  "changed": false
+  "changed": true
  },
  {
   "code": "012751",
@@ -629,7 +624,7 @@
   },
   "sharp": "0.3519",
   "mdd": "17.3954",
-  "std": "21.9074",
+  "std": "21.9472",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -733,7 +728,7 @@
     "url": "https://fund.eastmoney.com/gonggao/012751,AN202610121830370524.html"
    }
   ],
-  "changed": true
+  "changed": false
  },
  {
   "code": "012752",
@@ -759,19 +754,19 @@
   "salesFee": "0.30%",
   "buyRate": "0.00%",
   "rawBuyRate": "0.00%",
-  "sgzt": "暂停申购",
-  "sgztMark": "",
-  "shzt": "暂停赎回",
-  "limitText": "单日累计购买上限10元",
+  "sgzt": "限大额",
+  "sgztMark": "限大额(单日累计购买上限10元。)",
+  "shzt": "开放赎回",
+  "limitText": "单日累计购买上限10元。",
   "minBuy": "10",
   "maxBuy": "10",
-  "limitSrc": "天天基金PC详情页",
-  "sgztPC": "暂停申购",
+  "limitSrc": "天天基金手机接口",
+  "sgztPC": "限大额",
   "shztPC": "",
   "pcOk": true,
   "canBuyPC": true,
   "sgztMatch": true,
-  "canBuy": false,
+  "canBuy": true,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
   "nav": "2.9677",
@@ -795,7 +790,7 @@
   },
   "sharp": "0.0739",
   "mdd": "18.1261",
-  "std": "21.9294",
+  "std": "21.9684",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -899,7 +894,7 @@
     "url": "https://fund.eastmoney.com/gonggao/012752,AN202610121830370524.html"
    }
   ],
-  "changed": false
+  "changed": true
  },
  {
   "code": "012753",
@@ -961,7 +956,7 @@
   },
   "sharp": "0.3363",
   "mdd": "17.4362",
-  "std": "21.914",
+  "std": "21.9533",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -1065,7 +1060,7 @@
     "url": "https://fund.eastmoney.com/gonggao/012753,AN202610121830370524.html"
    }
   ],
-  "changed": true
+  "changed": false
  },
  {
   "code": "012870",
@@ -1093,7 +1088,7 @@
   "rawBuyRate": "0.00%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限10元",
   "minBuy": "10",
   "maxBuy": "10",
@@ -1106,28 +1101,28 @@
   "canBuy": false,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
-  "nav": "3.8732",
-  "navDate": "2026-11-24",
-  "dayChg": -1.89,
+  "nav": "3.8492",
+  "navDate": "2026-11-25",
+  "dayChg": -0.62,
   "r": {
-   "w1": -2.76,
-   "m1": -9.01,
-   "m3": -9.99,
-   "m6": -11.86,
-   "y1": -0.1,
-   "y2": 15.03,
-   "y3": 48.59,
-   "y5": 58.94,
-   "ytd": -0.52,
-   "since": 69.31
+   "w1": -3.74,
+   "m1": -9.57,
+   "m3": -11.1,
+   "m6": -12.35,
+   "y1": -1.2,
+   "y2": 14.22,
+   "y3": 47.67,
+   "y5": 57.77,
+   "ytd": -1.14,
+   "since": 68.26
   },
   "rank": {
-   "m1": "211",
-   "sc": "363"
+   "m1": "119",
+   "sc": "223"
   },
   "sharp": "0.1265",
   "mdd": "18.5403",
-  "std": "22.059",
+  "std": "22.0966",
   "tgtEtf": {
    "code": "159696",
    "name": "纳指ETF易方达"
@@ -1153,11 +1148,6 @@
     "date": "2026-11-24",
     "title": "易方达基金管理有限公司及易方达财富管理基金销售(广州)有限公司关于零售直销业务迁移安排的联合提示性公告",
     "url": "https://fund.eastmoney.com/gonggao/012870,AN202611231831963550.html"
-   },
-   {
-    "date": "2026-11-23",
-    "title": "关于旗下部分基金2026年11月26日暂停申购、赎回、转换、定期定额投资业务的提示性公告(2)",
-    "url": "https://fund.eastmoney.com/gonggao/012870,AN202611221831934225.html"
    }
   ],
   "changed": false
@@ -1188,7 +1178,7 @@
   "rawBuyRate": "0.00%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限0美元",
   "minBuy": "10",
   "maxBuy": "0.01",
@@ -1201,28 +1191,28 @@
   "canBuy": false,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
-  "nav": "0.5771",
-  "navDate": "2026-11-24",
-  "dayChg": -1.89,
+  "nav": "0.5738",
+  "navDate": "2026-11-25",
+  "dayChg": -0.57,
   "r": {
-   "w1": -2.73,
-   "m1": -8.92,
-   "m3": -9.02,
-   "m6": -10.21,
-   "y1": 5.44,
-   "y2": 23.31,
-   "y3": 57.55,
-   "y5": 51.35,
-   "ytd": 4.19,
-   "since": 63.11
+   "w1": -3.69,
+   "m1": -9.44,
+   "m3": -10.09,
+   "m6": -10.73,
+   "y1": 4.31,
+   "y2": 22.45,
+   "y3": 56.65,
+   "y5": 50.49,
+   "ytd": 3.59,
+   "since": 62.18
   },
   "rank": {
-   "m1": "201",
-   "sc": "363"
+   "m1": "109",
+   "sc": "223"
   },
   "sharp": "0.3915",
   "mdd": "17.9955",
-  "std": "22.0413",
+  "std": "22.0805",
   "tgtEtf": {
    "code": "159696",
    "name": "纳指ETF易方达"
@@ -1248,11 +1238,6 @@
     "date": "2026-11-24",
     "title": "易方达基金管理有限公司及易方达财富管理基金销售(广州)有限公司关于零售直销业务迁移安排的联合提示性公告",
     "url": "https://fund.eastmoney.com/gonggao/012871,AN202611231831963550.html"
-   },
-   {
-    "date": "2026-11-23",
-    "title": "关于旗下部分基金2026年11月26日暂停申购、赎回、转换、定期定额投资业务的提示性公告(2)",
-    "url": "https://fund.eastmoney.com/gonggao/012871,AN202611221831934225.html"
    }
   ],
   "changed": false
@@ -1283,7 +1268,7 @@
   "rawBuyRate": "0.00%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限5元",
   "minBuy": "5",
   "maxBuy": "5",
@@ -1317,7 +1302,7 @@
   },
   "sharp": "0.0761",
   "mdd": "20.3372",
-  "std": "23.1216",
+  "std": "23.1625",
   "tgtEtf": {
    "code": "159632",
    "name": "纳斯达克ETF华安"
@@ -1378,7 +1363,7 @@
   "rawBuyRate": "1.20%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限100元",
   "minBuy": "10",
   "maxBuy": "100",
@@ -1391,28 +1376,28 @@
   "canBuy": false,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
-  "nav": "1.8023",
-  "navDate": "2026-11-24",
-  "dayChg": -1.88,
+  "nav": "1.7939",
+  "navDate": "2026-11-25",
+  "dayChg": -0.47,
   "r": {
-   "w1": -2.74,
-   "m1": -8.99,
-   "m3": -9.81,
-   "m6": -11.76,
-   "y1": -0.11,
-   "y2": 14.06,
-   "y3": 46.89,
+   "w1": -3.57,
+   "m1": -9.42,
+   "m3": -10.76,
+   "m6": -12.05,
+   "y1": -0.97,
+   "y2": 13.4,
+   "y3": 46.2,
    "y5": null,
-   "ytd": -0.01,
-   "since": 80.23
+   "ytd": -0.47,
+   "since": 79.39
   },
   "rank": {
-   "m1": "206",
-   "sc": "363"
+   "m1": "107",
+   "sc": "223"
   },
   "sharp": "0.1255",
   "mdd": "18.2304",
-  "std": "21.9079",
+  "std": "21.9451",
   "tgtEtf": {
    "code": "513300",
    "name": "纳斯达克ETF华夏"
@@ -1488,7 +1473,7 @@
   "rawBuyRate": "0.00%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限100元",
   "minBuy": "10",
   "maxBuy": "100",
@@ -1501,28 +1486,28 @@
   "canBuy": false,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
-  "nav": "1.7775",
-  "navDate": "2026-11-24",
-  "dayChg": -1.88,
+  "nav": "1.7692",
+  "navDate": "2026-11-25",
+  "dayChg": -0.47,
   "r": {
-   "w1": -2.74,
-   "m1": -9.02,
-   "m3": -9.88,
-   "m6": -11.9,
-   "y1": -0.41,
-   "y2": 13.37,
-   "y3": 45.57,
+   "w1": -3.58,
+   "m1": -9.44,
+   "m3": -10.83,
+   "m6": -12.18,
+   "y1": -1.27,
+   "y2": 12.72,
+   "y3": 44.89,
    "y5": null,
-   "ytd": -0.28,
-   "since": 77.75
+   "ytd": -0.75,
+   "since": 76.92
   },
   "rank": {
-   "m1": "212",
-   "sc": "363"
+   "m1": "109",
+   "sc": "223"
   },
   "sharp": "0.1114",
   "mdd": "18.3435",
-  "std": "21.904",
+  "std": "21.9414",
   "tgtEtf": {
    "code": "513300",
    "name": "纳斯达克ETF华夏"
@@ -1611,28 +1596,28 @@
   "canBuy": false,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
-  "nav": "0.2705",
-  "navDate": "2026-11-24",
-  "dayChg": -1.85,
+  "nav": "0.2688",
+  "navDate": "2026-11-25",
+  "dayChg": -0.63,
   "r": {
-   "w1": -2.7,
-   "m1": -8.89,
-   "m3": -8.98,
-   "m6": -10.01,
-   "y1": 6.54,
-   "y2": 24.03,
-   "y3": 57.73,
+   "w1": -3.69,
+   "m1": -9.46,
+   "m3": -10.1,
+   "m6": -10.58,
+   "y1": 5.29,
+   "y2": 23.13,
+   "y3": 56.73,
    "y5": null,
-   "ytd": 4.93,
-   "since": 72.18
+   "ytd": 4.27,
+   "since": 71.1
   },
   "rank": {
-   "m1": "194",
-   "sc": "363"
+   "m1": "112",
+   "sc": "223"
   },
   "sharp": "0.4429",
   "mdd": "17.9455",
-  "std": "22.039",
+  "std": "22.0754",
   "tgtEtf": {
    "code": "513300",
    "name": "纳斯达克ETF华夏"
@@ -1708,41 +1693,41 @@
   "rawBuyRate": "1.00%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "",
   "minBuy": "10",
   "maxBuy": "100000000000",
   "limitSrc": "",
   "sgztPC": "暂停申购",
-  "shztPC": "暂停赎回",
+  "shztPC": "开放赎回",
   "pcOk": true,
   "canBuyPC": true,
   "sgztMatch": true,
   "canBuy": false,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
-  "nav": "1.8805",
-  "navDate": "2026-11-24",
-  "dayChg": -1.91,
+  "nav": "1.8691",
+  "navDate": "2026-11-25",
+  "dayChg": -0.61,
   "r": {
-   "w1": -2.78,
-   "m1": -9.07,
-   "m3": -9.94,
-   "m6": -11.69,
-   "y1": 0.76,
-   "y2": 17.71,
-   "y3": 48.12,
+   "w1": -3.73,
+   "m1": -9.62,
+   "m3": -11.04,
+   "m6": -12.16,
+   "y1": -0.37,
+   "y2": 16.88,
+   "y3": 47.22,
    "y5": null,
-   "ytd": 0.06,
-   "since": 88.05
+   "ytd": -0.54,
+   "since": 86.91
   },
   "rank": {
-   "m1": "221",
-   "sc": "363"
+   "m1": "120",
+   "sc": "223"
   },
   "sharp": "0.1694",
   "mdd": "18.3636",
-  "std": "22.0735",
+  "std": "22.1128",
   "tgtEtf": {
    "code": "513390",
    "name": "纳指100ETF博时"
@@ -1811,28 +1796,28 @@
   "canBuy": false,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
-  "nav": "0.2802",
-  "navDate": "2026-11-24",
-  "dayChg": -1.89,
+  "nav": "0.2786",
+  "navDate": "2026-11-25",
+  "dayChg": -0.57,
   "r": {
-   "w1": -2.74,
-   "m1": -8.97,
-   "m3": -8.97,
-   "m6": -10.05,
-   "y1": 6.38,
-   "y2": 26.16,
-   "y3": 57.06,
+   "w1": -3.7,
+   "m1": -9.49,
+   "m3": -10.01,
+   "m6": -10.56,
+   "y1": 5.17,
+   "y2": 25.27,
+   "y3": 56.17,
    "y5": null,
-   "ytd": 4.79,
-   "since": 89.2
+   "ytd": 4.19,
+   "since": 88.12
   },
   "rank": {
-   "m1": "205",
-   "sc": "363"
+   "m1": "113",
+   "sc": "223"
   },
   "sharp": "0.437",
   "mdd": "17.8757",
-  "std": "22.0353",
+  "std": "22.0752",
   "tgtEtf": {
    "code": "513390",
    "name": "纳指100ETF博时"
@@ -1888,41 +1873,41 @@
   "rawBuyRate": "0.00%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "",
   "minBuy": "10",
   "maxBuy": "100000000000",
   "limitSrc": "",
   "sgztPC": "暂停申购",
-  "shztPC": "暂停赎回",
+  "shztPC": "开放赎回",
   "pcOk": true,
   "canBuyPC": true,
   "sgztMatch": true,
   "canBuy": false,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
-  "nav": "1.8546",
-  "navDate": "2026-11-24",
-  "dayChg": -1.91,
+  "nav": "1.8434",
+  "navDate": "2026-11-25",
+  "dayChg": -0.6,
   "r": {
-   "w1": -2.79,
-   "m1": -9.1,
-   "m3": -10.01,
-   "m6": -11.83,
-   "y1": 0.45,
-   "y2": 16.99,
-   "y3": 46.86,
+   "w1": -3.74,
+   "m1": -9.65,
+   "m3": -11.11,
+   "m6": -12.3,
+   "y1": -0.67,
+   "y2": 16.19,
+   "y3": 45.98,
    "y5": null,
-   "ytd": -0.21,
-   "since": 85.46
+   "ytd": -0.81,
+   "since": 84.34
   },
   "rank": {
-   "m1": "224",
-   "sc": "363"
+   "m1": "122",
+   "sc": "223"
   },
   "sharp": "0.1554",
   "mdd": "18.4781",
-  "std": "22.0683",
+  "std": "22.108",
   "tgtEtf": {
    "code": "513390",
    "name": "纳指100ETF博时"
@@ -1991,28 +1976,28 @@
   "canBuy": false,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
-  "nav": "0.2763",
-  "navDate": "2026-11-24",
-  "dayChg": -1.92,
+  "nav": "0.2748",
+  "navDate": "2026-11-25",
+  "dayChg": -0.54,
   "r": {
-   "w1": -2.78,
-   "m1": -9.02,
-   "m3": -9.05,
-   "m6": -10.2,
-   "y1": 6.02,
-   "y2": 25.42,
-   "y3": 55.66,
+   "w1": -3.68,
+   "m1": -9.52,
+   "m3": -10.08,
+   "m6": -10.69,
+   "y1": 4.89,
+   "y2": 24.57,
+   "y3": 54.82,
    "y5": null,
-   "ytd": 4.5,
-   "since": 86.56
+   "ytd": 3.93,
+   "since": 85.55
   },
   "rank": {
-   "m1": "212",
-   "sc": "363"
+   "m1": "115",
+   "sc": "223"
   },
   "sharp": "0.4211",
   "mdd": "17.928",
-  "std": "22.0159",
+  "std": "22.058",
   "tgtEtf": {
    "code": "513390",
    "name": "纳指100ETF博时"
@@ -2066,19 +2051,19 @@
   "salesFee": "0.00%",
   "buyRate": "0.12%",
   "rawBuyRate": "1.20%",
-  "sgzt": "暂停申购",
-  "sgztMark": "",
-  "shzt": "暂停赎回",
-  "limitText": "单日累计购买上限10元",
+  "sgzt": "限大额",
+  "sgztMark": "限大额(单日累计购买上限10元。)",
+  "shzt": "开放赎回",
+  "limitText": "单日累计购买上限10元。",
   "minBuy": "10",
   "maxBuy": "10",
-  "limitSrc": "天天基金PC详情页",
-  "sgztPC": "暂停申购",
+  "limitSrc": "天天基金手机接口",
+  "sgztPC": "限大额",
   "shztPC": "",
   "pcOk": true,
   "canBuyPC": true,
   "sgztMatch": true,
-  "canBuy": false,
+  "canBuy": true,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
   "nav": "2.0257",
@@ -2102,7 +2087,7 @@
   },
   "sharp": "0.1114",
   "mdd": "18.9407",
-  "std": "22.2554",
+  "std": "22.2939",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -2206,7 +2191,7 @@
     "url": "https://fund.eastmoney.com/gonggao/016452,AN202611061831475929.html"
    }
   ],
-  "changed": false
+  "changed": true
  },
  {
   "code": "016453",
@@ -2232,19 +2217,19 @@
   "salesFee": "0.10%",
   "buyRate": "0.00%",
   "rawBuyRate": "0.00%",
-  "sgzt": "暂停申购",
-  "sgztMark": "",
-  "shzt": "暂停赎回",
-  "limitText": "单日累计购买上限10元",
+  "sgzt": "限大额",
+  "sgztMark": "限大额(单日累计购买上限10元。)",
+  "shzt": "开放赎回",
+  "limitText": "单日累计购买上限10元。",
   "minBuy": "10",
   "maxBuy": "10",
-  "limitSrc": "天天基金PC详情页",
-  "sgztPC": "暂停申购",
+  "limitSrc": "天天基金手机接口",
+  "sgztPC": "限大额",
   "shztPC": "",
   "pcOk": true,
   "canBuyPC": true,
   "sgztMatch": true,
-  "canBuy": false,
+  "canBuy": true,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
   "nav": "2.0162",
@@ -2268,7 +2253,7 @@
   },
   "sharp": "0.1069",
   "mdd": "18.9791",
-  "std": "22.2561",
+  "std": "22.2945",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -2372,7 +2357,7 @@
     "url": "https://fund.eastmoney.com/gonggao/016453,AN202611061831475929.html"
    }
   ],
-  "changed": false
+  "changed": true
  },
  {
   "code": "016532",
@@ -2400,7 +2385,7 @@
   "rawBuyRate": "1.00%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限100元",
   "minBuy": "10",
   "maxBuy": "100",
@@ -2413,28 +2398,28 @@
   "canBuy": false,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
-  "nav": "1.9299",
-  "navDate": "2026-11-24",
-  "dayChg": -1.92,
+  "nav": "1.9188",
+  "navDate": "2026-11-25",
+  "dayChg": -0.58,
   "r": {
-   "w1": -2.77,
-   "m1": -8.99,
-   "m3": -9.89,
-   "m6": -11.48,
-   "y1": 0.81,
-   "y2": 15.51,
-   "y3": 44.19,
+   "w1": -3.69,
+   "m1": -9.51,
+   "m3": -10.96,
+   "m6": -11.91,
+   "y1": -0.28,
+   "y2": 14.75,
+   "y3": 43.37,
    "y5": null,
-   "ytd": 0.34,
-   "since": 92.99
+   "ytd": -0.23,
+   "since": 91.88
   },
   "rank": {
-   "m1": "206",
-   "sc": "363"
+   "m1": "114",
+   "sc": "223"
   },
   "sharp": "0.1718",
   "mdd": "18.1633",
-  "std": "22.0061",
+  "std": "22.0464",
   "tgtEtf": {
    "code": "159501",
    "name": "纳指ETF嘉实"
@@ -2495,7 +2480,7 @@
   "rawBuyRate": "0.00%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限100元",
   "minBuy": "10",
   "maxBuy": "100",
@@ -2508,28 +2493,28 @@
   "canBuy": false,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
-  "nav": "1.9070",
-  "navDate": "2026-11-24",
-  "dayChg": -1.91,
+  "nav": "1.8959",
+  "navDate": "2026-11-25",
+  "dayChg": -0.58,
   "r": {
-   "w1": -2.76,
-   "m1": -9.0,
-   "m3": -9.94,
-   "m6": -11.59,
-   "y1": 0.57,
-   "y2": 14.93,
-   "y3": 43.07,
+   "w1": -3.7,
+   "m1": -9.53,
+   "m3": -11.01,
+   "m6": -12.03,
+   "y1": -0.53,
+   "y2": 14.17,
+   "y3": 42.24,
    "y5": null,
-   "ytd": 0.12,
-   "since": 90.7
+   "ytd": -0.46,
+   "since": 89.59
   },
   "rank": {
-   "m1": "210",
-   "sc": "363"
+   "m1": "117",
+   "sc": "223"
   },
   "sharp": "0.1595",
   "mdd": "18.2579",
-  "std": "22.0011",
+  "std": "22.0407",
   "tgtEtf": {
    "code": "159501",
    "name": "纳指ETF嘉实"
@@ -2590,7 +2575,7 @@
   "rawBuyRate": "1.00%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限0美元",
   "minBuy": "10",
   "maxBuy": "0.01",
@@ -2603,28 +2588,28 @@
   "canBuy": false,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
-  "nav": "0.2876",
-  "navDate": "2026-11-24",
-  "dayChg": -1.88,
+  "nav": "0.2860",
+  "navDate": "2026-11-25",
+  "dayChg": -0.56,
   "r": {
-   "w1": -2.74,
-   "m1": -8.87,
-   "m3": -8.9,
-   "m6": -9.81,
-   "y1": 6.44,
-   "y2": 23.86,
-   "y3": 52.9,
+   "w1": -3.64,
+   "m1": -9.38,
+   "m3": -9.95,
+   "m6": -10.29,
+   "y1": 5.26,
+   "y2": 23.01,
+   "y3": 52.05,
    "y5": null,
-   "ytd": 5.12,
-   "since": 98.21
+   "ytd": 4.53,
+   "since": 97.11
   },
   "rank": {
-   "m1": "191",
-   "sc": "363"
+   "m1": "106",
+   "sc": "223"
   },
   "sharp": "0.4388",
   "mdd": "17.9189",
-  "std": "21.9937",
+  "std": "22.0325",
   "tgtEtf": {
    "code": "159501",
    "name": "纳指ETF嘉实"
@@ -2685,7 +2670,7 @@
   "rawBuyRate": "0.00%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限0美元",
   "minBuy": "10",
   "maxBuy": "0.01",
@@ -2698,28 +2683,28 @@
   "canBuy": false,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
-  "nav": "0.2842",
-  "navDate": "2026-11-24",
-  "dayChg": -1.86,
+  "nav": "0.2826",
+  "navDate": "2026-11-25",
+  "dayChg": -0.56,
   "r": {
-   "w1": -2.7,
-   "m1": -8.91,
-   "m3": -8.94,
-   "m6": -9.92,
-   "y1": 6.2,
-   "y2": 23.24,
-   "y3": 51.74,
+   "w1": -3.65,
+   "m1": -9.42,
+   "m3": -10.0,
+   "m6": -10.43,
+   "y1": 5.02,
+   "y2": 22.39,
+   "y3": 50.88,
    "y5": null,
-   "ytd": 4.87,
-   "since": 95.86
+   "ytd": 4.28,
+   "since": 94.76
   },
   "rank": {
-   "m1": "197",
-   "sc": "363"
+   "m1": "107",
+   "sc": "223"
   },
   "sharp": "0.4264",
   "mdd": "17.9487",
-  "std": "21.9759",
+  "std": "22.0137",
   "tgtEtf": {
    "code": "159501",
    "name": "纳指ETF嘉实"
@@ -2780,7 +2765,7 @@
   "rawBuyRate": "1.00%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限100元",
   "minBuy": "10",
   "maxBuy": "100",
@@ -2814,7 +2799,7 @@
   },
   "sharp": "0.1206",
   "mdd": "18.763",
-  "std": "22.0567",
+  "std": "22.0968",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -2946,7 +2931,7 @@
   "rawBuyRate": "0.00%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限100元",
   "minBuy": "10",
   "maxBuy": "100",
@@ -2980,7 +2965,7 @@
   },
   "sharp": "0.1111",
   "mdd": "18.8376",
-  "std": "22.0557",
+  "std": "22.0958",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -3112,7 +3097,7 @@
   "rawBuyRate": "1.20%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限10元",
   "minBuy": "10",
   "maxBuy": "10",
@@ -3146,7 +3131,7 @@
   },
   "sharp": "0.0528",
   "mdd": "19.9325",
-  "std": "21.9714",
+  "std": "22.007",
   "tgtEtf": {
    "code": "159660",
    "name": "纳指ETF汇添富"
@@ -3197,7 +3182,7 @@
   "rawBuyRate": "0.00%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限10元",
   "minBuy": "10",
   "maxBuy": "10",
@@ -3231,7 +3216,7 @@
   },
   "sharp": "0.0341",
   "mdd": "20.0847",
-  "std": "21.9663",
+  "std": "22.0021",
   "tgtEtf": {
    "code": "159660",
    "name": "纳指ETF汇添富"
@@ -3282,7 +3267,7 @@
   "rawBuyRate": "1.20%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限0美元",
   "minBuy": "10",
   "maxBuy": "0.01",
@@ -3316,7 +3301,7 @@
   },
   "sharp": "0.3149",
   "mdd": "18.6765",
-  "std": "21.9459",
+  "std": "21.9829",
   "tgtEtf": {
    "code": "159660",
    "name": "纳指ETF汇添富"
@@ -3401,7 +3386,7 @@
   },
   "sharp": "0.3455",
   "mdd": "18.1738",
-  "std": "21.9369",
+  "std": "21.9743",
   "tgtEtf": {
    "code": "159660",
    "name": "纳指ETF汇添富"
@@ -3450,19 +3435,19 @@
   "salesFee": "0.00%",
   "buyRate": "0.12%",
   "rawBuyRate": "1.20%",
-  "sgzt": "暂停申购",
-  "sgztMark": "",
-  "shzt": "暂停赎回",
-  "limitText": "单日累计购买上限10元",
+  "sgzt": "限大额",
+  "sgztMark": "限大额(单日累计购买上限10元。)",
+  "shzt": "开放赎回",
+  "limitText": "单日累计购买上限10元。",
   "minBuy": "10",
   "maxBuy": "10",
-  "limitSrc": "天天基金PC详情页",
-  "sgztPC": "暂停申购",
+  "limitSrc": "天天基金手机接口",
+  "sgztPC": "限大额",
   "shztPC": "",
   "pcOk": true,
   "canBuyPC": true,
   "sgztMatch": true,
-  "canBuy": false,
+  "canBuy": true,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
   "nav": "1.5557",
@@ -3486,7 +3471,7 @@
   },
   "sharp": "0.1279",
   "mdd": "18.1973",
-  "std": "21.5031",
+  "std": "21.539",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -3574,7 +3559,7 @@
    "date": "2026-09-30"
   },
   "notices": [],
-  "changed": false
+  "changed": true
  },
  {
   "code": "019173",
@@ -3600,19 +3585,19 @@
   "salesFee": "0.30%",
   "buyRate": "0.00%",
   "rawBuyRate": "0.00%",
-  "sgzt": "暂停申购",
-  "sgztMark": "",
-  "shzt": "暂停赎回",
-  "limitText": "单日累计购买上限10元",
+  "sgzt": "限大额",
+  "sgztMark": "限大额(单日累计购买上限10元。)",
+  "shzt": "开放赎回",
+  "limitText": "单日累计购买上限10元。",
   "minBuy": "10",
   "maxBuy": "10",
-  "limitSrc": "天天基金PC详情页",
-  "sgztPC": "暂停申购",
+  "limitSrc": "天天基金手机接口",
+  "sgztPC": "限大额",
   "shztPC": "",
   "pcOk": true,
   "canBuyPC": true,
   "sgztMatch": true,
-  "canBuy": false,
+  "canBuy": true,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
   "nav": "1.5403",
@@ -3636,7 +3621,7 @@
   },
   "sharp": "0.113",
   "mdd": "18.3135",
-  "std": "21.5005",
+  "std": "21.5363",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -3724,7 +3709,7 @@
    "date": "2026-09-30"
   },
   "notices": [],
-  "changed": false
+  "changed": true
  },
  {
   "code": "019174",
@@ -3786,7 +3771,7 @@
   },
   "sharp": "0.399",
   "mdd": "17.6885",
-  "std": "21.4763",
+  "std": "21.5128",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -3874,7 +3859,7 @@
    "date": "2026-09-30"
   },
   "notices": [],
-  "changed": true
+  "changed": false
  },
  {
   "code": "019175",
@@ -3936,7 +3921,7 @@
   },
   "sharp": "0.3842",
   "mdd": "17.7151",
-  "std": "21.4758",
+  "std": "21.5126",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -4024,7 +4009,7 @@
    "date": "2026-09-30"
   },
   "notices": [],
-  "changed": true
+  "changed": false
  },
  {
   "code": "019441",
@@ -4050,19 +4035,19 @@
   "salesFee": "0.00%",
   "buyRate": "0.10%",
   "rawBuyRate": "1.00%",
-  "sgzt": "暂停申购",
-  "sgztMark": "",
-  "shzt": "暂停赎回",
-  "limitText": "单日累计购买上限5元",
+  "sgzt": "限大额",
+  "sgztMark": "限大额(单日累计购买上限5元。)",
+  "shzt": "开放赎回",
+  "limitText": "单日累计购买上限5元。",
   "minBuy": "5",
   "maxBuy": "5",
-  "limitSrc": "天天基金PC详情页",
-  "sgztPC": "暂停申购",
+  "limitSrc": "天天基金手机接口",
+  "sgztPC": "限大额",
   "shztPC": "",
   "pcOk": true,
   "canBuyPC": true,
   "sgztMatch": true,
-  "canBuy": false,
+  "canBuy": true,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
   "nav": "1.4966",
@@ -4086,7 +4071,7 @@
   },
   "sharp": "0.1467",
   "mdd": "18.1886",
-  "std": "21.7392",
+  "std": "21.7795",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -4190,7 +4175,7 @@
     "url": "https://fund.eastmoney.com/gonggao/019441,AN202610271830981233.html"
    }
   ],
-  "changed": false
+  "changed": true
  },
  {
   "code": "019442",
@@ -4216,19 +4201,19 @@
   "salesFee": "0.20%",
   "buyRate": "0.00%",
   "rawBuyRate": "0.00%",
-  "sgzt": "暂停申购",
-  "sgztMark": "",
-  "shzt": "暂停赎回",
-  "limitText": "单日累计购买上限5元",
+  "sgzt": "限大额",
+  "sgztMark": "限大额(单日累计购买上限5元。)",
+  "shzt": "开放赎回",
+  "limitText": "单日累计购买上限5元。",
   "minBuy": "5",
   "maxBuy": "5",
-  "limitSrc": "天天基金PC详情页",
-  "sgztPC": "暂停申购",
+  "limitSrc": "天天基金手机接口",
+  "sgztPC": "限大额",
   "shztPC": "",
   "pcOk": true,
   "canBuyPC": true,
   "sgztMatch": true,
-  "canBuy": false,
+  "canBuy": true,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
   "nav": "1.4863",
@@ -4252,7 +4237,7 @@
   },
   "sharp": "0.1376",
   "mdd": "18.2074",
-  "std": "21.7326",
+  "std": "21.7723",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -4356,7 +4341,7 @@
     "url": "https://fund.eastmoney.com/gonggao/019442,AN202610271830981233.html"
    }
   ],
-  "changed": false
+  "changed": true
  },
  {
   "code": "019524",
@@ -4382,19 +4367,19 @@
   "salesFee": "0.00%",
   "buyRate": "0.12%",
   "rawBuyRate": "1.20%",
-  "sgzt": "暂停申购",
-  "sgztMark": "",
-  "shzt": "暂停赎回",
-  "limitText": "单日累计购买上限5元",
+  "sgzt": "限大额",
+  "sgztMark": "限大额(单日累计购买上限5元。)",
+  "shzt": "开放赎回",
+  "limitText": "单日累计购买上限5元。",
   "minBuy": "5",
   "maxBuy": "5",
-  "limitSrc": "天天基金PC详情页",
-  "sgztPC": "暂停申购",
+  "limitSrc": "天天基金手机接口",
+  "sgztPC": "限大额",
   "shztPC": "",
   "pcOk": true,
   "canBuyPC": true,
   "sgztMatch": true,
-  "canBuy": false,
+  "canBuy": true,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
   "nav": "1.4635",
@@ -4418,7 +4403,7 @@
   },
   "sharp": "0.1207",
   "mdd": "18.4795",
-  "std": "21.9462",
+  "std": "21.9859",
   "tgtEtf": {
    "code": "513110",
    "name": "纳指ETF华泰柏瑞"
@@ -4451,7 +4436,7 @@
     "url": "https://fund.eastmoney.com/gonggao/019524,AN202611181831798488.html"
    }
   ],
-  "changed": false
+  "changed": true
  },
  {
   "code": "019525",
@@ -4477,19 +4462,19 @@
   "salesFee": "0.25%",
   "buyRate": "0.00%",
   "rawBuyRate": "0.00%",
-  "sgzt": "暂停申购",
-  "sgztMark": "",
-  "shzt": "暂停赎回",
-  "limitText": "单日累计购买上限5元",
+  "sgzt": "限大额",
+  "sgztMark": "限大额(单日累计购买上限5元。)",
+  "shzt": "开放赎回",
+  "limitText": "单日累计购买上限5元。",
   "minBuy": "5",
   "maxBuy": "5",
-  "limitSrc": "天天基金PC详情页",
-  "sgztPC": "暂停申购",
+  "limitSrc": "天天基金手机接口",
+  "sgztPC": "限大额",
   "shztPC": "",
   "pcOk": true,
   "canBuyPC": true,
   "sgztMatch": true,
-  "canBuy": false,
+  "canBuy": true,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
   "nav": "1.4504",
@@ -4513,7 +4498,7 @@
   },
   "sharp": "0.1093",
   "mdd": "18.5719",
-  "std": "21.9496",
+  "std": "21.9895",
   "tgtEtf": {
    "code": "513110",
    "name": "纳指ETF华泰柏瑞"
@@ -4546,7 +4531,7 @@
     "url": "https://fund.eastmoney.com/gonggao/019525,AN202611181831798488.html"
    }
   ],
-  "changed": false
+  "changed": true
  },
  {
   "code": "019547",
@@ -4574,7 +4559,7 @@
   "rawBuyRate": "1.20%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限10元",
   "minBuy": "10",
   "maxBuy": "10",
@@ -4608,7 +4593,7 @@
   },
   "sharp": "0.1505",
   "mdd": "18.009",
-  "std": "21.5997",
+  "std": "21.6377",
   "tgtEtf": {
    "code": "159659",
    "name": "纳斯达克100ETF招商"
@@ -4669,7 +4654,7 @@
   "rawBuyRate": "0.00%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限10元",
   "minBuy": "10",
   "maxBuy": "10",
@@ -4703,7 +4688,7 @@
   },
   "sharp": "0.131",
   "mdd": "18.1633",
-  "std": "21.595",
+  "std": "21.6336",
   "tgtEtf": {
    "code": "159659",
    "name": "纳斯达克100ETF招商"
@@ -4762,19 +4747,19 @@
   "salesFee": "0.00%",
   "buyRate": "0.12%",
   "rawBuyRate": "1.20%",
-  "sgzt": "暂停申购",
-  "sgztMark": "",
-  "shzt": "暂停赎回",
-  "limitText": "单日累计购买上限10元",
+  "sgzt": "限大额",
+  "sgztMark": "限大额(单日累计购买上限10元。)",
+  "shzt": "开放赎回",
+  "limitText": "单日累计购买上限10元。",
   "minBuy": "10",
   "maxBuy": "10",
-  "limitSrc": "天天基金PC详情页",
-  "sgztPC": "暂停申购",
+  "limitSrc": "天天基金手机接口",
+  "sgztPC": "限大额",
   "shztPC": "",
   "pcOk": true,
   "canBuyPC": true,
   "sgztMatch": true,
-  "canBuy": false,
+  "canBuy": true,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
   "nav": "1.3206",
@@ -4798,7 +4783,7 @@
   },
   "sharp": "0.1037",
   "mdd": "18.4233",
-  "std": "21.8983",
+  "std": "21.94",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -4902,7 +4887,7 @@
     "url": "https://fund.eastmoney.com/gonggao/019736,AN202610271830976105.html"
    }
   ],
-  "changed": false
+  "changed": true
  },
  {
   "code": "019737",
@@ -4928,19 +4913,19 @@
   "salesFee": "0.25%",
   "buyRate": "0.00%",
   "rawBuyRate": "0.00%",
-  "sgzt": "暂停申购",
-  "sgztMark": "",
-  "shzt": "暂停赎回",
-  "limitText": "单日累计购买上限10元",
+  "sgzt": "限大额",
+  "sgztMark": "限大额(单日累计购买上限10元。)",
+  "shzt": "开放赎回",
+  "limitText": "单日累计购买上限10元。",
   "minBuy": "10",
   "maxBuy": "10",
-  "limitSrc": "天天基金PC详情页",
-  "sgztPC": "暂停申购",
+  "limitSrc": "天天基金手机接口",
+  "sgztPC": "限大额",
   "shztPC": "",
   "pcOk": true,
   "canBuyPC": true,
   "sgztMatch": true,
-  "canBuy": false,
+  "canBuy": true,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
   "nav": "1.3107",
@@ -4964,7 +4949,7 @@
   },
   "sharp": "0.0918",
   "mdd": "18.5209",
-  "std": "21.895",
+  "std": "21.9366",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -5068,7 +5053,7 @@
     "url": "https://fund.eastmoney.com/gonggao/019737,AN202610271830976105.html"
    }
   ],
-  "changed": false
+  "changed": true
  },
  {
   "code": "019738",
@@ -5080,7 +5065,7 @@
   "catName": "纳斯达克100",
   "indexName": "纳斯达克100指数",
   "indexCode": "NDX100",
-  "te": "1.82%",
+  "te": "",
   "feeTotal": "0.65%",
   "company": "宝盈基金",
   "manager": "蔡丹",
@@ -5246,7 +5231,7 @@
   "catName": "纳斯达克100",
   "indexName": "纳斯达克100指数",
   "indexCode": "NDX100",
-  "te": "1.82%",
+  "te": "",
   "feeTotal": "0.90%",
   "company": "宝盈基金",
   "manager": "蔡丹",
@@ -5462,7 +5447,7 @@
   },
   "sharp": "0.1105",
   "mdd": "18.9551",
-  "std": "22.2525",
+  "std": "22.291",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -5566,7 +5551,7 @@
     "url": "https://fund.eastmoney.com/gonggao/021000,AN202611061831475929.html"
    }
   ],
-  "changed": true
+  "changed": false
  },
  {
   "code": "021773",
@@ -5594,7 +5579,7 @@
   "rawBuyRate": "0.00%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限10元",
   "minBuy": "10",
   "maxBuy": "10",
@@ -5628,7 +5613,7 @@
   },
   "sharp": "0.0482",
   "mdd": "19.9744",
-  "std": "21.9701",
+  "std": "22.0061",
   "tgtEtf": {
    "code": "159660",
    "name": "纳指ETF汇添富"
@@ -5713,7 +5698,7 @@
   },
   "sharp": "0.0638",
   "mdd": "20.4889",
-  "std": "23.2046",
+  "std": "23.2452",
   "tgtEtf": {
    "code": "159941",
    "name": "纳指ETF广发"
@@ -5787,28 +5772,28 @@
   "canBuy": false,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
-  "nav": "1.9124",
-  "navDate": "2026-11-24",
-  "dayChg": -1.91,
+  "nav": "1.9013",
+  "navDate": "2026-11-25",
+  "dayChg": -0.58,
   "r": {
-   "w1": -2.76,
-   "m1": -8.99,
-   "m3": -9.9,
-   "m6": -11.52,
-   "y1": 0.71,
-   "y2": 15.12,
+   "w1": -3.69,
+   "m1": -9.52,
+   "m3": -10.98,
+   "m6": -11.96,
+   "y1": -0.39,
+   "y2": 14.36,
    "y3": null,
    "y5": null,
-   "ytd": 0.25,
-   "since": 21.05
+   "ytd": -0.33,
+   "since": 20.34
   },
   "rank": {
-   "m1": "206",
-   "sc": "363"
+   "m1": "115",
+   "sc": "223"
   },
   "sharp": "0.1663",
   "mdd": "18.2009",
-  "std": "22.0028",
+  "std": "22.0424",
   "tgtEtf": {
    "code": "159501",
    "name": "纳指ETF嘉实"
@@ -5903,7 +5888,7 @@
   },
   "sharp": "0.1107",
   "mdd": "18.8466",
-  "std": "22.0513",
+  "std": "22.0913",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -6007,7 +5992,7 @@
     "url": "https://fund.eastmoney.com/gonggao/022525,AN202609181829590491.html"
    }
   ],
-  "changed": true
+  "changed": false
  },
  {
   "code": "022664",
@@ -6033,19 +6018,19 @@
   "salesFee": "0.10%",
   "buyRate": "0.00%",
   "rawBuyRate": "0.00%",
-  "sgzt": "暂停申购",
-  "sgztMark": "",
-  "shzt": "暂停赎回",
-  "limitText": "单日累计购买上限5元",
+  "sgzt": "限大额",
+  "sgztMark": "限大额(单日累计购买上限5元。)",
+  "shzt": "开放赎回",
+  "limitText": "单日累计购买上限5元。",
   "minBuy": "5",
   "maxBuy": "5",
-  "limitSrc": "天天基金PC详情页",
-  "sgztPC": "暂停申购",
+  "limitSrc": "天天基金手机接口",
+  "sgztPC": "限大额",
   "shztPC": "",
   "pcOk": true,
   "canBuyPC": true,
   "sgztMatch": true,
-  "canBuy": false,
+  "canBuy": true,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
   "nav": "1.4612",
@@ -6069,7 +6054,7 @@
   },
   "sharp": "0.1162",
   "mdd": "18.5222",
-  "std": "21.9509",
+  "std": "21.9909",
   "tgtEtf": {
    "code": "513110",
    "name": "纳指ETF华泰柏瑞"
@@ -6102,7 +6087,7 @@
     "url": "https://fund.eastmoney.com/gonggao/022664,AN202611181831798488.html"
    }
   ],
-  "changed": false
+  "changed": true
  },
  {
   "code": "023422",
@@ -6128,19 +6113,19 @@
   "salesFee": "0.30%",
   "buyRate": "0.00%",
   "rawBuyRate": "0.00%",
-  "sgzt": "暂停申购",
-  "sgztMark": "",
-  "shzt": "暂停赎回",
-  "limitText": "单日累计购买上限10元",
+  "sgzt": "限大额",
+  "sgztMark": "限大额(单日累计购买上限10元。)",
+  "shzt": "开放赎回",
+  "limitText": "单日累计购买上限10元。",
   "minBuy": "10",
   "maxBuy": "10",
-  "limitSrc": "天天基金PC详情页",
-  "sgztPC": "暂停申购",
+  "limitSrc": "天天基金手机接口",
+  "sgztPC": "限大额",
   "shztPC": "",
   "pcOk": true,
   "canBuyPC": true,
   "sgztMatch": true,
-  "canBuy": false,
+  "canBuy": true,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
   "nav": "2.9819",
@@ -6164,7 +6149,7 @@
   },
   "sharp": "0.0739",
   "mdd": "18.1235",
-  "std": "21.9249",
+  "std": "21.9638",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -6268,7 +6253,7 @@
     "url": "https://fund.eastmoney.com/gonggao/023422,AN202610261830906334.html"
    }
   ],
-  "changed": false
+  "changed": true
  },
  {
   "code": "024237",
@@ -6309,28 +6294,28 @@
   "canBuy": false,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
-  "nav": "1.8758",
-  "navDate": "2026-11-24",
-  "dayChg": -1.91,
+  "nav": "1.8644",
+  "navDate": "2026-11-25",
+  "dayChg": -0.61,
   "r": {
-   "w1": -2.78,
-   "m1": -9.08,
-   "m3": -9.98,
-   "m6": -11.76,
-   "y1": 0.61,
+   "w1": -3.74,
+   "m1": -9.63,
+   "m3": -11.07,
+   "m6": -12.23,
+   "y1": -0.52,
    "y2": null,
    "y3": null,
    "y5": null,
-   "ytd": -0.07,
-   "since": 16.4
+   "ytd": -0.68,
+   "since": 15.69
   },
   "rank": {
-   "m1": "222",
-   "sc": "363"
+   "m1": "121",
+   "sc": "223"
   },
   "sharp": "0.1622",
   "mdd": "18.4233",
-  "std": "22.0726",
+  "std": "22.1118",
   "tgtEtf": {
    "code": "513390",
    "name": "纳指100ETF博时"
@@ -6386,7 +6371,7 @@
   "rawBuyRate": "1.20%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限5元",
   "minBuy": "5",
   "maxBuy": "5",
@@ -6420,7 +6405,7 @@
   },
   "sharp": "0.0852",
   "mdd": "20.2669",
-  "std": "23.1235",
+  "std": "23.1644",
   "tgtEtf": {
    "code": "159632",
    "name": "纳斯达克ETF华安"
@@ -6515,7 +6500,7 @@
   },
   "sharp": "0.3359",
   "mdd": "19.0134",
-  "std": "23.0987",
+  "std": "23.1407",
   "tgtEtf": {
    "code": "159632",
    "name": "纳斯达克ETF华安"
@@ -6610,7 +6595,7 @@
   },
   "sharp": "0.3359",
   "mdd": "19.0134",
-  "std": "23.0987",
+  "std": "23.1407",
   "tgtEtf": {
    "code": "159632",
    "name": "纳斯达克ETF华安"
@@ -6671,7 +6656,7 @@
   "rawBuyRate": "1.50%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限100元",
   "minBuy": "10",
   "maxBuy": "100",
@@ -6705,7 +6690,7 @@
   },
   "sharp": "0.1237",
   "mdd": "19.7002",
-  "std": "23.2913",
+  "std": "23.3309",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -6794,6 +6779,11 @@
   },
   "notices": [
    {
+    "date": "2026-11-25",
+    "title": "国泰基金管理有限公司关于直销系统升级暂停网上交易系统服务的通知",
+    "url": "https://fund.eastmoney.com/gonggao/160213,AN202611261832064215.html"
+   },
+   {
     "date": "2026-11-23",
     "title": "关于旗下部分基金2026年11月26日因境外主要投资市场节假日暂停申购、赎回、转换、定期定额投资业务的公告",
     "url": "https://fund.eastmoney.com/gonggao/160213,AN202611221831934228.html"
@@ -6802,11 +6792,6 @@
     "date": "2026-11-12",
     "title": "国泰基金管理有限公司关于系统升级暂停网上交易系统服务的通知",
     "url": "https://fund.eastmoney.com/gonggao/160213,AN202611121831652732.html"
-   },
-   {
-    "date": "2026-11-10",
-    "title": "国泰基金管理有限公司关于系统停机维护的通知",
-    "url": "https://fund.eastmoney.com/gonggao/160213,AN202611111831619705.html"
    }
   ],
   "changed": false
@@ -6837,7 +6822,7 @@
   "rawBuyRate": "1.20%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限10元",
   "minBuy": "10",
   "maxBuy": "10",
@@ -6850,28 +6835,28 @@
   "canBuy": false,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
-  "nav": "3.9453",
-  "navDate": "2026-11-24",
-  "dayChg": -1.89,
+  "nav": "3.9209",
+  "navDate": "2026-11-25",
+  "dayChg": -0.62,
   "r": {
-   "w1": -2.75,
-   "m1": -8.99,
-   "m3": -9.92,
-   "m6": -11.73,
-   "y1": 0.21,
-   "y2": 15.73,
-   "y3": 49.94,
-   "y5": 61.75,
-   "ytd": -0.24,
-   "since": 294.49
+   "w1": -3.74,
+   "m1": -9.55,
+   "m3": -11.04,
+   "m6": -12.21,
+   "y1": -0.89,
+   "y2": 14.9,
+   "y3": 49.02,
+   "y5": 60.56,
+   "ytd": -0.86,
+   "since": 292.05
   },
   "rank": {
-   "m1": "206",
-   "sc": "363"
+   "m1": "118",
+   "sc": "223"
   },
   "sharp": "0.1414",
   "mdd": "18.4206",
-  "std": "22.062",
+  "std": "22.0997",
   "tgtEtf": {
    "code": "159696",
    "name": "纳指ETF易方达"
@@ -6897,11 +6882,6 @@
     "date": "2026-11-24",
     "title": "易方达基金管理有限公司及易方达财富管理基金销售(广州)有限公司关于零售直销业务迁移安排的联合提示性公告",
     "url": "https://fund.eastmoney.com/gonggao/161130,AN202611231831963550.html"
-   },
-   {
-    "date": "2026-11-23",
-    "title": "关于旗下部分基金2026年11月26日暂停申购、赎回、转换、定期定额投资业务的提示性公告(2)",
-    "url": "https://fund.eastmoney.com/gonggao/161130,AN202611221831934225.html"
    }
   ],
   "changed": false
@@ -6932,7 +6912,7 @@
   "rawBuyRate": "1.30%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限10元",
   "minBuy": "2",
   "maxBuy": "10",
@@ -6966,7 +6946,7 @@
   },
   "sharp": "0.0715",
   "mdd": "20.4243",
-  "std": "23.2072",
+  "std": "23.2478",
   "tgtEtf": {
    "code": "159941",
    "name": "纳指ETF广发"
@@ -7025,19 +7005,19 @@
   "salesFee": "0.00%",
   "buyRate": "0.12%",
   "rawBuyRate": "1.20%",
-  "sgzt": "暂停申购",
-  "sgztMark": "",
-  "shzt": "暂停赎回",
-  "limitText": "单日累计购买上限10元",
+  "sgzt": "限大额",
+  "sgztMark": "限大额(单日累计购买上限10元。)",
+  "shzt": "开放赎回",
+  "limitText": "单日累计购买上限10元。",
   "minBuy": "10",
   "maxBuy": "10",
-  "limitSrc": "天天基金PC详情页",
-  "sgztPC": "暂停申购",
+  "limitSrc": "天天基金手机接口",
+  "sgztPC": "限大额",
   "shztPC": "",
   "pcOk": true,
   "canBuyPC": true,
   "sgztMatch": true,
-  "canBuy": false,
+  "canBuy": true,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
   "nav": "3.0691",
@@ -7061,7 +7041,7 @@
   },
   "sharp": "0.0876",
   "mdd": "18.0144",
-  "std": "21.9289",
+  "std": "21.9679",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -7165,7 +7145,7 @@
     "url": "https://fund.eastmoney.com/gonggao/539001,AN202610121830370524.html"
    }
   ],
-  "changed": false
+  "changed": true
  },
  {
   "code": "003718",
@@ -7193,7 +7173,7 @@
   "rawBuyRate": "1.20%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限0美元",
   "minBuy": "10",
   "maxBuy": "0.01",
@@ -7206,28 +7186,28 @@
   "canBuy": false,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
-  "nav": "0.4379",
-  "navDate": "2026-11-24",
-  "dayChg": -0.48,
+  "nav": "0.4368",
+  "navDate": "2026-11-25",
+  "dayChg": -0.25,
   "r": {
-   "w1": -1.79,
-   "m1": -5.24,
-   "m3": -5.54,
-   "m6": -3.38,
-   "y1": 7.65,
-   "y2": 19.58,
-   "y3": 53.87,
-   "y5": 50.12,
-   "ytd": 5.47,
-   "since": 201.17
+   "w1": -1.82,
+   "m1": -5.48,
+   "m3": -6.06,
+   "m6": -3.62,
+   "y1": 6.46,
+   "y2": 18.95,
+   "y3": 53.48,
+   "y5": 49.74,
+   "ytd": 5.2,
+   "since": 200.41
   },
   "rank": {
-   "m1": "118",
-   "sc": "363"
+   "m1": "68",
+   "sc": "223"
   },
   "sharp": "0.5816",
   "mdd": "10.9537",
-  "std": "14.185",
+  "std": "14.1652",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -7324,11 +7304,6 @@
     "date": "2026-11-23",
     "title": "关于旗下部分基金2026年11月26日暂停申购、赎回、转换、定期定额投资业务的提示性公告(2)",
     "url": "https://fund.eastmoney.com/gonggao/003718,AN202611221831934225.html"
-   },
-   {
-    "date": "2026-11-18",
-    "title": "易方达标普500指数证券投资基金(LOF)(易方达标普500指数(QDII-LOF)A(美元现汇份额))基金产品资料概要更新",
-    "url": "https://fund.eastmoney.com/gonggao/003718,AN202611181831804841.html"
    }
   ],
   "changed": false
@@ -7359,7 +7334,7 @@
   "rawBuyRate": "0.00%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限100元",
   "minBuy": "10",
   "maxBuy": "100",
@@ -7393,7 +7368,7 @@
   },
   "sharp": "0.1626",
   "mdd": "11.6622",
-  "std": "14.3272",
+  "std": "14.3069",
   "tgtEtf": {
    "code": "513500",
    "name": "标普500ETF博时"
@@ -7449,7 +7424,7 @@
   "rawBuyRate": "1.00%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限100元",
   "minBuy": "10",
   "maxBuy": "100",
@@ -7483,7 +7458,7 @@
   },
   "sharp": "0.1673",
   "mdd": "11.0752",
-  "std": "13.2119",
+  "std": "13.1979",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -7544,7 +7519,7 @@
   "rawBuyRate": "0.00%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限100元",
   "minBuy": "10",
   "maxBuy": "100",
@@ -7578,7 +7553,7 @@
   },
   "sharp": "0.1476",
   "mdd": "11.1318",
-  "std": "13.2085",
+  "std": "13.1946",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -7637,19 +7612,19 @@
   "salesFee": "0.30%",
   "buyRate": "0.00%",
   "rawBuyRate": "0.00%",
-  "sgzt": "暂停申购",
-  "sgztMark": "",
-  "shzt": "暂停赎回",
-  "limitText": "单日累计购买上限50元",
+  "sgzt": "限大额",
+  "sgztMark": "限大额(单日累计购买上限50元。)",
+  "shzt": "开放赎回",
+  "limitText": "单日累计购买上限50元。",
   "minBuy": "10",
   "maxBuy": "50",
-  "limitSrc": "天天基金PC详情页",
-  "sgztPC": "暂停申购",
+  "limitSrc": "天天基金手机接口",
+  "sgztPC": "限大额",
   "shztPC": "",
   "pcOk": true,
   "canBuyPC": true,
   "sgztMatch": true,
-  "canBuy": false,
+  "canBuy": true,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
   "nav": "2.7515",
@@ -7673,7 +7648,7 @@
   },
   "sharp": "0.6016",
   "mdd": "7.3486",
-  "std": "11.5364",
+  "std": "11.5213",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -7687,15 +7662,15 @@
     "chgType": "不变"
    },
    {
-    "code": "P",
-    "name": "Everpure Inc-A",
+    "code": "ILMN",
+    "name": "Illumina Inc",
     "pct": 0.26,
     "chg": "0.26",
     "chgType": "新增"
    },
    {
-    "code": "ILMN",
-    "name": "Illumina Inc",
+    "code": "P",
+    "name": "Everpure Inc-A",
     "pct": 0.26,
     "chg": "0.26",
     "chgType": "新增"
@@ -7777,7 +7752,7 @@
     "url": "https://fund.eastmoney.com/gonggao/008401,AN202610271830978653.html"
    }
   ],
-  "changed": false
+  "changed": true
  },
  {
   "code": "012860",
@@ -7805,7 +7780,7 @@
   "rawBuyRate": "0.00%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限10元",
   "minBuy": "10",
   "maxBuy": "10",
@@ -7818,28 +7793,28 @@
   "canBuy": false,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
-  "nav": "2.8851",
-  "navDate": "2026-11-24",
-  "dayChg": -0.49,
+  "nav": "2.8772",
+  "navDate": "2026-11-25",
+  "dayChg": -0.27,
   "r": {
-   "w1": -1.83,
-   "m1": -5.38,
-   "m3": -6.64,
-   "m6": -5.34,
-   "y1": 1.6,
-   "y2": 10.82,
-   "y3": 43.68,
-   "y5": 54.83,
-   "ytd": 0.38,
-   "since": 68.56
+   "w1": -1.87,
+   "m1": -5.64,
+   "m3": -7.19,
+   "m6": -5.52,
+   "y1": 0.49,
+   "y2": 10.26,
+   "y3": 43.29,
+   "y5": 54.24,
+   "ytd": 0.11,
+   "since": 68.1
   },
   "rank": {
-   "m1": "128",
-   "sc": "363"
+   "m1": "71",
+   "sc": "223"
   },
   "sharp": "0.1443",
   "mdd": "11.8258",
-  "std": "14.2096",
+  "std": "14.1892",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -7936,11 +7911,6 @@
     "date": "2026-11-23",
     "title": "关于旗下部分基金2026年11月26日暂停申购、赎回、转换、定期定额投资业务的提示性公告(2)",
     "url": "https://fund.eastmoney.com/gonggao/012860,AN202611221831934225.html"
-   },
-   {
-    "date": "2026-11-18",
-    "title": "易方达标普500指数证券投资基金(LOF)(易方达标普500指数(QDII-LOF)C(人民币份额))基金产品资料概要更新",
-    "url": "https://fund.eastmoney.com/gonggao/012860,AN202611181831805230.html"
    }
   ],
   "changed": false
@@ -7971,7 +7941,7 @@
   "rawBuyRate": "0.00%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限0美元",
   "minBuy": "10",
   "maxBuy": "0.01",
@@ -7984,28 +7954,28 @@
   "canBuy": false,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
-  "nav": "0.4299",
-  "navDate": "2026-11-24",
-  "dayChg": -0.46,
+  "nav": "0.4289",
+  "navDate": "2026-11-25",
+  "dayChg": -0.23,
   "r": {
-   "w1": -1.8,
-   "m1": -5.29,
-   "m3": -5.62,
-   "m6": -3.57,
-   "y1": 7.26,
-   "y2": 18.79,
-   "y3": 52.34,
-   "y5": 47.43,
-   "ytd": 5.14,
-   "since": 62.53
+   "w1": -1.81,
+   "m1": -5.51,
+   "m3": -6.13,
+   "m6": -3.77,
+   "y1": 6.08,
+   "y2": 18.22,
+   "y3": 51.98,
+   "y5": 47.09,
+   "ytd": 4.89,
+   "since": 62.16
   },
   "rank": {
-   "m1": "123",
-   "sc": "363"
+   "m1": "69",
+   "sc": "223"
   },
   "sharp": "0.5525",
   "mdd": "10.9795",
-  "std": "14.189",
+  "std": "14.1686",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -8102,11 +8072,6 @@
     "date": "2026-11-23",
     "title": "关于旗下部分基金2026年11月26日暂停申购、赎回、转换、定期定额投资业务的提示性公告(2)",
     "url": "https://fund.eastmoney.com/gonggao/012861,AN202611221831934225.html"
-   },
-   {
-    "date": "2026-11-18",
-    "title": "易方达标普500指数证券投资基金(LOF)(易方达标普500指数(QDII-LOF)C(美元现汇份额))基金产品资料概要更新",
-    "url": "https://fund.eastmoney.com/gonggao/012861,AN202611181831805123.html"
    }
   ],
   "changed": false
@@ -8171,7 +8136,7 @@
   },
   "sharp": "1.1639",
   "mdd": "7.3177",
-  "std": "11.4782",
+  "std": "11.4624",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -8234,15 +8199,15 @@
     "chgType": "新增"
    },
    {
-    "code": "PANW",
-    "name": "派拓网络",
+    "code": "MTD",
+    "name": "梅特勒-托利多",
     "pct": 0.23,
     "chg": "0.23",
     "chgType": "新增"
    },
    {
-    "code": "MTD",
-    "name": "梅特勒-托利多",
+    "code": "PANW",
+    "name": "派拓网络",
     "pct": 0.23,
     "chg": "0.23",
     "chgType": "新增"
@@ -8275,7 +8240,7 @@
     "url": "https://fund.eastmoney.com/gonggao/013404,AN202610271830978653.html"
    }
   ],
-  "changed": true
+  "changed": false
  },
  {
   "code": "013425",
@@ -8337,7 +8302,7 @@
   },
   "sharp": "0.5973",
   "mdd": "10.9842",
-  "std": "14.2984",
+  "std": "14.2786",
   "tgtEtf": {
    "code": "513500",
    "name": "标普500ETF博时"
@@ -8427,7 +8392,7 @@
   },
   "sharp": "0.5694",
   "mdd": "11.0168",
-  "std": "14.2953",
+  "std": "14.2751",
   "tgtEtf": {
    "code": "513500",
    "name": "标普500ETF博时"
@@ -8517,7 +8482,7 @@
   },
   "sharp": "1.1346",
   "mdd": "7.3477",
-  "std": "11.467",
+  "std": "11.4513",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -8621,7 +8586,7 @@
     "url": "https://fund.eastmoney.com/gonggao/015545,AN202610271830978653.html"
    }
   ],
-  "changed": true
+  "changed": false
  },
  {
   "code": "017028",
@@ -8649,7 +8614,7 @@
   "rawBuyRate": "1.00%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限1万元",
   "minBuy": "10",
   "maxBuy": "10000",
@@ -8683,7 +8648,7 @@
   },
   "sharp": "0.2857",
   "mdd": "11.5042",
-  "std": "14.2439",
+  "std": "14.2233",
   "tgtEtf": {
    "code": "159612",
    "name": "标普500ETF国泰"
@@ -8701,6 +8666,11 @@
   },
   "notices": [
    {
+    "date": "2026-11-25",
+    "title": "国泰基金管理有限公司关于直销系统升级暂停网上交易系统服务的通知",
+    "url": "https://fund.eastmoney.com/gonggao/017028,AN202611261832064215.html"
+   },
+   {
     "date": "2026-11-23",
     "title": "关于旗下部分基金2026年11月26日因境外主要投资市场节假日暂停申购、赎回、转换、定期定额投资业务的公告",
     "url": "https://fund.eastmoney.com/gonggao/017028,AN202611221831934228.html"
@@ -8709,11 +8679,6 @@
     "date": "2026-11-12",
     "title": "国泰基金管理有限公司关于系统升级暂停网上交易系统服务的通知",
     "url": "https://fund.eastmoney.com/gonggao/017028,AN202611121831652732.html"
-   },
-   {
-    "date": "2026-11-10",
-    "title": "国泰基金管理有限公司关于系统停机维护的通知",
-    "url": "https://fund.eastmoney.com/gonggao/017028,AN202611111831619705.html"
    }
   ],
   "changed": false
@@ -8744,7 +8709,7 @@
   "rawBuyRate": "0.00%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限1万元",
   "minBuy": "10",
   "maxBuy": "10000",
@@ -8778,7 +8743,7 @@
   },
   "sharp": "0.2639",
   "mdd": "11.5817",
-  "std": "14.2467",
+  "std": "14.2262",
   "tgtEtf": {
    "code": "159612",
    "name": "标普500ETF国泰"
@@ -8796,6 +8761,11 @@
   },
   "notices": [
    {
+    "date": "2026-11-25",
+    "title": "国泰基金管理有限公司关于直销系统升级暂停网上交易系统服务的通知",
+    "url": "https://fund.eastmoney.com/gonggao/017030,AN202611261832064215.html"
+   },
+   {
     "date": "2026-11-23",
     "title": "关于旗下部分基金2026年11月26日因境外主要投资市场节假日暂停申购、赎回、转换、定期定额投资业务的公告",
     "url": "https://fund.eastmoney.com/gonggao/017030,AN202611221831934228.html"
@@ -8804,11 +8774,6 @@
     "date": "2026-11-12",
     "title": "国泰基金管理有限公司关于系统升级暂停网上交易系统服务的通知",
     "url": "https://fund.eastmoney.com/gonggao/017030,AN202611121831652732.html"
-   },
-   {
-    "date": "2026-11-10",
-    "title": "国泰基金管理有限公司关于系统停机维护的通知",
-    "url": "https://fund.eastmoney.com/gonggao/017030,AN202611111831619705.html"
    }
   ],
   "changed": false
@@ -8839,7 +8804,7 @@
   "rawBuyRate": "1.20%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限100元",
   "minBuy": "10",
   "maxBuy": "100",
@@ -8873,7 +8838,7 @@
   },
   "sharp": "0.2553",
   "mdd": "24.3988",
-  "std": "26.0044",
+  "std": "26.0742",
   "tgtEtf": {
    "code": "159509",
    "name": "纳指科技ETF景顺"
@@ -9039,7 +9004,7 @@
   },
   "sharp": "0.4879",
   "mdd": "24.0223",
-  "std": "25.9915",
+  "std": "26.0631",
   "tgtEtf": {
    "code": "159509",
    "name": "纳指科技ETF景顺"
@@ -9171,7 +9136,7 @@
   "rawBuyRate": "0.00%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限100元",
   "minBuy": "10",
   "maxBuy": "100",
@@ -9205,7 +9170,7 @@
   },
   "sharp": "0.2385",
   "mdd": "24.4454",
-  "std": "25.9989",
+  "std": "26.0687",
   "tgtEtf": {
    "code": "159509",
    "name": "纳指科技ETF景顺"
@@ -9335,43 +9300,43 @@
   "salesFee": "0.00%",
   "buyRate": "0.15%",
   "rawBuyRate": "1.50%",
-  "sgzt": "暂停申购",
-  "sgztMark": "",
-  "shzt": "暂停赎回",
-  "limitText": "单日累计购买上限200元",
+  "sgzt": "限大额",
+  "sgztMark": "限大额(单日累计购买上限200元。)",
+  "shzt": "开放赎回",
+  "limitText": "单日累计购买上限200元。",
   "minBuy": "10",
   "maxBuy": "200",
-  "limitSrc": "天天基金PC详情页",
-  "sgztPC": "暂停申购",
+  "limitSrc": "天天基金手机接口",
+  "sgztPC": "限大额",
   "shztPC": "",
   "pcOk": true,
   "canBuyPC": true,
   "sgztMatch": true,
-  "canBuy": false,
+  "canBuy": true,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
-  "nav": "1.8534",
-  "navDate": "2026-11-24",
-  "dayChg": -3.63,
+  "nav": "1.8397",
+  "navDate": "2026-11-25",
+  "dayChg": -0.74,
   "r": {
-   "w1": -5.73,
-   "m1": -15.22,
-   "m3": -18.37,
-   "m6": -22.53,
-   "y1": -16.46,
-   "y2": 2.46,
-   "y3": 38.52,
+   "w1": -5.87,
+   "m1": -15.84,
+   "m3": -20.46,
+   "m6": -23.03,
+   "y1": -17.28,
+   "y2": 1.84,
+   "y3": 37.5,
    "y5": null,
-   "ytd": -16.33,
-   "since": 85.34
+   "ytd": -16.94,
+   "since": 83.97
   },
   "rank": {
-   "m1": "73",
-   "sc": "87"
+   "m1": "27",
+   "sc": "36"
   },
   "sharp": "-0.402",
   "mdd": "30.0289",
-  "std": "29.2299",
+  "std": "29.1723",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -9465,7 +9430,7 @@
     "url": "https://fund.eastmoney.com/gonggao/017436,AN202611071831507683.html"
    }
   ],
-  "changed": false
+  "changed": true
  },
  {
   "code": "017437",
@@ -9491,43 +9456,43 @@
   "salesFee": "0.40%",
   "buyRate": "0.00%",
   "rawBuyRate": "0.00%",
-  "sgzt": "暂停申购",
-  "sgztMark": "",
-  "shzt": "暂停赎回",
-  "limitText": "单日累计购买上限200元",
+  "sgzt": "限大额",
+  "sgztMark": "限大额(单日累计购买上限200元。)",
+  "shzt": "开放赎回",
+  "limitText": "单日累计购买上限200元。",
   "minBuy": "10",
   "maxBuy": "200",
-  "limitSrc": "天天基金PC详情页",
-  "sgztPC": "暂停申购",
+  "limitSrc": "天天基金手机接口",
+  "sgztPC": "限大额",
   "shztPC": "",
   "pcOk": true,
   "canBuyPC": true,
   "sgztMatch": true,
-  "canBuy": false,
+  "canBuy": true,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
-  "nav": "1.8274",
-  "navDate": "2026-11-24",
-  "dayChg": -3.63,
+  "nav": "1.8140",
+  "navDate": "2026-11-25",
+  "dayChg": -0.73,
   "r": {
-   "w1": -5.75,
-   "m1": -15.25,
-   "m3": -18.46,
-   "m6": -22.69,
-   "y1": -16.8,
-   "y2": 1.64,
-   "y3": 36.86,
+   "w1": -5.88,
+   "m1": -15.87,
+   "m3": -20.54,
+   "m6": -23.18,
+   "y1": -17.6,
+   "y2": 1.04,
+   "y3": 35.86,
    "y5": null,
-   "ytd": -16.63,
-   "since": 82.74
+   "ytd": -17.24,
+   "since": 81.4
   },
   "rank": {
-   "m1": "74",
-   "sc": "87"
+   "m1": "28",
+   "sc": "36"
   },
   "sharp": "-0.4213",
   "mdd": "30.1635",
-  "std": "28.7468",
+  "std": "28.6965",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -9621,7 +9586,7 @@
     "url": "https://fund.eastmoney.com/gonggao/017437,AN202611071831507683.html"
    }
   ],
-  "changed": false
+  "changed": true
  },
  {
   "code": "017641",
@@ -9647,19 +9612,19 @@
   "salesFee": "0.00%",
   "buyRate": "0.12%",
   "rawBuyRate": "1.20%",
-  "sgzt": "暂停申购",
-  "sgztMark": "",
-  "shzt": "暂停赎回",
-  "limitText": "单日累计购买上限10元",
+  "sgzt": "限大额",
+  "sgztMark": "限大额(单日累计购买上限10元。)",
+  "shzt": "开放赎回",
+  "limitText": "单日累计购买上限10元。",
   "minBuy": "10",
   "maxBuy": "10",
-  "limitSrc": "天天基金PC详情页",
-  "sgztPC": "暂停申购",
+  "limitSrc": "天天基金手机接口",
+  "sgztPC": "限大额",
   "shztPC": "",
   "pcOk": true,
   "canBuyPC": true,
   "sgztMatch": true,
-  "canBuy": false,
+  "canBuy": true,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
   "nav": "1.5939",
@@ -9683,7 +9648,7 @@
   },
   "sharp": "0.2037",
   "mdd": "11.2754",
-  "std": "13.8948",
+  "std": "13.8753",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -9771,7 +9736,7 @@
    "date": "2026-09-30"
   },
   "notices": [],
-  "changed": false
+  "changed": true
  },
  {
   "code": "017642",
@@ -9833,7 +9798,7 @@
   },
   "sharp": "0.623",
   "mdd": "10.6948",
-  "std": "13.8996",
+  "std": "13.88",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -9921,7 +9886,7 @@
    "date": "2026-09-30"
   },
   "notices": [],
-  "changed": true
+  "changed": false
  },
  {
   "code": "017643",
@@ -9983,7 +9948,7 @@
   },
   "sharp": "0.623",
   "mdd": "10.6948",
-  "std": "13.8996",
+  "std": "13.88",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -10071,7 +10036,7 @@
    "date": "2026-09-30"
   },
   "notices": [],
-  "changed": true
+  "changed": false
  },
  {
   "code": "017894",
@@ -10097,19 +10062,19 @@
   "salesFee": "0.00%",
   "buyRate": "0.12%",
   "rawBuyRate": "1.20%",
-  "sgzt": "暂停申购",
-  "sgztMark": "",
-  "shzt": "暂停赎回",
-  "limitText": "单日累计购买上限10元",
+  "sgzt": "限大额",
+  "sgztMark": "限大额(单日累计购买上限10元。)",
+  "shzt": "开放赎回",
+  "limitText": "单日累计购买上限10元。",
   "minBuy": "10",
   "maxBuy": "10",
-  "limitSrc": "天天基金PC详情页",
-  "sgztPC": "暂停申购",
+  "limitSrc": "天天基金手机接口",
+  "sgztPC": "限大额",
   "shztPC": "",
   "pcOk": true,
   "canBuyPC": true,
   "sgztMatch": true,
-  "canBuy": false,
+  "canBuy": true,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
   "nav": "1.6765",
@@ -10133,7 +10098,7 @@
   },
   "sharp": "0.6709",
   "mdd": "9.7454",
-  "std": "22.6422",
+  "std": "23.1618",
   "tgtEtf": {
    "code": "513290",
    "name": "纳指生物科技ETF汇添富"
@@ -10156,7 +10121,7 @@
     "url": "https://fund.eastmoney.com/gonggao/017894,AN202611181831821050.html"
    }
   ],
-  "changed": false
+  "changed": true
  },
  {
   "code": "017895",
@@ -10182,19 +10147,19 @@
   "salesFee": "0.25%",
   "buyRate": "0.00%",
   "rawBuyRate": "0.00%",
-  "sgzt": "暂停申购",
-  "sgztMark": "",
-  "shzt": "暂停赎回",
-  "limitText": "单日累计购买上限10元",
+  "sgzt": "限大额",
+  "sgztMark": "限大额(单日累计购买上限10元。)",
+  "shzt": "开放赎回",
+  "limitText": "单日累计购买上限10元。",
   "minBuy": "10",
   "maxBuy": "10",
-  "limitSrc": "天天基金PC详情页",
-  "sgztPC": "暂停申购",
+  "limitSrc": "天天基金手机接口",
+  "sgztPC": "限大额",
   "shztPC": "",
   "pcOk": true,
   "canBuyPC": true,
   "sgztMatch": true,
-  "canBuy": false,
+  "canBuy": true,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
   "nav": "1.6620",
@@ -10218,7 +10183,7 @@
   },
   "sharp": "0.6581",
   "mdd": "9.7762",
-  "std": "22.6415",
+  "std": "23.16",
   "tgtEtf": {
    "code": "513290",
    "name": "纳指生物科技ETF汇添富"
@@ -10241,7 +10206,7 @@
     "url": "https://fund.eastmoney.com/gonggao/017895,AN202611181831821050.html"
    }
   ],
-  "changed": false
+  "changed": true
  },
  {
   "code": "017951",
@@ -10269,7 +10234,7 @@
   "rawBuyRate": "1.20%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限0美元",
   "minBuy": "10",
   "maxBuy": "0.01",
@@ -10303,7 +10268,7 @@
   },
   "sharp": "0.9614",
   "mdd": "8.9949",
-  "std": "22.5718",
+  "std": "23.0915",
   "tgtEtf": {
    "code": "513290",
    "name": "纳指生物科技ETF汇添富"
@@ -10388,7 +10353,7 @@
   },
   "sharp": "0.9623",
   "mdd": "8.9249",
-  "std": "22.5702",
+  "std": "23.0898",
   "tgtEtf": {
    "code": "513290",
    "name": "纳指生物科技ETF汇添富"
@@ -10439,7 +10404,7 @@
   "rawBuyRate": "1.20%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限100元",
   "minBuy": "10",
   "maxBuy": "100",
@@ -10452,28 +10417,28 @@
   "canBuy": false,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
-  "nav": "1.5939",
-  "navDate": "2026-11-24",
-  "dayChg": -0.47,
+  "nav": "1.5921",
+  "navDate": "2026-11-25",
+  "dayChg": -0.11,
   "r": {
-   "w1": -1.78,
-   "m1": -5.24,
-   "m3": -6.16,
-   "m6": -4.86,
-   "y1": 1.77,
-   "y2": 10.7,
-   "y3": 41.89,
+   "w1": -1.68,
+   "m1": -5.34,
+   "m3": -6.56,
+   "m6": -4.83,
+   "y1": 0.93,
+   "y2": 10.28,
+   "y3": 41.73,
    "y5": null,
-   "ytd": 1.26,
-   "since": 59.39
+   "ytd": 1.14,
+   "since": 59.21
   },
   "rank": {
-   "m1": "118",
-   "sc": "363"
+   "m1": "65",
+   "sc": "223"
   },
   "sharp": "0.1528",
   "mdd": "11.4886",
-  "std": "14.2034",
+  "std": "14.1826",
   "tgtEtf": {
    "code": "159655",
    "name": "标普500ETF华夏"
@@ -10549,7 +10514,7 @@
   "rawBuyRate": "0.00%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限100元",
   "minBuy": "10",
   "maxBuy": "100",
@@ -10562,43 +10527,43 @@
   "canBuy": false,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
-  "nav": "1.5770",
-  "navDate": "2026-11-24",
-  "dayChg": -0.48,
+  "nav": "1.5753",
+  "navDate": "2026-11-25",
+  "dayChg": -0.11,
   "r": {
-   "w1": -1.79,
-   "m1": -5.27,
-   "m3": -6.24,
-   "m6": -5.01,
-   "y1": 1.46,
-   "y2": 10.04,
-   "y3": 40.62,
+   "w1": -1.69,
+   "m1": -5.37,
+   "m3": -6.63,
+   "m6": -4.98,
+   "y1": 0.63,
+   "y2": 9.62,
+   "y3": 40.46,
    "y5": null,
-   "ytd": 0.98,
-   "since": 57.7
+   "ytd": 0.87,
+   "since": 57.53
   },
   "rank": {
-   "m1": "122",
-   "sc": "363"
+   "m1": "67",
+   "sc": "223"
   },
   "sharp": "0.131",
   "mdd": "11.555",
-  "std": "14.1969",
+  "std": "14.1763",
   "tgtEtf": {
    "code": "159655",
    "name": "标普500ETF华夏"
   },
   "holdings": [
    {
-    "code": "920162",
-    "name": "莫森泰克",
+    "code": "920157",
+    "name": "宇特光电",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
    },
    {
-    "code": "920157",
-    "name": "宇特光电",
+    "code": "920162",
+    "name": "莫森泰克",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -10672,43 +10637,43 @@
   "canBuy": false,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
-  "nav": "0.2392",
-  "navDate": "2026-11-24",
-  "dayChg": -0.46,
+  "nav": "0.2386",
+  "navDate": "2026-11-25",
+  "dayChg": -0.25,
   "r": {
-   "w1": -1.73,
-   "m1": -5.12,
-   "m3": -5.3,
-   "m6": -3.0,
-   "y1": 8.53,
-   "y2": 20.38,
-   "y3": 52.36,
+   "w1": -1.77,
+   "m1": -5.36,
+   "m3": -5.84,
+   "m6": -3.24,
+   "y1": 7.33,
+   "y2": 19.78,
+   "y3": 51.97,
    "y5": null,
-   "ytd": 6.26,
-   "since": 64.29
+   "ytd": 6.0,
+   "since": 63.87
   },
   "rank": {
-   "m1": "111",
-   "sc": "363"
+   "m1": "66",
+   "sc": "223"
   },
   "sharp": "0.4908",
   "mdd": "10.926",
-  "std": "14.323",
+  "std": "14.2541",
   "tgtEtf": {
    "code": "159655",
    "name": "标普500ETF华夏"
   },
   "holdings": [
    {
-    "code": "920162",
-    "name": "莫森泰克",
+    "code": "920157",
+    "name": "宇特光电",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
    },
    {
-    "code": "920157",
-    "name": "宇特光电",
+    "code": "920162",
+    "name": "莫森泰克",
     "pct": 0.0,
     "chg": "0",
     "chgType": "新增"
@@ -10803,7 +10768,7 @@
   },
   "sharp": "0.1877",
   "mdd": "11.581",
-  "std": "14.3312",
+  "std": "14.311",
   "tgtEtf": {
    "code": "513500",
    "name": "标普500ETF博时"
@@ -10859,7 +10824,7 @@
   "rawBuyRate": "0.00%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限100元",
   "minBuy": "10",
   "maxBuy": "100",
@@ -10893,7 +10858,7 @@
   },
   "sharp": "0.2469",
   "mdd": "24.4195",
-  "std": "25.9995",
+  "std": "26.0691",
   "tgtEtf": {
    "code": "159509",
    "name": "纳指科技ETF景顺"
@@ -11023,19 +10988,19 @@
   "salesFee": "0.30%",
   "buyRate": "0.00%",
   "rawBuyRate": "0.00%",
-  "sgzt": "暂停申购",
-  "sgztMark": "",
-  "shzt": "暂停赎回",
-  "limitText": "单日累计购买上限10元",
+  "sgzt": "限大额",
+  "sgztMark": "限大额(单日累计购买上限10元。)",
+  "shzt": "开放赎回",
+  "limitText": "单日累计购买上限10元。",
   "minBuy": "10",
   "maxBuy": "10",
-  "limitSrc": "天天基金PC详情页",
-  "sgztPC": "暂停申购",
+  "limitSrc": "天天基金手机接口",
+  "sgztPC": "限大额",
   "shztPC": "",
   "pcOk": true,
   "canBuyPC": true,
   "sgztMatch": true,
-  "canBuy": false,
+  "canBuy": true,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
   "nav": "1.5778",
@@ -11059,7 +11024,7 @@
   },
   "sharp": "0.1807",
   "mdd": "11.3573",
-  "std": "13.8909",
+  "std": "13.8711",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -11147,7 +11112,7 @@
    "date": "2026-09-30"
   },
   "notices": [],
-  "changed": false
+  "changed": true
  },
  {
   "code": "022523",
@@ -11209,7 +11174,7 @@
   },
   "sharp": "0.1469",
   "mdd": "11.1427",
-  "std": "13.2059",
+  "std": "13.192",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -11242,7 +11207,7 @@
     "url": "https://fund.eastmoney.com/gonggao/022523,AN202610211830735264.html"
    }
   ],
-  "changed": true
+  "changed": false
  },
  {
   "code": "050025",
@@ -11270,7 +11235,7 @@
   "rawBuyRate": "1.20%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限100元",
   "minBuy": "10",
   "maxBuy": "100",
@@ -11304,7 +11269,7 @@
   },
   "sharp": "0.1884",
   "mdd": "11.5791",
-  "std": "14.3296",
+  "std": "14.3094",
   "tgtEtf": {
    "code": "513500",
    "name": "标普500ETF博时"
@@ -11358,19 +11323,19 @@
   "salesFee": "0.00%",
   "buyRate": "0.15%",
   "rawBuyRate": "1.50%",
-  "sgzt": "暂停申购",
-  "sgztMark": "",
-  "shzt": "暂停赎回",
-  "limitText": "单日累计购买上限50元",
+  "sgzt": "限大额",
+  "sgztMark": "限大额(单日累计购买上限50元。)",
+  "shzt": "开放赎回",
+  "limitText": "单日累计购买上限50元。",
   "minBuy": "10",
   "maxBuy": "50",
-  "limitSrc": "天天基金PC详情页",
-  "sgztPC": "暂停申购",
+  "limitSrc": "天天基金手机接口",
+  "sgztPC": "限大额",
   "shztPC": "",
   "pcOk": true,
   "canBuyPC": true,
   "sgztMatch": true,
-  "canBuy": false,
+  "canBuy": true,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
   "nav": "2.7692",
@@ -11394,7 +11359,7 @@
   },
   "sharp": "0.6301",
   "mdd": "7.3223",
-  "std": "11.538",
+  "std": "11.523",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -11498,7 +11463,7 @@
     "url": "https://fund.eastmoney.com/gonggao/096001,AN202610271830978653.html"
    }
   ],
-  "changed": false
+  "changed": true
  },
  {
   "code": "161125",
@@ -11526,7 +11491,7 @@
   "rawBuyRate": "1.20%",
   "sgzt": "暂停申购",
   "sgztMark": "",
-  "shzt": "暂停赎回",
+  "shzt": "开放赎回",
   "limitText": "单日累计购买上限10元",
   "minBuy": "10",
   "maxBuy": "10",
@@ -11539,28 +11504,28 @@
   "canBuy": false,
   "confirmDays": "7个交易日左右",
   "redeemDays": "一般3个月内",
-  "nav": "2.9386",
-  "navDate": "2026-11-24",
-  "dayChg": -0.49,
+  "nav": "2.9306",
+  "navDate": "2026-11-25",
+  "dayChg": -0.27,
   "r": {
-   "w1": -1.82,
-   "m1": -5.35,
-   "m3": -6.57,
-   "m6": -5.18,
-   "y1": 1.95,
-   "y2": 11.54,
-   "y3": 45.12,
-   "y5": 57.63,
-   "ytd": 0.7,
-   "since": 193.86
+   "w1": -1.86,
+   "m1": -5.61,
+   "m3": -7.12,
+   "m6": -5.35,
+   "y1": 0.84,
+   "y2": 10.97,
+   "y3": 44.72,
+   "y5": 57.04,
+   "ytd": 0.43,
+   "since": 193.06
   },
   "rank": {
-   "m1": "126",
-   "sc": "363"
+   "m1": "70",
+   "sc": "223"
   },
   "sharp": "0.1702",
   "mdd": "11.7493",
-  "std": "14.2154",
+  "std": "14.1951",
   "tgtEtf": {
    "code": "",
    "name": ""
@@ -11657,11 +11622,6 @@
     "date": "2026-11-23",
     "title": "关于旗下部分基金2026年11月26日暂停申购、赎回、转换、定期定额投资业务的提示性公告(2)",
     "url": "https://fund.eastmoney.com/gonggao/161125,AN202611221831934225.html"
-   },
-   {
-    "date": "2026-11-18",
-    "title": "易方达标普500指数证券投资基金(LOF)(易方达标普500指数(QDII-LOF)A(美元现汇份额))基金产品资料概要更新",
-    "url": "https://fund.eastmoney.com/gonggao/161125,AN202611181831804841.html"
    }
   ],
   "changed": false
